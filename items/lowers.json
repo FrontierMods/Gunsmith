@@ -1,0 +1,43 @@
+[
+
+	{
+	
+		"abstract": "receiver_lower",
+		"type": "GUN",
+		
+		"name": { "str": "Lower receiver" },
+		"description": "idea of a lower receiver",
+		
+		"weight": "250 g",
+		"volume": "250 ml",
+		
+		"material": [ "steel" ],
+		
+		"//range": "prevents the gun from firing; barrel adds range",
+		"range": 0
+	
+	},
+	
+	{
+	
+		"abstract": "receiver_lower_rifle",
+		"copy-from": "receiver_lower",
+		"type": "GUN",
+		
+		"name": { "str": "Rifle lower receiver" },
+		"description": "idea of a rifle lower receiver",
+		
+		"skill": "rifle",
+		
+		"valid_mod_locations": [
+		
+			[ "grip",           1 ],
+			[ "upper receiver", 1 ],
+			[ "stock base",     1 ],
+			[ "magwell",        1 ]
+		
+		]
+	
+	}
+
+]
