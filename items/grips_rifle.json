@@ -1,0 +1,53 @@
+[
+
+	{
+	
+		"abstract": "grip_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "rifle grip" },
+		"description": "idea of a rifle grip",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		
+		"material": [ "plastic" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "grip",
+		"install_time": "30 s",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow"
+			
+		]
+	
+	},
+	
+	{
+	
+		"id": "grip_rifle_a2",
+		"copy-from": "grip_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "A2 rifle grip" },
+		"description": "TBD",
+		
+		"//source": "Colt A2 grip",
+		
+		"weight": "110 g",
+		"//volume": "roughly from dimensions: 5.5 x 3 x 11 cm; originally 181 ml",
+		"volume": "127 ml",
+		"longest_side": "11 cm",
+		
+		"price": "10 USD"
+	
+	}
+
+]
