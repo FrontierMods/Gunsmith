@@ -1,0 +1,83 @@
+[
+
+	{
+	
+		"abstract": "barrel_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "barrel" },
+		"description": "idea of a barrel",
+		
+		"weight": "250 g",
+		"volume": "250 ml",
+		"longest_side": "41 cm",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"//range_modifier": "It makes little sense that guns cannot reach beyond a certain range, as though bullets have the drop of an arrow",
+		"range_modifier": 120,
+		
+		"location": "barrel",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "barrel_rifle",
+		"copy-from": "barrel_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Rifle barrel" },
+		"description": "idea of a rifle barrel",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"add_mod": [
+		
+			[ "gas block", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "barrel_rifle_threaded",
+		"copy-from": "barrel_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Threaded rifle barrel" },
+		"description": "idea of a threaded rifle barrel",
+		
+		"add_mod": [
+		
+			[ "gas block", 1 ],
+			[ "muzzle",    1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"id": "barrel_rifle_m16",
+		"copy-from": "barrel_rifle_threaded",
+		"type": "GUNMOD",
+		
+		"name": { "str": "20-in. M16??? barrel" },
+		"description": "TBD",
+		
+		"weight": "796 g",
+		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
+		"volume": "117 ml",
+		"longest_side": "51 cm",
+		
+		"price": "250 USD"
+	
+	}
+
+]
