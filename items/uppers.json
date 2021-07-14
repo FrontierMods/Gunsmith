@@ -40,6 +40,30 @@
 		
 		]
 	
+	},
+	
+	{
+	
+		"abstract": "receiver_upper_rifle_ar15",
+		"copy-from": "receiver_upper_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-type rifle upper receiver" },
+		"description": "idea of an AR-15-type rifle upper receiver",
+		
+		"//NOTE": "includes port door, forward assist",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"add_mod": [
+		
+			[ "barrel",             1 ],
+			[ "brass catcher",      1 ],
+			[ "bolt carrier group", 1 ],
+			[ "charging handle",    1 ]
+		
+		]
+	
 	}
 
 ]
