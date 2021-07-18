@@ -38,7 +38,8 @@
 		
 		"add_mod": [
 		
-			[ "gas block", 1 ]
+			[ "gas block", 1 ],
+			[ "handguard", 1 ]
 		
 		]
 	
@@ -56,6 +57,7 @@
 		"add_mod": [
 		
 			[ "gas block", 1 ],
+			[ "handguard", 1 ],
 			[ "muzzle",    1 ]
 		
 		]
