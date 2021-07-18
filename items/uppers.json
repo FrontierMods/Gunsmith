@@ -51,7 +51,7 @@
 		"name": { "str": "AR-15-type rifle upper receiver" },
 		"description": "idea of an AR-15-type rifle upper receiver",
 		
-		"//NOTE": "includes port door, forward assist",
+		"//includes": "port door, forward assist",
 		
 		"mod_targets": [ "rifle" ],
 		
