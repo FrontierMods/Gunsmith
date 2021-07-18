@@ -1,0 +1,44 @@
+[
+
+	{
+	
+		"abstract": "charging_handle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "charging handle" },
+		"description": "idea of a charging handle",
+		
+		"weight": "250 g",
+		"volume": "250 ml",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"location": "charging handle",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"id": "charging_handle_ar15",
+		"copy-from": "charging_handle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "charging handle" },
+		"description": "TBD",
+		
+		"weight": "250 g",
+		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
+		"volume": "250 ml",
+		"longest_side": "51 cm",
+		
+		"price": "250 USD"
+	
+	}
+
+]
