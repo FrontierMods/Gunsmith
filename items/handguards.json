@@ -1,0 +1,90 @@
+[
+
+	{
+	
+		"abstract": "handguard",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Handguard" },
+		"description": "idea of a handguard",
+		
+		"weight": "250 g",
+		"volume": "250 ml",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "handguard",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "handguard_rifle",
+		"copy-from": "handguard",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Rifle handguard" },
+		"description": "idea of a rifle handguard",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"add_mod": [
+		
+			[ "rail",        2 ],
+			[ "underbarrel", 1 ],
+			[ "upper rail",  1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"//TODO": "add extended shotgun handguards: these have siderails",
+	
+		"abstract": "handguard_shotgun",
+		"copy-from": "handguard",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Shotgun handguard" },
+		"description": "idea of a shotgun handguard",
+		
+		"mod_targets": [ "shotgun" ],
+		
+		"add_mod": [
+		
+			[ "underbarrel", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "handguard_rifle_ar15",
+		"copy-from": "handguard_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-type rifle handguard" },
+		"description": "idea of an AR-15-type rifle handguard",
+		
+		"//includes": "port door, forward assist",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"add_mod": [
+		
+			[ "barrel",             1 ],
+			[ "brass catcher",      1 ],
+			[ "bolt carrier group", 1 ],
+			[ "charging handle",    1 ]
+		
+		]
+	
+	}
+
+]
