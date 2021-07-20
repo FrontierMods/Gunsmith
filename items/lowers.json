@@ -54,13 +54,22 @@
 		"name": { "str": "AR-15" },
 		"description": "TBD",
 		
-		"default_mods": [
 		"skill": "rifle",
 		
 		
-			"TODO: add default parts once those exist"
 		
 		],
+		
+		"default_mods": [
+		
+			"receiver_upper_rifle_ar15_factory",
+			"barrel_rifle_ar15_223",
+			"buffer_tube_ar15",
+			"gas_block_rifle_ar15",
+			"grip_rifle_a2",
+			"charging_handle_ar15",
+			"bolt_carrier_group_rifle_ar15",
+			"handguard_rifle_ar15_factory"
 		
 		]
 	
