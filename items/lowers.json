@@ -56,7 +56,13 @@
 		
 		"skill": "rifle",
 		
+		"valid_mod_locations": [
 		
+			[ "grip",           1 ],
+			[ "sling",          1 ],
+			[ "upper receiver", 1 ],
+			[ "buffer tube",    1 ],
+			[ "magwell",        1 ]
 		
 		],
 		
