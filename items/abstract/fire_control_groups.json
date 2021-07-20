@@ -1,0 +1,46 @@
+[
+
+	{
+	
+		"abstract": "fire_control_group_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "fire control group" },
+		"description": "idea of a fire control group",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		
+		"integral_volume": "0 ml",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "fire control group",
+		"install_time": "30 s",
+		
+		"//add_mod": "simulating the idea that this is an essential part of the firing mechanism",
+		"add_mod": [
+		
+			[ "upper receiver", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "fire_control_group_rifle",
+		"copy-from": "fire_control_group_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Rifle fire control group" },
+		"description": "idea of a rifle fire control group",
+		
+		"mod_targets": [ "rifle" ]
+	
+	}
+
+]

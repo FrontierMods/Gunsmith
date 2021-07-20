@@ -39,13 +39,6 @@
 		"name": { "str": "AR-15 factory upper receiver" },
 		"description": "AR-15 factory upper receiver",
 		
-		"mode_modifier": [
-		
-			[ "DEFAULT", "semi",  1 ], 
-			[ "BURST",   "burst", 3 ]
-		
-		],
-		
 		"ammo_modifier": [
 		
 			"223",

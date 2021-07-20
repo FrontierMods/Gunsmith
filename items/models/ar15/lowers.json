@@ -13,11 +13,11 @@
 		
 		"valid_mod_locations": [
 		
-			[ "grip",           1 ],
-			[ "sling",          1 ],
-			[ "upper receiver", 1 ],
-			[ "buffer tube",    1 ],
-			[ "magwell",        1 ]
+			[ "grip",               1 ],
+			[ "sling",              1 ],
+			[ "fire control group", 1 ],
+			[ "buffer tube",        1 ],
+			[ "magwell",            1 ]
 		
 		],
 		
@@ -29,6 +29,7 @@
 			"gas_block_rifle_ar15",
 			"grip_rifle_a2",
 			"charging_handle_ar15",
+			"fire_control_group_rifle_ar15_factory",
 			"bolt_carrier_group_rifle_ar15_factory",
 			"handguard_rifle_ar15_factory"
 		
