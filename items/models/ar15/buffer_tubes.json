@@ -1,0 +1,18 @@
+[
+
+	{
+	
+		"id": "buffer_tube_ar15",
+		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15 buffer tube" },
+		"description": "TBD",
+		
+		"mod_targets": [ "ar15" ],
+		
+		"price": "45 USD"
+	
+	}
+
+]

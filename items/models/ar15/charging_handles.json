@@ -1,0 +1,17 @@
+[
+
+	{
+	
+		"id": "charging_handle_ar15",
+		"copy-from": "charging_handle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15 charging handle" },
+		"description": "TBD",
+		
+		"longest_side": "5 cm"
+	
+	}
+
+
+]

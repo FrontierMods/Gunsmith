@@ -1,0 +1,45 @@
+[
+
+	{
+	
+		"abstract": "receiver_upper",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Upper receiver" },
+		"description": "idea of a upper receiver",
+		
+		"weight": "250 g",
+		"volume": "250 ml",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "upper receiver",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "receiver_upper_rifle",
+		"copy-from": "receiver_upper",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Rifle upper receiver" },
+		"description": "idea of a rifle upper receiver",
+		
+		"mod_targets": [ "rifle" ],
+		
+		"add_mod": [
+		
+			[ "sights",             1 ],
+			[ "brass catcher",      1 ],
+			[ "bolt carrier group", 1 ]
+		
+		]
+	
+	}
+
+]

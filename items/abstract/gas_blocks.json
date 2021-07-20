@@ -32,26 +32,6 @@
 		
 		"mod_targets": [ "rifle" ]
 	
-	},
-	
-	{
-	
-		"id": "gas_block_rifle_ar15",
-		"copy-from": "gas_block_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15 gas block" },
-		"description": "TBD",
-		
-		"//source": "Kaw Valley Precision gas block",
-		
-		"weight": "47 g",
-		"//volume": "roughly from dimensions; originally 20 ml",
-		"volume": "12 ml",
-		"longest_side": "4 cm",
-		
-		"price": "45 USD"
-	
 	}
 
 ]

@@ -41,23 +41,6 @@
 		
 		"mod_targets": [ "rifle" ]
 	
-	},
-	
-	{
-	
-		"id": "bolt_carrier_group_rifle_ar15_factory",
-		"copy-from": "bolt_carrier_group_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15 factory bolt carrier group" },
-		"description": "TBD",
-		
-		"weight": "50 g",
-		"volume": "50 ml",
-		"longest_side": "50 cm",
-		
-		"price": "45 USD"
-	
 	}
 
 ]

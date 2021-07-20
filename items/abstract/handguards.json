@@ -66,28 +66,6 @@
 		
 		]
 	
-	},
-	
-	{
-	
-		"abstract": "handguard_rifle_ar15",
-		"copy-from": "handguard_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-type rifle handguard" },
-		"description": "idea of an AR-15-type rifle handguard"
-	
-	},
-	
-	{
-	
-		"id": "handguard_rifle_ar15_factory",
-		"copy-from": "handguard_rifle_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15 factory handguard" },
-		"description": "AR-15 factory handguard"
-	
 	}
 
 ]
