@@ -11,6 +11,8 @@
 		"weight": "50 g",
 		"volume": "50 ml",
 		
+		"integral_volume": "0 ml",
+		
 		"material": [ "steel" ],
 		
 		"symbol": ":",
