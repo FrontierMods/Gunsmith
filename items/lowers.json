@@ -14,7 +14,7 @@
 		"material": [ "steel" ],
 		
 		"symbol": "(",
-		"color": "dark_gray"
+		"color": "dark_gray",
 		
 		"//range": "prevents the gun from firing; barrel adds range",
 		"range": 0
