@@ -66,17 +66,39 @@
 	
 	{
 	
-		"id": "barrel_rifle_ar15",
+		"id": "barrel_rifle_ar15_223",
 		"copy-from": "barrel_rifle_threaded",
 		"type": "GUNMOD",
 		
-		"name": { "str": "20-in. AR-15 barrel" },
+		"name": { "str": "20-in. 5.56mm AR-15 barrel" },
 		"description": "TBD",
 		
 		"weight": "796 g",
 		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
 		"volume": "117 ml",
 		"longest_side": "51 cm",
+		
+		"acceptable_ammo": [ "223" ],
+		
+		"price": "250 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_rifle_ar15_300blk",
+		"copy-from": "barrel_rifle_threaded",
+		"type": "GUNMOD",
+		
+		"name": { "str": "20-in. .300BLK AR-15 barrel" },
+		"description": "TBD",
+		
+		"weight": "796 g",
+		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
+		"volume": "117 ml",
+		"longest_side": "51 cm",
+		
+		"acceptable_ammo": [ "300blk" ],
 		
 		"price": "250 USD"
 	
