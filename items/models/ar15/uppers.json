@@ -11,7 +11,13 @@
 		
 		"//includes": "port door, forward assist",
 		
-		"mod_targets": [ "ar15" ],
+		"//mod_targets": "all distinct variants and default builds go here",
+		"mod_targets": [ 
+		
+			"ar15", 
+			"ar15_bare" 
+			
+		],
 		
 		"add_mod": [
 		
