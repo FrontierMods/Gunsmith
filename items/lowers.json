@@ -55,6 +55,8 @@
 		"description": "TBD",
 		
 		"default_mods": [
+		"skill": "rifle",
+		
 		
 			"TODO: add default parts once those exist"
 		
