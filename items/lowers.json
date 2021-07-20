@@ -79,6 +79,21 @@
 		
 		]
 	
+	},
+	
+	{
+	
+		"id": "ar15_bare",
+		"copy-from": "ar15",
+		"type": "GUN",
+		
+		"name": { "str": "AR-15" },
+		"description": "TBD",
+		
+		"skill": "rifle",
+		
+		"default_mods": []
+	
 	}
 
 ]
