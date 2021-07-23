@@ -17,7 +17,8 @@
 		"color": "dark_gray",
 		
 		"//range": "prevents the gun from firing; barrel adds range",
-		"range": 0
+		"//range2": "this implementation causes a safe error with ranged.cpp:2335",
+		"range": -120
 	
 	},
 	
