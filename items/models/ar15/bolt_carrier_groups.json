@@ -6,7 +6,7 @@
 		"copy-from": "bolt_carrier_group_rifle",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15 factory bolt carrier group" },
+		"name": { "str": "AR-15 factory .223 bolt carrier group" },
 		"description": "TBD",
 		
 		"weight": "50 g",
@@ -15,12 +15,7 @@
 		
 		"price": "45 USD",
 		
-		"ammo_modifier": [
-		
-			"223",
-			"300blk"
-		
-		],
+		"ammo_modifier": [ "223" ],
 		
 		"magazine_adaptor": [ 
 		
@@ -46,28 +41,6 @@
 					
 				] 
 				
-			], [
-			
-				"300blk", 
-				
-				[ 
-				
-					"stanag30",
-					"stanag5",
-					"stanag10",
-					"stanag20",
-					"stanag40",
-					"stanag50",
-					"stanag60",
-					"stanag60drum",
-					"stanag90",
-					"stanag100",
-					"stanag100drum",
-					"stanag150",
-					"survivor223mag"
-					
-				]
-			
 			]
 			
 		]
