@@ -9,7 +9,7 @@ It overhauls the gun modification system by providing a more in-depth view into 
 
 Understanding the process of firearm assembly is essential for both gunsmithing and modification of the gun with this mod.
 
-Refer to [`/ASSEMBLY_GUIDES/`](/ASSEMBLY_GUIDES/) for overview and detailed guides for each firearm platform.
+Refer to [~`/ASSEMBLY_GUIDES/`~](/ASSEMBLY_GUIDES/) for overview and detailed guides for each firearm platform.
 
 
 ## Sanity Checks
