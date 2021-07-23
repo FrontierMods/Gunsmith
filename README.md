@@ -30,6 +30,8 @@ As such, some components had to be gated behind one another: that is, restricted
 
 ### Receiver as a Gun
 
+[*relevant issue*](https://github.com/FrontierMods/Gunsmith/issues/2)
+
 Due to the way the game handles firearms, the mod has to designate the receiver – the part that is typically only a structural one – as an active, usable gun. As per the game engine, this means the lower receiver void of actual mechanical components
 
 * has a default caliber it can take
