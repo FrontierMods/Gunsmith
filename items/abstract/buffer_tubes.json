@@ -36,6 +36,40 @@
 		"location": "buffer tube",
 		"install_time": "30 s"
 	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_milspec",
+		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "milspec buffer tube" },
+		"description": "idea of a milspec buffer tube",
+		
+		"add_mod": [
+		
+			[ "milspec stock", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_commercial",
+		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "commercial buffer tube" },
+		"description": "idea of a milspec buffer tube",
+		
+		"add_mod": [
+		
+			[ "commercial stock", 1 ]
+		
+		]
+	
 	}
 
 ]

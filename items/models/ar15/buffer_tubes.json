@@ -3,7 +3,7 @@
 	{
 	
 		"id": "buffer_tube_ar15",
-		"copy-from": "buffer_tube_abstract",
+		"copy-from": "buffer_tube_milspec",
 		"type": "GUNMOD",
 		
 		"name": { "str": "AR-15 buffer tube" },
