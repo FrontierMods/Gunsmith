@@ -1,6 +1,6 @@
 # Gunsmith
 
-*Gunsmith* is a mod for *Cataclysm: Dark Days Ahead*.
+*Gunsmith* (`gunsmith`) is a mod for *Cataclysm: Dark Days Ahead*.
 
 It overhauls the gun modification system by providing a more in-depth view into the process. As a benefit, this overhaul also allows players to build their firearms from found parts.
 
