@@ -2,37 +2,42 @@
 
 	{
 	
-		"id": "barrel_rifle_ar15_223",
+		"id": "barrel_ar15_colt_20in_223",
 		"copy-from": "barrel_rifle_threaded",
 		"type": "GUNMOD",
 		
-		"name": { "str": "20-in. 5.56mm AR-15 barrel" },
+		"//source": "https://www.royaltigerimports.com/product-p/colt16b.htm",
+		"//source2": "https://retrorifles.com/20-pencil-barrel-ar-15-xm16e1-m16-m16a1/",
+		
+		"name": { "str": "20\" 5.56mm Colt M16 barrel" },
 		"description": "TBD",
 		
-		"weight": "796 g",
+		"weight": "765 g",
 		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
 		"volume": "117 ml",
 		"longest_side": "51 cm",
 		
 		"acceptable_ammo": [ "223" ],
 		
-		"price": "250 USD"
+		"price": "259 USD"
 	
 	},
 	
 	{
 	
-		"id": "barrel_rifle_ar15_300blk",
+		"id": "barrel_ar15_dd_16in_223",
 		"copy-from": "barrel_rifle_threaded",
 		"type": "GUNMOD",
 		
-		"name": { "str": "20-in. .300BLK AR-15 barrel" },
+		"//source": "https://www.righttobear.com/Daniel-Defense-16-5-56-CHF-Barrel-Lightweight-p/07-078-09136-018.htm",
+		
+		"name": { "str": "16\" 5.56mm Daniel Defense AR-15 barrel" },
 		"description": "TBD",
 		
-		"weight": "796 g",
-		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
-		"volume": "117 ml",
-		"longest_side": "51 cm",
+		"weight": "680 g",
+		"//volume": "from cylinder calculations: d = 0.750 in, h = 16 in",
+		"volume": "122 ml",
+		"longest_side": "407 mm",
 		
 		"acceptable_ammo": [ "300blk" ],
 		
