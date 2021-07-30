@@ -121,6 +121,19 @@
 		
 		"location": "rifle commercial stock"
 	
+	},
+	
+	{
+	
+		"abstract": "stock_rifle_tip",
+		"copy-from": "stock_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "tip stock" },
+		"description": "idea of a tip stock",
+		
+		"location": "tip stock"
+	
 	}
 
 ]
