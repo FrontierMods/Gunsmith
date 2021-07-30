@@ -1,8 +1,6 @@
 # Measurements
 
-
 ## Volume
-
 
 ### Barrel
 
