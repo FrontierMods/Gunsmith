@@ -45,11 +45,43 @@
 		"type": "GUNMOD",
 		
 		"name": { "str": "milspec buffer tube" },
-		"description": "idea of a milspec buffer tube",
+		"description": "idea of a milspec buffer tube"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_carbine_milspec",
+		"copy-from": "buffer_tube_milspec",
+		"type": "GUNMOD",
+		
+		"name": { "str": "carbine-length milspec buffer tube" },
+		"description": "idea of a carbine-length milspec buffer tube",
 		
 		"add_mod": [
 		
-			[ "milspec stock", 1 ]
+			[ "carbine milspec stock", 1 ],
+			[ "buffer",                1 ],
+			[ "carbine buffer spring", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_rifle_milspec",
+		"copy-from": "buffer_tube_milspec",
+		"type": "GUNMOD",
+		
+		"name": { "str": "rifle-length milspec buffer tube" },
+		"description": "idea of a rifle-length milspec buffer tube",
+		
+		"add_mod": [
+		
+			[ "rifle milspec stock", 1 ],
+			[ "buffer",              1 ],
+			[ "rifle buffer spring", 1 ]
 		
 		]
 	
@@ -62,11 +94,51 @@
 		"type": "GUNMOD",
 		
 		"name": { "str": "commercial buffer tube" },
-		"description": "idea of a milspec buffer tube",
+		"description": "idea of a commercial buffer tube",
 		
 		"add_mod": [
 		
-			[ "commercial stock", 1 ]
+			[ "commercial stock", 1 ],
+			[ "buffer",           1 ],
+			[ "buffer spring",    1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_carbine_commercial",
+		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "carbine-length commercial buffer tube" },
+		"description": "idea of a carbine-length commercial buffer tube",
+		
+		"add_mod": [
+		
+			[ "carbine commercial stock", 1 ],
+			[ "buffer",                   1 ],
+			[ "carbine buffer spring",    1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_rifle_commercial",
+		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "rifle-length commercial buffer tube" },
+		"description": "idea of a rifle-length commercial buffer tube",
+		
+		"add_mod": [
+		
+			[ "rifle commercial stock", 1 ],
+			[ "buffer",                 1 ],
+			[ "rifle buffer spring",    1 ]
 		
 		]
 	
