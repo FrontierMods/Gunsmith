@@ -40,8 +40,21 @@
 	
 	{
 	
-		"abstract": "buffer_tube_milspec",
+		"abstract": "buffer_tube_ar15",
 		"copy-from": "buffer_tube_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform buffer tube" },
+		"description": "idea of a AR-15-platform buffer tube",
+		
+		"mod_targets": [ "ar15" ]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_milspec",
+		"copy-from": "buffer_tube_ar15",
 		"type": "GUNMOD",
 		
 		"name": { "str": "milspec buffer tube" },
@@ -109,7 +122,7 @@
 	{
 	
 		"abstract": "buffer_tube_commercial",
-		"copy-from": "buffer_tube_abstract",
+		"copy-from": "buffer_tube_ar15",
 		"type": "GUNMOD",
 		
 		"name": { "str": "commercial buffer tube" },
