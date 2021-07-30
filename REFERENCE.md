@@ -103,7 +103,7 @@ With pistol-caliber AR-15 builds, the gas system operates differently, preventin
 Typical weight of a pistol-build buffer ranges from 5.0 to 8.5 oz ≈ 142 to 241 g.
 
 
-#### Buffer Length
+#### Buffer Tube Length
 
 Buffer tubes are nor interchangable by length, and must be used with the appropriate stocks.
 
@@ -119,7 +119,7 @@ Uncommon buffer lengths:
 
 On the AR-15 platform, generally, carbine-length buffer tubes are used with collapsible stocks, and rifle-length – with fixed stocks.
 
-Carbine-length AR-15 buffers are also referred to as M4. Rifle-length – A1/A2.
+Carbine-length AR-15 buffers are also referred to as M4, due to association with the M4A1. Rifle-length – A1/A2, due to association with M16A1/M16A2.
 
 
 #### Buffer Springs
