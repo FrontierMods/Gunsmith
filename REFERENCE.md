@@ -156,6 +156,8 @@ Common spring configurations:
 
 ### Handguards
 
+## Installation
+
 ### Stocks
 
 Modern stocks for the AR-15 platform can be installed within a minute.
