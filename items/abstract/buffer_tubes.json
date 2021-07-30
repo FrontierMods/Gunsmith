@@ -147,7 +147,7 @@
 	{
 	
 		"abstract": "buffer_tube_carbine_commercial",
-		"copy-from": "buffer_tube_abstract",
+		"copy-from": "buffer_tube_commercial",
 		"type": "GUNMOD",
 		
 		"name": { "str": "carbine-length commercial buffer tube" },
@@ -166,7 +166,7 @@
 	{
 	
 		"abstract": "buffer_tube_rifle_commercial",
-		"copy-from": "buffer_tube_abstract",
+		"copy-from": "buffer_tube_commercial",
 		"type": "GUNMOD",
 		
 		"name": { "str": "rifle-length commercial buffer tube" },
