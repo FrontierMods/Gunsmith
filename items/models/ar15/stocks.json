@@ -1,0 +1,104 @@
+[
+
+	{
+	
+		"id": "stock_tip_bad",
+		"copy-from": "stock_tip",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/",
+		
+		"name": { "str": "BAD lightweight buttstock" },
+		"description": "TBD",
+		
+		"weight": "80 g",
+		"//volume": "assumed from trimmed calculation of a separate similar item",
+		"//dimensions": "https://www.righttobear.com/SB-Tactical-SB-Mini-FDE-Brace-No-Buffer-Tube-p/sbmini-02-sb-nt-bulk-fde.htm",
+		"volume": "70 ml",
+		"longest_side": "89 mm",
+		
+		"price": "75 USD"
+	
+	},
+	
+	{
+	
+		"id": "stock_carbine_milspec_magpul_moe",
+		"copy-from": "stock_carbine_milspec",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/",
+		
+		"name": { "str": "Magpul MOE milspec stock" },
+		"description": "TBD",
+		
+		"weight": "243 g",
+		"//volume": "from dimensions, trimmed ~30%",
+		"//dimensions": "6.9 × 1.59 × 5.26 in.",
+		"volume": "620 ml",
+		"longest_side": "175 mm",
+		
+		"//integral_volume": "roughly assumed from average of present buffer tubes",
+		"integral_volume": "480 ml",
+		
+		"add_mods": [
+		
+			[ "buttpad", 1 ]
+		
+		],
+		
+		"price": "40 USD",
+		
+		"flags": [ "COLLAPSIBLE_STOCK" ]
+	
+	},
+	
+	{
+	
+		"id": "stock_carbine_milspec_strike_viper",
+		"copy-from": "stock_carbine_milspec",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/",
+		
+		"name": { "str": "Strike Ind. Viper milspec stock" },
+		"description": "TBD",
+		
+		"weight": "172 g",
+		"//volume": "from dimensions, trimmed ~30%",
+		"//dimensions": "6.64 × 1.74 × 4.43 in.",
+		"volume": "560 ml",
+		"longest_side": "169 mm",
+		
+		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
+		"integral_volume": "410 ml",
+		
+		"price": "50 USD"
+	
+	},
+	
+	{
+	
+		"id": "stock_carbine_milspec_elfmann",
+		"copy-from": "stock_carbine_milspec",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/",
+		
+		"name": { "str": "Elfmann ELF milspec stock" },
+		"description": "TBD",
+		
+		"weight": "147 g",
+		"//volume": "roughly assumed from visuals",
+		"volume": "127 ml",
+		"longest_side": "183 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"price": "140 USD",
+		
+		"flags": [ "COLLAPSIBLE_STOCK" ]
+	
+	}
+
+]
