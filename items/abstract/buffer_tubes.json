@@ -51,6 +51,25 @@
 	
 	{
 	
+		"abstract": "buffer_tube_pistol_milspec",
+		"copy-from": "buffer_tube_milspec",
+		"type": "GUNMOD",
+		
+		"name": { "str": "pistol-length milspec buffer tube" },
+		"description": "idea of a pistol-length milspec buffer tube",
+		
+		"add_mod": [
+		
+			[ "pistol milspec stock", 1 ],
+			[ "buffer",               1 ],
+			[ "pistol buffer spring", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
 		"abstract": "buffer_tube_carbine_milspec",
 		"copy-from": "buffer_tube_milspec",
 		"type": "GUNMOD",
@@ -101,6 +120,25 @@
 			[ "commercial stock", 1 ],
 			[ "buffer",           1 ],
 			[ "buffer spring",    1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_tube_pistol_commercial",
+		"copy-from": "buffer_tube_commercial",
+		"type": "GUNMOD",
+		
+		"name": { "str": "pistol-length commercial buffer tube" },
+		"description": "idea of a pistol-length commercial buffer tube",
+		
+		"add_mod": [
+		
+			[ "pistol commercial stock", 1 ],
+			[ "buffer",                   1 ],
+			[ "pistol buffer spring",    1 ]
 		
 		]
 	
