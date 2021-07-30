@@ -37,7 +37,7 @@
 		"//valid_mod_locations_note": "does not appear to get inherited",
 		"//valid_mod_locations": [
 		
-			[ "grip",               1 ],
+			[ "rifle grip",         1 ],
 			[ "fire control group", 1 ],
 			[ "buffer tube",        1 ],
 			[ "magwell",            1 ]
