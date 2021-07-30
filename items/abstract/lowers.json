@@ -31,10 +31,10 @@
 		"name": { "str": "Rifle lower receiver" },
 		"description": "idea of a rifle lower receiver",
 		
-		"//skill comment": "does not appear to get inherited",
+		"//skill_note": "does not appear to get inherited",
 		"//skill": "rifle",
 		
-		"//valid_mod_locations comment": "does not appear to get inherited",
+		"//valid_mod_locations_note": "does not appear to get inherited",
 		"//valid_mod_locations": [
 		
 			[ "grip",               1 ],
