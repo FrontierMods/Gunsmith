@@ -1,0 +1,342 @@
+[
+
+	{
+	
+		"id": "buffer_rifle_aero",
+		"copy-from": "buffer_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/aero-precision-ar-rifle-length-a2-buffer/",
+		
+		"name": { "str": "Aero Precision rifle buffer" },
+		"description": "TBD",
+		
+		"weight": "146 g",
+		"//volume": "from cylinder volume; diameter assumed from average",
+		"//dimensions": "length = 5.92 in., diameter = 0.73 in.",
+		"volume": "41 ml",
+		"longest_side": "150 mm",
+		
+		"price": "20 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_rifle_jp_lowmass",
+		"copy-from": "buffer_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-accessories/ar-15/buffer-buffer-tubes/jp-enterprises-ar-15-low-mass-buffer/",
+		
+		"name": { "str": "JP Enterprises Low Mass rifle buffer" },
+		"description": "TBD",
+		
+		"weight": "90 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 5.875 in., diameter = 0.73 in.",
+		"volume": "40 ml",
+		"longest_side": "149 mm",
+		
+		"price": "20 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_rifle_anderson",
+		"copy-from": "buffer_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://andersonmanufacturing.com/am-15-buffer-rifle-length.html",
+		
+		"name": { "str": "Anderson Manufacturing rifle buffer" },
+		"description": "TBD",
+		
+		"weight": "142 g",
+		
+		"price": "15 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_anderson",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/anderson-manufacturing-h1-carbine-buffer/",
+		
+		"name": { "str": "Anderson Manufacturing H1 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "106 g",
+		
+		"price": "23 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_aero_std",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/aero-precision-ar15-carbine-buffer/",
+		
+		"name": { "str": "Aero Precision carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "85 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "13 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_aero_h1",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/aero-precision-ar15-carbine-buffer/",
+		
+		"name": { "str": "Aero Precision H1 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "114 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "24 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_aero_h2",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/aero-precision-ar15-carbine-buffer/",
+		
+		"name": { "str": "Aero Precision H2 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "132 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "34 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_aero_h3",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/aero-precision-ar15-carbine-buffer/",
+		
+		"name": { "str": "Aero Precision H3 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "159 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "44 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_v7_h1",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//temp_note": "teflon-coated → less noise",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffers/v-seven-enhanced-ar-15-carbine-buffers/",
+		
+		"name": { "str": "V Seven Enhanced H1 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "108 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.24 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "49 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_v7_h2",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffers/v-seven-enhanced-ar-15-carbine-buffers/",
+		
+		"name": { "str": "V Seven Enhanced H2 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "133 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.24 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "49 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_v7_h3",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffers/v-seven-enhanced-ar-15-carbine-buffers/",
+		
+		"name": { "str": "V Seven Enhanced H3 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "157 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.24 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "49 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_spikes_t1",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/spikes-tactical-tungsten-buffer/",
+		
+		"name": { "str": "Spike's Tactical T1 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "85 g",
+		
+		"price": "30 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_spikes_t2",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/spikes-tactical-tungsten-buffer/",
+		
+		"name": { "str": "Spike's Tactical T2 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "113 g",
+		
+		"price": "35 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_spikes_t3",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/spikes-tactical-tungsten-buffer/",
+		
+		"name": { "str": "Spike's Tactical T3 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "156 g",
+		
+		"price": "41 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_pws_h2",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/primary-weapons-systems-enhanced-steel-body-ar-15-buffer/",
+		
+		"name": { "str": "Primary Weapons Systems H2 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "128 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "40 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_pws_h3",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/primary-weapons-systems-enhanced-steel-body-ar-15-buffer/",
+		
+		"name": { "str": "Primary Weapons Systems H3 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "156 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "50 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_carbine_pws_h4",
+		"copy-from": "buffer_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/primary-weapons-systems-enhanced-steel-body-ar-15-buffer/",
+		
+		"name": { "str": "Primary Weapons Systems H4 carbine buffer" },
+		"description": "TBD",
+		
+		"weight": "196 g",
+		"//volume": "from cylinder volume; diameter assumed from buffer tube inner diameter",
+		"//dimensions": "length = 3.25 in., diameter = 0.73 in.",
+		"volume": "22 ml",
+		"longest_side": "83 mm",
+		
+		"price": "85 USD"
+	
+	}
+
+]
