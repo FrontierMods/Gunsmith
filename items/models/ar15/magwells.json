@@ -1,0 +1,91 @@
+[
+
+	{
+	
+		"id": "magwell_ar15_adapter_9mm_glock",
+		"copy-from": "magwell_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://getstern.com/mag-ad9/",
+		
+		"name": { "str": "Stern Defense AR-15 9mm Glock adapter" },
+		"description": "TBD",
+		
+		"material": [ "aluminum" ],
+		
+		"magazine_adaptor": [ 
+		
+			[ 
+			
+				"9mm", 
+				
+				[ 
+				
+					"glockmag",
+					"glockbigmag",
+					"glock17_17",
+					"glock17_22",
+					"glock_drum_50rd",
+					"glock_drum_100rd"
+					
+				] 
+				
+			],
+			
+			[ 
+			
+				"40", 
+				
+				[ 
+				
+					"glock40mag",
+					"glock40bigmag"
+					
+				] 
+				
+			]
+			
+		],
+		
+		"price": "180 USD"
+	
+	},
+	
+	{
+	
+		"id": "magwell_ar15_adapter_9mm_beretta",
+		"copy-from": "magwell_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://getstern.com/mag-adb92/",
+		
+		"name": { "str": "Stern Defense AR-15 9mm Beretta adapter" },
+		"description": "TBD",
+		
+		"material": [ "aluminum" ],
+		
+		"magazine_adaptor": [ 
+		
+			[ 
+			
+				"9mm", 
+				
+				[ 
+				
+					"m9mag_10rd",
+					"m9mag",
+					"m9mag_17rd",
+					"m9mag_18rd",
+					"m9mag_20rd"
+					
+				] 
+				
+			]
+			
+		],
+		
+		"price": "187 USD"
+	
+	}
+
+]

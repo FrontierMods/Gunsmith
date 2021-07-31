@@ -77,59 +77,6 @@
 			"223",
 			"300blk"
 			
-		],
-		
-		"//magazine_adaptor": "TODO: test whether the pocket in the lower is enough to allow multiple calibers to use the same magazines", 
-		"//magazine_adaptor": [ 
-		
-			[ 
-			
-				"223", 
-				
-				[ 
-				
-					"stanag30",
-					"stanag5",
-					"stanag10",
-					"stanag20",
-					"stanag40",
-					"stanag50",
-					"stanag60",
-					"stanag60drum",
-					"stanag90",
-					"stanag100",
-					"stanag100drum",
-					"stanag150",
-					"survivor223mag"
-					
-				] 
-				
-			],
-			
-			[ 
-			
-				"300blk", 
-				
-				[ 
-				
-					"stanag30",
-					"stanag5",
-					"stanag10",
-					"stanag20",
-					"stanag40",
-					"stanag50",
-					"stanag60",
-					"stanag60drum",
-					"stanag90",
-					"stanag100",
-					"stanag100drum",
-					"stanag150",
-					"survivor223mag"
-					
-				] 
-				
-			]
-			
 		]
 	
 	}
