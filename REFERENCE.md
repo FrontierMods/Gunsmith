@@ -50,6 +50,29 @@ Some commercial buffer tubes have a 5° slanted back, which serves as their dist
 Mil-spec is the original military-grade specification. Commercial design has proven to be cheaper, in order to accomodate the civilian market. The increased diameter of the commercial specification allows threads to be cut in, as opposed to mil-spec's roll-in process.
 
 
+#### Buffer Tube Length
+
+Common buffer tube lengths:
+
+*average length*
+
+* carbine
+	- 7.625 in == 194 mm
+* rifle
+	- 9.625 in == 245 mm
+
+Uncommon buffer tube lengths:
+
+* pistol / "shorty"
+* intermediate / A5
+
+On the AR-15 platform, generally, carbine-length buffer tubes are used with collapsible stocks, and rifle-length – with fixed stocks.
+
+Carbine-length AR-15 buffer tubes are also referred to as M4, due to association with the M4A1. Rifle-length – A1/A2, due to association with M16A1/M16A2.
+
+
+### Buffers
+
 #### Buffer Materials
 
 Common buffer materials:
@@ -103,23 +126,20 @@ With pistol-caliber AR-15 builds, the gas system operates differently, preventin
 Typical weight of a pistol-build buffer ranges from 5.0 to 8.5 oz ≈ 142 to 241 g.
 
 
-#### Buffer Tube Length
+#### Buffer Length
 
 Buffer tubes are nor interchangable by length, and must be used with the appropriate stocks.
 
 Common buffer lengths:
 
+*average length*
+
+* pistol
+	- 2.448(?) in == 62 mm
 * carbine
+	- 3.26 in == 83 mm
 * rifle
-
-Uncommon buffer lengths:
-
-* pistol / "shorty"
-* intermediate / A5
-
-On the AR-15 platform, generally, carbine-length buffer tubes are used with collapsible stocks, and rifle-length – with fixed stocks.
-
-Carbine-length AR-15 buffers are also referred to as M4, due to association with the M4A1. Rifle-length – A1/A2, due to association with M16A1/M16A2.
+	- 5.91 in == 150 mm
 
 
 #### Buffer Springs
@@ -152,6 +172,7 @@ Common spring configurations:
 * https://www.arbuildjunkie.com/choosing-the-right-buffer-for-your-ar-15/
 * https://www.wingtactical.com/buyers-guide-for-buffers-buffer-springs/
 * https://www.80-lower.com/80-lower-blog/builders-guide-to-ar15-buffers-weights/
+* https://www.80percentarms.com/blog/ar15-buffer-weights-what-the-difference-is-and-how-to-choose/
 
 
 ### Handguards
