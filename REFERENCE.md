@@ -35,6 +35,25 @@ Firing a suppressed firearm cycles more gases back into the system.
 When expecting to fire mostly suppressed, one ought to make a wider hole (gas port) in the barrel for the gas block, allowing the latter to take more gases in without eroding the gas port with pressure too much over time.
 
 
+### Bolt Carrier Group (BCG)
+
+AR-15/M16 BCG dimensions: 
+
+* average length: 6.6875 in. ≈ 170 mm
+* carrier bore internal diameter: 0.531 in. ≈ 14 mm
+
+
+#### Full-Auto vs. Semi-Auto
+
+BCGs for the AR platform come in two variants: the M16 / *full-auto*, the AR-15 / *semi-auto*. Much like the distinction between buffer tubes, these are also referred to as *military* / *mil-spec* and *commercial*, respectively. This comes from the difference between how the two rifles are expected to operate.
+
+The M16 is a military rifle, and is supposed to be able to fire in fully-automatic mode. The M16 BCG thus has a little more material on the downside, which the full-auto sear can snag onto and use that to fire continuously, reliably.
+
+The AR-15 is a civilian rifle, and civilian rifles in the US are not permitted to have fully-automatic operation mechanism: they're restricted to semi-automatic only. The downside of the AR-15 BCG is thus not as protruded, which makes the BCG slightly lighter, but also incompatible with the full-auto sear.
+
+Using an M16 bolt carrier group on an AR-15 does not make the AR-15 able to fire in full-auto. It is also not illegal: BCGs are not regulated by the federal firearms law in the US.
+
+
 ### Buffer Tubes
 
 #### Mil-Spec vs. Commercial
