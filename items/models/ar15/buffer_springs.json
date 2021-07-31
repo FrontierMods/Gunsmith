@@ -1,0 +1,80 @@
+[
+
+	"//TODO": "buffer assemblies: 'springs' that have all the characteristics of a spring/buffer combo, and don't give the extra buffer slot, directly enabling BCGs",
+	
+	"//TODO": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tube-accessories/sprinco-ar-15-carbine-buffer-spring/",
+
+	{
+	
+		"id": "buffer_spring_carbine_strike",
+		"copy-from": "buffer_spring_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/strike-industries-ar-carbine-flat-wire-buffer-spring/",
+		
+		"name": { "str": "Strike Industries carbine buffer spring" },
+		"description": "TBD",
+		
+		"//volume": "from cylinder volume",
+		"//dimensions": "length = 13.88 in.(???), diameter = 0.94 in.",
+		"volume": "158 ml",
+		"longest_side": "353 mm",
+		
+		"price": "20 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_spring_carbine_spikes",
+		"copy-from": "buffer_spring_carbine",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/spikes-tactical-mil-spec-17-7-stainless-steel-carbine-buffer-spring/",
+		
+		"name": { "str": "Spike's Tactical carbine buffer spring" },
+		"description": "TBD",
+		
+		"weight": "48 g",
+		
+		"price": "10 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_spring_rifle_sprinco",
+		"copy-from": "buffer_spring_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tube-accessories/sprinco-rifle-length-ar-15-buffer-spring/",
+		
+		"name": { "str": "Spike's Tactical carbine buffer spring" },
+		"description": "TBD",
+		
+		"price": "10 USD"
+	
+	},
+	
+	{
+	
+		"id": "buffer_spring_pistol_strike",
+		"copy-from": "buffer_spring_pistol",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/strike-industries-ar-pistol-flat-wire-buffer-spring/",
+		
+		"name": { "str": "Strike Industries pistol buffer spring" },
+		"description": "TBD",
+		
+		"weight": "32 g",
+		"//volume": "from cylinder volume",
+		"//dimensions": "length = 10 in., diameter = 0.94 in.",
+		"volume": "114 ml",
+		"longest_side": "254 mm",
+		
+		"price": "14 USD"
+	
+	}
+
+]
