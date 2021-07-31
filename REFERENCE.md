@@ -76,9 +76,9 @@ Common buffer tube lengths:
 *average length*
 
 * carbine
-	- 7.625 in == 194 mm
+	- 7.625 in ≈ 194 mm
 * rifle
-	- 9.625 in == 245 mm
+	- 9.625 in ≈ 245 mm
 
 Uncommon buffer tube lengths:
 
@@ -157,11 +157,11 @@ Common buffer lengths:
 *average length*
 
 * pistol
-	- 2.448(?) in == 62 mm
+	- 2.448(?) in ≈ 62 mm
 * carbine
-	- 3.26 in == 83 mm
+	- 3.26 in ≈ 83 mm
 * rifle
-	- 5.91 in == 150 mm
+	- 5.91 in ≈ 150 mm
 
 
 #### Buffer Springs
