@@ -533,6 +533,91 @@
 		
 		"price": "225 USD"
 	
+	},
+	
+	{
+	
+		"id": "bcg_ar15_9mm_kvp",
+		"copy-from": "bcg_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/kaw-valley-precision-9mm-blow-back-bolt-carrier-group/",
+		
+		"name": { "str": "Kaw Valley Precision 9mm bolt carrier group" },
+		"description": "TBD",
+		
+		"weight": "420 g",
+		
+		"price": "150 USD"
+	
+	},
+	
+	{
+	
+		"id": "bcg_ar15_9mm_spikes",
+		"copy-from": "bcg_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/spikes-tactical-9mm-ar-bolt/",
+		
+		"name": { "str": "Spike's Tactical 9mm bolt carrier group" },
+		"description": "TBD",
+		
+		"weight": "427 g",
+		
+		"price": "200 USD"
+	
+	},
+	
+	{
+	
+		"id": "bcg_ar15_9mm_odin",
+		"copy-from": "bcg_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/odin-works-ar-9mm-bolt-carrier-group/",
+		
+		"name": { "str": "ODIN Works 9mm bolt carrier group" },
+		"description": "TBD",
+		
+		"weight": "457 g",
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "bcg_ar15_9mm_faxon",
+		"copy-from": "bcg_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-9mm-blow-back-bolt-carrier-group/",
+		
+		"name": { "str": "Faxon Firearms 9mm bolt carrier group" },
+		"description": "TBD",
+		
+		"weight": "414 g",
+		
+		"price": "165 USD"
+	
+	},
+	
+	{
+	
+		"id": "bcg_ar15_9mm_jp",
+		"copy-from": "bcg_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/jp-enterprises-enhanced-9mm-ar-bolt-carrier-group/",
+		
+		"name": { "str": "JP Enterprises 9mm bolt carrier group" },
+		"description": "TBD",
+		
+		"weight": "388 g",
+		
+		"price": "260 USD"
+	
 	}
 
 ]

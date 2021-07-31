@@ -79,6 +79,19 @@
 			
 		]
 	
+	},
+	
+	{
+	
+		"abstract": "bcg_ar15_9mm",
+		"copy-from": "bcg_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "9mm AR-15-platform bolt carrier group" },
+		"description": "idea of a 9mm AR-15-platform bolt carrier group",
+		
+		"ammo_modifier": [ "9mm" ]
+	
 	}
 
 ]
