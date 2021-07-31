@@ -9,6 +9,8 @@
 		"name": { "str": "AR-15" },
 		"description": "TBD",
 		
+		"weight": "227 g",
+		
 		"skill": "rifle",
 		"ammo": [ "223" ],
 		
