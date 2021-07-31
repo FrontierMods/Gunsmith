@@ -12,7 +12,12 @@
 		"weight": "227 g",
 		
 		"skill": "rifle",
-		"ammo": [ "223" ],
+		"ammo": [ 
+		
+			"223",
+			"300blk"
+			
+		],
 		
 		"valid_mod_locations": [
 		
