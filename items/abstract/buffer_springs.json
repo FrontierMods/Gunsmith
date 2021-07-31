@@ -47,6 +47,12 @@
 		"name": { "str": "pistol-length buffer spring" },
 		"description": "idea of a pistol-length buffer spring",
 		
+		"add_mod": [
+		
+			[ "pistol buffer", 1 ]
+		
+		],
+		
 		"location": "pistol buffer tube"
 	
 	},
@@ -60,6 +66,19 @@
 		"name": { "str": "carbine-length buffer spring" },
 		"description": "idea of a carbine-length buffer spring",
 		
+		"//volume": "from cylinder volume; assumed from average",
+		"//dimensions": "length = 10.75 in., diameter = 0.92 in.",
+		"volume": "117 ml",
+		
+		"//longest_side": "assumed from average, 10.75 in.; see REFERENCE.md",
+		"longest_side": "273 mm",
+		
+		"add_mod": [
+		
+			[ "carbine buffer", 1 ]
+		
+		],
+		
 		"location": "carbine buffer tube"
 	
 	},
@@ -72,6 +91,19 @@
 		
 		"name": { "str": "rifle-length buffer spring" },
 		"description": "idea of a rifle-length buffer spring",
+		
+		"//volume": "from cylinder volume; length assumed from average",
+		"//dimensions": "length = 12.75 in., diameter = 0.92 in.",
+		"volume": "139 ml",
+		
+		"//longest_side": "assumed from average, 12.75 in.; see REFERENCE.md",
+		"longest_side": "324 mm",
+		
+		"add_mod": [
+		
+			[ "rifle buffer", 1 ]
+		
+		],
 		
 		"location": "rifle buffer tube"
 	
