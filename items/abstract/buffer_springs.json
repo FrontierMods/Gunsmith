@@ -1,0 +1,80 @@
+[
+
+	{
+	
+		"abstract": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "buffer spring" },
+		"description": "idea of a buffer spring",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		"longest_side": "5 cm",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow",
+			"launcher"
+			
+		],
+		
+		"add_mod": [
+		
+			[ "buffer", 1 ]
+		
+		],
+		
+		"location": "buffer tube",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_pistol",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "pistol-length buffer spring" },
+		"description": "idea of a pistol-length buffer spring",
+		
+		"location": "pistol buffer tube"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_carbine",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "carbine-length buffer spring" },
+		"description": "idea of a carbine-length buffer spring",
+		
+		"location": "carbine buffer tube"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_rifle",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "rifle-length buffer spring" },
+		"description": "idea of a rifle-length buffer spring",
+		
+		"location": "rifle buffer tube"
+	
+	}
+
+]
