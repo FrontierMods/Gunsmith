@@ -2,7 +2,7 @@
 
 	{
 	
-		"abstract": "bolt_carrier_group_abstract",
+		"abstract": "bcg_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "bolt carrier group" },
@@ -32,8 +32,8 @@
 	
 	{
 	
-		"abstract": "bolt_carrier_group_rifle",
-		"copy-from": "bolt_carrier_group_abstract",
+		"abstract": "bcg_rifle",
+		"copy-from": "bcg_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "Rifle bolt carrier group" },
