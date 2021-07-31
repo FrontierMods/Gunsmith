@@ -45,7 +45,7 @@ Mil-spec is 1.146 inches in diameter, commercial is 1.17 inches.
 
 The difference amounts to the fact that fitting an incompatible stock is either impossible or will result in loose configuration, which would result in worse recoil reduction and unnecessary noise of rattling.
 
-Most commercial buffer tubes have a slanted back, which serves as their distinguishing feature.
+Some commercial buffer tubes have a 5° slanted back, which serves as their distinguishing feature.
 
 Mil-spec is the original military-grade specification. Commercial design has proven to be cheaper, in order to accomodate the civilian market. The increased diameter of the commercial specification allows threads to be cut in, as opposed to mil-spec's roll-in process.
 
