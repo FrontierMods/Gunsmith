@@ -24,7 +24,7 @@ SOPMOD is a partially modular kit. In addition to a set of mandatory accessories
 SOPMOD is historically divided into multiple blocks: sets of approved accessories. The full list of blocks, as well as further information on SOPMOD, can be found [on Wikipedia](https://en.wikipedia.org/wiki/SOPMOD).
 
 
-# Attachments
+# Parts
 
 ## Data
 
