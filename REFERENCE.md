@@ -95,7 +95,7 @@ Some buffers are configurable / adjustable.
 
 Common configurations:
 
-*weight materials* / *typical weight*
+*weight inside* / *typical weight*
 
 * carbine
     - 3× steel
