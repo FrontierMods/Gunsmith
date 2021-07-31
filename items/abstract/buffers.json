@@ -1,0 +1,95 @@
+[
+
+	{
+	
+		"abstract": "buffer_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "buffer" },
+		"description": "idea of a buffer",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		"longest_side": "5 cm",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow",
+			"launcher"
+			
+		],
+		
+		"add_mod": [
+		
+			[ "bolt carrier group", 1 ]
+		
+		],
+		
+		"location": "buffer",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_pistol",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "pistol-length buffer" },
+		"description": "idea of a pistol-length buffer",
+		
+		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
+		"volume": "17 ml",
+		"//longest_side": "assumed from average; see REFERENCE.md",
+		"longest_side": "62 mm",
+		
+		"location": "pistol buffer"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_carbine",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "carbine-length buffer" },
+		"description": "idea of a carbine-length buffer",
+		
+		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
+		"volume": "23 ml",
+		"//longest_side": "assumed from average; see REFERENCE.md",
+		"longest_side": "83 mm",
+		
+		"location": "carbine buffer"
+	
+	},
+	
+	{
+	
+		"abstract": "buffer_spring_rifle",
+		"copy-from": "buffer_spring_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "rifle-length buffer" },
+		"description": "idea of a rifle-length buffer",
+		
+		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
+		"volume": "41 ml",
+		"//longest_side": "assumed from average; see REFERENCE.md",
+		"longest_side": "150 mm",
+		
+		"location": "rifle buffer"
+	
+	}
+
+]
