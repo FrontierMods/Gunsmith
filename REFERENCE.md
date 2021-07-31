@@ -4,7 +4,7 @@
 
 ### Barrel
 
-`V = pi * (barrel radius ^ 2) * barrel length`
+`volume = pi * (barrel radius ^ 2) * barrel length`
 
 Some trim may be appropriate: barrels never take exactly a cylinder's worth of space, though many expand at the barrel nut (the end that attaches to the upper receiver).
 
