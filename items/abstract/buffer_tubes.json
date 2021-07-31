@@ -74,7 +74,6 @@
 		"add_mod": [
 		
 			[ "pistol milspec stock", 1 ],
-			[ "buffer",               1 ],
 			[ "pistol buffer spring", 1 ]
 		
 		]
@@ -93,7 +92,6 @@
 		"add_mod": [
 		
 			[ "carbine milspec stock", 1 ],
-			[ "buffer",                1 ],
 			[ "carbine buffer spring", 1 ]
 		
 		]
@@ -112,7 +110,6 @@
 		"add_mod": [
 		
 			[ "rifle milspec stock", 1 ],
-			[ "buffer",              1 ],
 			[ "rifle buffer spring", 1 ]
 		
 		]
@@ -131,7 +128,6 @@
 		"add_mod": [
 		
 			[ "commercial stock", 1 ],
-			[ "buffer",           1 ],
 			[ "buffer spring",    1 ]
 		
 		]
@@ -150,7 +146,6 @@
 		"add_mod": [
 		
 			[ "pistol commercial stock", 1 ],
-			[ "buffer",                   1 ],
 			[ "pistol buffer spring",    1 ]
 		
 		]
@@ -169,7 +164,6 @@
 		"add_mod": [
 		
 			[ "carbine commercial stock", 1 ],
-			[ "buffer",                   1 ],
 			[ "carbine buffer spring",    1 ]
 		
 		]
@@ -188,7 +182,6 @@
 		"add_mod": [
 		
 			[ "rifle commercial stock", 1 ],
-			[ "buffer",                 1 ],
 			[ "rifle buffer spring",    1 ]
 		
 		]

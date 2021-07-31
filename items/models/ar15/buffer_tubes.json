@@ -44,9 +44,8 @@
 		"//add_mod": "takes an uncommon type of buttstocks that attach to the tip of the buffer tube, much like the buttstock it comes in combo with in source",
 		"add_mod": [
 		
-			[ "buffer",        1 ],
-			[ "buffer spring", 1 ],
-			[ "tip buttstock", 1 ]
+			[ "carbine buffer spring", 1 ],
+			[ "tip buttstock",         1 ]
 		
 		],
 		
