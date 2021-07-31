@@ -119,6 +119,7 @@ Common configurations:
     - 5× steel + steel spacer
     - 5.0 ~ 5.3 oz. ≈ 142 ~ 150 g
 
+
 ##### Pistol-Caliber Builds
 
 With pistol-caliber AR-15 builds, the gas system operates differently, preventing the gases from softening bolt action. Therefore, heavier buffers are typically used for smoother operation of the firearm.
