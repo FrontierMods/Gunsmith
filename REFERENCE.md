@@ -273,3 +273,13 @@ Common spring configurations:
 ### Stocks
 
 Modern stocks for the AR-15 platform can be installed within a minute.
+
+
+### Trigger Groups
+
+Non-drop-in trigger groups require the following tools:
+
+* bench vise
+* lower receiver vise block
+* 1/8" / 0.125 in. punch and/or #4 roll pin punch (×2 required)
+* nylon/brass hammer
