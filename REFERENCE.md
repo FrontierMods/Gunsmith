@@ -11,6 +11,13 @@ Some trim may be appropriate: barrels never take exactly a cylinder's worth of s
 
 # Firearms
 
+## 80% Receivers
+
+Due to the firearms restrictions in the U.S., lower receivers are recognized as *the* firearm, and thus have to be registered in order to be used or sold.
+
+In order to circumvent the process, there exists a concept of 80% receivers: mostly but not completely finished receivers, which no longer qualify as firearms. 80% receivers are sold to the end user, who uses their own tools to finish the receiver, thus privately turning it into a firearm.
+
+
 ## Models
 
 ### AR-15
