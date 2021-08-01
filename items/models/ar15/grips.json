@@ -2,18 +2,19 @@
 
 	{
 	
-		"id": "grip_rifle_a2",
-		"copy-from": "grip_rifle",
+		"//VOLUME_NOTE": "33% trim is applied to all grips present unless stated otherwise",
+	
+		"id": "grip_ar15_a2",
+		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "A2 rifle grip" },
+		"name": { "str": "A2 pistol grip" },
 		"description": "TBD",
 		
 		"//source": "Colt A2 grip",
 		
 		"weight": "110 g",
-		"//volume": "roughly from dimensions: 5.5 x 3 x 11 cm; originally 181 ml, -30% from trim",
-		"volume": "127 ml",
+		"volume": "120 ml",
 		"longest_side": "11 cm",
 		
 		"price": "10 USD"
