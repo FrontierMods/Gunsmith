@@ -2,7 +2,7 @@
 
 	{
 	
-		"abstract": "fire_control_group_abstract",
+		"abstract": "fcg_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "fire control group" },
@@ -33,8 +33,8 @@
 	
 	{
 	
-		"abstract": "fire_control_group_rifle",
-		"copy-from": "fire_control_group_abstract",
+		"abstract": "fcg_rifle",
+		"copy-from": "fcg_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "Rifle fire control group" },
