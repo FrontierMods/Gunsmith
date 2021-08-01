@@ -79,13 +79,13 @@
 	
 	{
 	
-		"id": "stock_carbine_milspec_elfmann",
+		"id": "stock_carbine_milspec_elftmann",
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/",
 		
-		"name": { "str": "Elfmann ELF milspec stock" },
+		"name": { "str": "Elftmann ELF milspec stock" },
 		"description": "TBD",
 		
 		"weight": "147 g",
