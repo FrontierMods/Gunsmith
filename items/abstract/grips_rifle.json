@@ -29,6 +29,22 @@
 			
 		]
 	
+	},
+	
+	{
+	
+		"abstract": "grip_ar15",
+		"copy-from": "grip_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform rifle grip" },
+		"description": "idea of an AR-15-platform rifle grip",
+		
+		"location": "rifle grip",
+		"install_time": "30 s",
+		
+		"mod_targets": [ "ar15" ]
+	
 	}
 
 ]
