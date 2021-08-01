@@ -1,27 +1,249 @@
 [
 
+	"//TODO": "https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/timney-calvin-elite-1-5lb-ar-trigger-with-adjustable-shoes/",
+
 	{
 	
-		"id": "fire_control_group_rifle_ar15_factory",
-		"copy-from": "fire_control_group_rifle",
+		"id": "fcg_ar15_cmc",
+		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15 factory fire control group" },
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/cmc-drop-in-ar-2-stage-trigger-group/",
+		
+		"name": { "str": "CMC two-stage trigger group" },
 		"description": "TBD",
 		
-		"weight": "50 g",
-		"volume": "50 ml",
-		"longest_side": "5 cm",
+		"//pull_weight": "2 / 3 lbs",
 		
-		"mode_modifier": [
+		"price": "230 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_velocity",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
 		
-			[ "DEFAULT", "semi-auto",  1 ], 
-			[ "BURST",   "burst",      3 ],
-			[ "AUTO",    "auto",       5 ]
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-classic-drop-in-ar-trigger/",
+		
+		"name": { "str": "Velocity Triggers Classic trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "4 lbs",
+		
+		"price": "150 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_rise_performance",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/rise-armament-ra-535-advanced-performance-trigger/",
+		
+		"name": { "str": "RISE Armanent Advanced Performance trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3.5 lbs",
+		
+		"price": "260 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_jmt_saber",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jmt-saber-single-stage-drop-in-trigger/",
+		
+		"name": { "str": "JMT Saber trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "4 lbs",
+		
+		"price": "100 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_jmt_blackops",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/copy-of-jmt-saber-single-stage-drop-in-trigger/",
+		
+		"name": { "str": "JMT Black Ops trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3.5 lbs",
+		
+		"price": "100 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_velocity_mpc",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/",
+		
+		"name": { "str": "Velocity Triggers MPC trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3 lbs",
+		
+		"price": "190 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_rise_duty",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/rise-armament-le145-duty-tactical-ar-drop-in-trigger/",
+		
+		"name": { "str": "RISE Armanent Duty trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "4.5 lbs",
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_elfmann_se",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-se-trigger/",
+		
+		"name": { "str": "Elftmann ELF SE trigger group" },
+		"description": "TBD",
+		
+		"material": [
+		
+			"steel",
+			"aluminum"
 		
 		],
 		
-		"price": "45 USD"
+		"//pull_weight": "4.5 lbs",
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_jp_ez",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jp-enterprises-ez-trigger-system/",
+		
+		"name": { "str": "JP Enterprises EZ trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3.5 lbs",
+		
+		"price": "200 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_elftmann_3gun",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-3-gun-trigger/",
+		
+		"name": { "str": "Elftmann Tactical ELF 3-gun trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3.25 lbs",
+		
+		"price": "280 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_geissele_ssa",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/geissele-ssa-e-super-semi-automatic-enhanced-trigger/",
+		
+		"name": { "str": "Geissele SSA-E trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3.2 lbs",
+		
+		"price": "240 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_timney",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/timney-skeletonized-ar-15-trigger/",
+		
+		"name": { "str": "Timney Triggers skeletonized trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "4.5 lbs",
+		
+		"price": "275 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_hiperfire_duty",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.opticsplanet.com/hiperfire-hipertouch-edt3-trigger-assembly.html",
+		
+		"name": { "str": "HIPERFIRE Enhanced Duty trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "5.5 lbs",
+		
+		"price": "100 USD"
+	
+	},
+	
+	{
+	
+		"id": "fcg_ar15_hiperfire_hipertouch",
+		"copy-from": "fcg_ar15",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.opticsplanet.com/hiperfire-hipertouch-24-competition-trigger-assembly.html",
+		
+		"name": { "str": "HIPERFIRE HIPERTOUCH 24 trigger group" },
+		"description": "TBD",
+		
+		"//pull_weight": "3 lbs",
+		
+		"price": "200 USD"
 	
 	}
 
