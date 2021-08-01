@@ -86,6 +86,25 @@
 		
 		"price": "187 USD"
 	
+	},
+	
+	{
+	
+		"id": "magwell_ar15_magflare_stern",
+		"copy-from": "magwell_rifle",
+		"type": "GUNMOD",
+		
+		"//source": "https://getstern.com/mag-ad-flare-mod2/",
+		
+		"name": { "str": "Stern Defense Mod2 flare" },
+		"description": "TBD",
+		
+		"material": [ "plastic" ],
+		
+		"reload_modifier": -10,
+		
+		"price": "73 USD"
+	
 	}
 
 ]
