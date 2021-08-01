@@ -35,6 +35,68 @@ SOPMOD is historically divided into multiple blocks: sets of approved accessorie
 
 ## Data
 
+### Triggers & Trigger Groups
+
+*AKA fire control groups*
+
+The definition of "match grade triggers" / "competition triggers" is broad at best. What each shooter considers match-grade is up to them.
+
+
+#### Stages
+
+* single-stage
+    - standard on AR-15s
+    - most common
+    - simplest
+    - fires immediately upon the completion of the pull
+
+* two-stage
+    - first stage is a lighter preparatory pull, during which no firing occurs
+    - second stage is heavier and is what triggers the hammer drop → the firing
+    - the transition between the two stages is referred to as the "break wall"
+    - slightly slower to fire than single-stage
+    
+It's been suggested that two-stage triggers could allow the shooter to "ride the wall", i.e. to pull through the first stage, adjust sights to the target, and pull lightly the second time to fire. This is meant to land the round closer to the target because of a lower degree of travel from the trigger pull.
+
+
+#### Types
+
+* binary
+	- fires two shots per trigger squeeze
+	- illegal in some states
+	
+* drop-in
+	- self-contained
+	- easiest to install
+	- likely factory-adjusted to eliminate common issues
+
+
+#### Trigger Shapes
+
+* curved
+	- most common
+	- default on factory rifles
+
+* straight
+	- reduces perceived pull weight via greater leverage
+	- "cleaner" pull due to the trigger not shifting from under the finger during pull
+
+
+#### Pull Weight
+
+The amount of pull that has to be put onto the trigger in order for it to engage the firing mechanism. Light pull weights fire easier and vice versa.
+
+Pull weight is regulated with the trigger spring. Tighter-wound springs offer heavier weight of the pull.
+
+Pull weights range from as little as 1.8 lbs to as much as 8.5 lbs.
+
+Generally, 4~5 lbs is considered great for combat and home defense scenarios, and 3~4 lbs – for competition and hunting.
+
+Pull weights can be customized per trigger group. The same group could offer anywhere between 2 lbs and 5 lbs.
+
+For two-stage triggers, weights can be customized for each stage.
+
+
 ### Suppressors
 
 Firing a suppressed firearm cycles more gases back into the system.
