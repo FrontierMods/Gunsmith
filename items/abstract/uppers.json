@@ -35,8 +35,44 @@
 		"add_mod": [
 		
 			[ "sights",             1 ],
+			[ "offset sight mount", 1 ],
+			[ "brass catcher",      1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "receiver_upper_ar15",
+		"copy-from": "receiver_upper_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-type rifle upper receiver" },
+		"description": "idea of an AR-15-type rifle upper receiver",
+		
+		"//includes": "port door, forward assist",
+		
+		"//dimensions_source": "https://americanresistancegear.com/product/ar15-a3-stripped-upper-receiver/",
+		
+		"weight": "201 g",
+		"volume": "1082 ml",
+		"longest_side": "203 mm",
+		
+		"//mod_targets": "all distinct variants and default builds go here",
+		"mod_targets": [ 
+		
+			"ar15", 
+			"ar15_bare" 
+			
+		],
+		
+		"add_mod": [
+		
+			[ "sights",             1 ],
+			[ "offset sight mount", 1 ],
 			[ "brass catcher",      1 ],
-			[ "bolt carrier group", 1 ]
+			[ "charging handle",    1 ]
 		
 		]
 	
