@@ -125,14 +125,14 @@
 	
 	{
 	
-		"abstract": "stock_rifle_tip",
+		"abstract": "stock_plate",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "tip stock" },
-		"description": "idea of a tip stock",
+		"name": { "str": "receiver extension plate" },
+		"description": "idea of a receiver extension plate",
 		
-		"location": "tip stock"
+		"location": "receiver extension plate"
 	
 	}
 
