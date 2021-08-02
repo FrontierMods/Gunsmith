@@ -43,10 +43,10 @@
 		"copy-from": "grip_rifle",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15-platform rifle grip" },
-		"description": "idea of an AR-15-platform rifle grip",
+		"name": { "str": "AR-15-platform grip" },
+		"description": "idea of an AR-15-platform grip",
 		
-		"location": "rifle grip",
+		"location": "grip",
 		"install_time": "30 s",
 		
 		"mod_targets": [ "ar15" ]
