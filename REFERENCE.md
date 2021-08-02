@@ -17,6 +17,8 @@ Due to the firearms restrictions in the U.S., lower receivers are recognized as 
 
 In order to circumvent the process, there exists a concept of 80% receivers: mostly but not completely finished receivers, which no longer qualify as firearms. 80% receivers are sold to the end user, who uses their own tools to finish the receiver, thus privately turning it into a firearm.
 
+It is legal to make a firearm for personal use as long as you're legally allowed to own one.
+
 
 ## Models
 
