@@ -60,12 +60,8 @@
 		"volume": "620 ml",
 		"longest_side": "175 mm",
 		
-		
-		"add_mods": [
-		
-			[ "buttpad", 1 ]
-		
-		],
+		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
+		"integral_volume": "470 ml",
 		
 		"price": "40 USD",
 		
