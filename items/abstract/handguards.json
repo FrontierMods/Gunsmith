@@ -66,6 +66,28 @@
 		
 		]
 	
+	},
+	
+	{
+	
+		"abstract": "handguard_ar15",
+		"copy-from": "handguard_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-type rifle handguard" },
+		"description": "idea of an AR-15-type rifle handguard"
+	
+	},
+	
+	{
+	
+		"abstract": "handguard_ar15_rail",
+		"copy-from": "handguard_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-type railed rifle handguard" },
+		"description": "idea of an AR-15-type railed rifle handguard"
+	
 	}
 
 ]
