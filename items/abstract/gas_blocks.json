@@ -33,5 +33,18 @@
 		"mod_targets": [ "rifle" ]
 	
 	}
+	
+	{
+	
+		"abstract": "gas_block_ar15",
+		"copy-from": "gas_block_rifle",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform gas block" },
+		"description": "idea of an AR-15-platform gas block",
+		
+		"mod_targets": [ "ar15" ]
+	
+	}
 
 ]
