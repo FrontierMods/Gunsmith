@@ -20,6 +20,8 @@
 		"//longest_side": "assumed from visuals to be half as tall as the A2 grip",
 		"longest_side": "55 mm",
 		
+		"handling_modifier": 2,
+		
 		"price": "8 USD"
 	
 	}
