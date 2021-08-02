@@ -62,6 +62,19 @@
 		
 		]
 	
+	},
+	
+	{
+	
+		"abstract": "barrel_ar15",
+		"copy-from": "barrel_rifle_threaded",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform barrel" },
+		"description": "idea of an AR-15-platform barrel",
+		
+		"mod_targets": [ "ar15" ]
+	
 	}
 
 ]
