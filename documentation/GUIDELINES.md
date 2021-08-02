@@ -10,13 +10,18 @@ Unless stated otherwise, values add up. Three different factors worth +1 each ad
 #### Handling
 
 * +4 — any grip
+* −1 — featureless grip fin
 * +1 — front side / back side to the grip
-* +1 — having a texture
-* +1 — the texture is rough or grooved
-* +1 — full-wrap grip
+* +1 — full-wrap grip: all four sides present
+* +1 — having a texture on the sides
+* +1 — having a texture on the front / back sides
+* +1 — for each texture that is rough or grooved
 * +1 — back lip
-* +1 — finger grooves
-* +1 — rubber parts
+* +1 — single-finger shelf
+* +2 — finger grooves
+* +2 — rubber parts
+* +2 — form-fitting design
+* +2 — palm shelf
 
 
 ##### Modifications
