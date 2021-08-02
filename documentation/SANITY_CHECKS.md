@@ -31,3 +31,14 @@ While ultimately it renders the resulting weapons lighter by several dozen grams
 * easier assembly process modelling
 
 Embracing small details like this may be possible in the future with an updated gunmod system. It would make the process that much more precise. However, at this stage, the decision was taken to leave such details behind.
+
+
+## Mil-Spec vs. Commercial Buffer Tubes
+
+There exist two standards of buffer tubes – the part that serves mostly to house components that counter recoil – for the AR-15 and similar platforms: *mil-spec* and *commercial*.
+
+Briefly: the difference between them amounts to a few parts of an inch in diameter. In reality, this amounts to either being unable to install mil-spec stock onto a commercial buffer tube, or noise during shooting when installed vice versa.
+
+While it's certainly possible to do the latter, in the game it's restricted. Since there's no way to coordinate gunmods, it would be impossible to apply a debuff to an ill-fitting part of the mechanism.
+
+As such, installation of commercial stocks on mil-spec buffer tubes is prohibited until there's a way to handle it more meaningfully.
