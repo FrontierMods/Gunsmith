@@ -2,6 +2,9 @@
 
 ## Stats
 
+Unless stated otherwise, values add up. Three different factors worth +1 each add up to a modifier of +3.
+
+
 ### Pistol Grips
 
 #### Handling
