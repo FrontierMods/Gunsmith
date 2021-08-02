@@ -60,8 +60,6 @@
 		"volume": "620 ml",
 		"longest_side": "175 mm",
 		
-		"//integral_volume": "roughly assumed from average of present buffer tubes",
-		"integral_volume": "480 ml",
 		
 		"add_mods": [
 		
