@@ -27,6 +27,12 @@
 			"crossbow",
 			"launcher"
 			
+		],
+		
+		"add_mod": [
+		
+			[ "grip wrap", 1 ]
+		
 		]
 	
 	},

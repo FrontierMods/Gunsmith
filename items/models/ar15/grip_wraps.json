@@ -1,0 +1,27 @@
+[
+
+	"//TODO": "https://www.cheaperthandirt.com/limbsaver-pro-handgun-grips-tactical-pistol-grip-black-12070/FC-697438120709.html (handgun options with dimensions available but not this one)",
+
+	{
+	
+		"id": "grip_wrap_hogue",
+		"copy-from": "grip_wrap",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Hogue HandALL Jr. grip sleeve" },
+		"description": "TBD",
+		
+		"//source": "https://www.cheaperthandirt.com/hogue-handall-jr-universal-grip-sleeve-small-rubber-black-18000/FC-743108180006.html",
+		"//source2": "https://www.amazon.com/Hogue-18006-HandAll-Sleeve-Purple/dp/B00NSJG7X4",
+		
+		"weight": "45 g",
+		"//volume": "assumed from visuals to be half the volume of the A2 grip (120 ml)",
+		"volume": "60 ml",
+		"//longest_side": "assumed from visuals to be half as tall as the A2 grip",
+		"longest_side": "55 mm",
+		
+		"price": "8 USD"
+	
+	}
+
+]

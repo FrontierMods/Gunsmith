@@ -1,0 +1,48 @@
+[
+
+	{
+	
+		"abstract": "grip_wrap",
+		"type": "GUNMOD",
+		
+		"name": { "str": "grip wrap" },
+		"description": "idea of a grip wrap",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		"longest_side": "50 mm",
+		
+		"material": [ "rubber" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "grip wrap",
+		"install_time": "30 s",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow",
+			"launcher"
+			
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "grip_wrap_ar15",
+		"copy-from": "grip_wrap",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform grip wrap" },
+		"description": "idea of an AR-15-platform grip wrap",
+		
+		"mod_targets": [ "ar15" ]
+	
+	}
+
+]
