@@ -266,8 +266,6 @@ Common spring configurations:
 * https://www.80percentarms.com/blog/ar15-buffer-weights-what-the-difference-is-and-how-to-choose/
 
 
-### Handguards
-
 ## Installation
 
 ### Stocks
