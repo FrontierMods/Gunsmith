@@ -18,7 +18,7 @@ While this mod's main goal is to produce an accurate and meaningful firearm asse
 
 The measures taken to address or overcome said limitations are referred to as *sanity checks*. This section goes on to review the checks in order to provide players with a greater understanding of using this mod.
 
-The author's hope is to be able to address these issues over time, either via the game engine or on the mod side.
+The author's hope is to be able to address these issues over time.
 
 
 ### Assembly Sequence
