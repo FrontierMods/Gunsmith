@@ -115,6 +115,85 @@
 		
 		"flags": [ "COLLAPSIBLE_STOCK" ]
 	
+	},
+	
+	{
+	
+		"id": "stock_rifle_milspec_luthar",
+		"copy-from": "stock_rifle_milspec",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/",
+		
+		"name": { "str": "LUTH-AR Skullaton milspec stock" },
+		"description": "TBD",
+		
+		"weight": "298 g",
+		"//volume": "50% trim because of the shape",
+		"volume": "592 ml",
+		"longest_side": "264 mm",
+		
+		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
+		"integral_volume": "442 ml",
+		
+		"price": "47 USD"
+	
+	},
+	
+	{
+	
+		"id": "stock_rifle_milspec_magpul_prs",
+		"copy-from": "stock_rifle_milspec",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/",
+		
+		"name": { "str": "Magpul PRS Gen 3 milspec stock" },
+		"description": "TBD",
+		
+		"weight": "788 g",
+		"//volume": "20% trim because of the shape",
+		"//volume2": "width and height assumed from previous entry",
+		"volume": "1049 ml",
+		"longest_side": "292 mm",
+		
+		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
+		"integral_volume": "899 ml",
+		
+		"price": "255 USD"
+	
+	},
+	
+	{
+	
+		"id": "stock_carbine_milspec_strike",
+		"copy-from": "stock_carbine_milspec",
+		"type": "GUNMOD",
+		
+		"//note": "assumes maximum length and no modularity",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/strike-industries-modular-ar-fixed-stock/",
+		
+		"name": { "str": "Strike Industries milspec stock" },
+		"description": "TBD",
+		
+		"weight": "358 g",
+		"//volume": "45% trim because of the shape",
+		"volume": "910 ml",
+		"longest_side": "286 mm",
+		
+		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
+		"integral_volume": "760 ml",
+		
+		"material": [
+		
+			"plastic",
+			"steel"
+		
+		],
+		
+		"price": "35 USD"
+	
 	}
 
 ]
