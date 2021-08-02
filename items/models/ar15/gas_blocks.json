@@ -2,21 +2,394 @@
 
 	{
 	
-		"id": "gas_block_rifle_ar15",
-		"copy-from": "gas_block_rifle",
+		"//VOLUME_NOTE": "40% trim applied to all gas blocks unless noted otherwise",
+	
+		"id": "gas_block_ar15_kv",
+		"copy-from": "gas_block_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15 gas block" },
+		"name": { "str": "Kaw Valley Precision gas block" },
 		"description": "TBD",
 		
-		"//source": "Kaw Valley Precision gas block",
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/gas-systems/gas-blocks/kaw-valley-precision-adjustable-ar-15-gas-block/",
 		
 		"weight": "47 g",
-		"//volume": "roughly from dimensions; originally 20 ml, -40% on trim",
 		"volume": "12 ml",
 		"longest_side": "4 cm",
 		
 		"price": "45 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_bad",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Battle Arms Development lightweight gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/gas-systems/gas-blocks/battle-arms-development-lightweight-low-profile-steel-gas-block/",
+		
+		"weight": "25 g",
+		"//volume": "height and width assumed from previous entry",
+		"volume": "12 ml",
+		"longest_side": "24 mm",
+		
+		"price": "40 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_aero",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Aero Precision gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/gas-systems/gas-blocks/aero-precision-adjustable-gas-block/",
+		
+		"weight": "42 g",
+		"volume": "15 ml",
+		"longest_side": "35 mm",
+		
+		"price": "65 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_strike",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Strike Industries Collar gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/strike-industries-collar-adjustable-gas-block/",
+		
+		"weight": "81 g",
+		"volume": "25 ml",
+		"longest_side": "39 mm",
+		
+		"price": "100 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_velocity",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Velocity Triggers gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/velocity-ar-adjustable-gas-block/",
+		
+		"weight": "71 g",
+		"volume": "13 ml",
+		"longest_side": "36 mm",
+		
+		"price": "60 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_strike_enhanced",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Strike Industries Enhanced gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/strike-industries-enhanced-low-profile-steel-ar-gas-block/",
+		
+		"weight": "48 g",
+		"//volume": "45% trim because of the shape",
+		"volume": "14 ml",
+		"longest_side": "36 mm",
+		
+		"price": "30 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_v7_titanium",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "V Seven titanium gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/v-seven-titanium-lightweight-gas-block/",
+		
+		"weight": "20 g",
+		"volume": "10 ml",
+		"longest_side": "33 mm",
+		
+		"material": [ "titanium" ],
+		
+		"price": "80 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_slr",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "SLR Rifleworks gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/slr-rifleworks-steel-adjustable-sentry-7-gas-block/",
+		
+		"weight": "43 g",
+		"volume": "12 ml",
+		"longest_side": "36 mm",
+		
+		"price": "142 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_slr_titanium",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "SLR Rifleworks Micro titanium gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/slr-rifleworks-micro-titanium-gas-block/",
+		
+		"weight": "23 g",
+		"volume": "10 ml",
+		"longest_side": "33 mm",
+		
+		"material": [ "titanium" ],
+		
+		"price": "90 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_wmd",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "WMD Guns gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/gas-blocks/wmd-guns-nitromet-adjustable-low-profile-gas-block/",
+		
+		"weight": "42 g",
+		"volume": "14 ml",
+		"longest_side": "37 mm",
+		
+		"price": "50 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_odin",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "ODIN Works gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/gas-systems/gas-blocks/odin-works-low-profile-tunable-gas-block/",
+		
+		"weight": "54 g",
+		"volume": "13 ml",
+		"longest_side": "35 mm",
+		
+		"price": "54 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_vltor",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "VLTOR gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/vltor-low-profile-gas-block/",
+		
+		"weight": "45 g",
+		"//volume": "height assumed from previous entry",
+		"volume": "11 ml",
+		"longest_side": "35 mm",
+		
+		"price": "53 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_moa",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Master of Arms titanium gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/master-of-arms-titanium-adjustable-gas-block/",
+		
+		"weight": "17 g",
+		"volume": "11 ml",
+		"longest_side": "31 mm",
+		
+		"material": [ "titanium" ],
+		
+		"price": "150 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_geissele",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Geissele Super gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/geissele-super-gas-block/",
+		
+		"weight": "45 g",
+		"volume": "15 ml",
+		"longest_side": "36 mm",
+		
+		"price": "40 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_bad_titanium",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Battle Arms Development titanium gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/battle-arms-development-lightweight-low-profile-titanium-gas-block/",
+		
+		"weight": "14 g",
+		"//volume": "50% trim because of the shape",
+		"//dimensions": "height and width assumed from previous entry",
+		"volume": "12 ml",
+		"longest_side": "36 mm",
+		
+		"price": "80 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_2a",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "2A Armanent Ultra-Lite titanium gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/2a-armament-ultra-lite-titanium-gas-block-750-6-25/",
+		
+		"weight": "21 g",
+		"volume": "11 ml",
+		"longest_side": "33 mm",
+		
+		"price": "70 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_odin_adjustable",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "ODIN Works adjustable gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/odin-works-adjustable-low-profile-gas-block/",
+		
+		"weight": "61 g",
+		"volume": "13 ml",
+		"longest_side": "33 mm",
+		
+		"price": "85 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_jp",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "JP Enterprises gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/jp-enterprises-750-adjustable-gas-block/",
+		
+		"weight": "64 g",
+		"volume": "15 ml",
+		"longest_side": "36 mm",
+		
+		"price": "80 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_seekins",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Seekins Precision gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/gas-systems/seekins-precision-adjustable-low-profile-gas-block/",
+		
+		"weight": "50 g",
+		"volume": "13 ml",
+		"longest_side": "35 mm",
+		
+		"price": "60 USD"
+	
+	},
+	
+	{
+	
+		"id": "gas_block_ar15_fortis",
+		"copy-from": "gas_block_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Fortis gas block" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/gas-systems/fortis-750-low-profile-gas-block/",
+		
+		"weight": "48 g",
+		"volume": "18 ml",
+		"longest_side": "36 mm",
+		
+		"price": "50 USD"
 	
 	}
 
