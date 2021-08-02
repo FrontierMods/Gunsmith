@@ -9,7 +9,7 @@ It overhauls the gun modification system by providing a more in-depth view into 
 
 Understanding the process of firearm assembly is essential for both gunsmithing and modification of the gun with this mod.
 
-Refer to [~`/ASSEMBLY_GUIDES/`~](/ASSEMBLY_GUIDES/) for overview and detailed guides for each firearm platform.
+Refer to [~`/documentation/ASSEMBLY_GUIDES/`~](/documentation/ASSEMBLY_GUIDES/) for overview and detailed guides for each firearm platform.
 
 
 ## Sanity Checks
@@ -20,7 +20,7 @@ The measures taken to address or overcome said limitations are referred to as *s
 
 The author's hope is to be able to address these issues over time.
 
-Refer to [`SANITY_CHECKS.md`](SANITY_CHECKS.md) for the complete up-to-date list.
+Refer to [`/documentation/SANITY_CHECKS.md`](/documentation/SANITY_CHECKS.md) for the complete up-to-date list.
 
 
 # License
