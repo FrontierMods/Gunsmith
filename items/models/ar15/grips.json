@@ -17,6 +17,8 @@
 		"volume": "120 ml",
 		"longest_side": "11 cm",
 		
+		"handling_modifier": 8,
+		
 		"price": "10 USD"
 	
 	},
@@ -36,6 +38,8 @@
 		"volume": "106 ml",
 		"longest_side": "107 mm",
 		
+		"handling_modifier": 8,
+		
 		"price": "24 USD"
 	
 	},
@@ -54,6 +58,8 @@
 		"weight": "73 g",
 		"volume": "110 ml",
 		"longest_side": "107 mm",
+		
+		"handling_modifier": 9,
 		
 		"price": "24 USD"
 	
@@ -75,6 +81,8 @@
 		"volume": "102 ml",
 		"longest_side": "107 mm",
 		
+		"handling_modifier": 13,
+		
 		"price": "27 USD"
 	
 	},
@@ -94,6 +102,8 @@
 		"//volume": "roughly; only length and width available, so height assumed from previous entry",
 		"volume": "100 ml",
 		"longest_side": "122 mm",
+		
+		"handling_modifier": 8,
 		
 		"material": [
 		
@@ -120,6 +130,8 @@
 		"weight": "84 g",
 		"volume": "119 ml",
 		"longest_side": "104 mm",
+		
+		"handling_modifier": 13,
 		
 		"material": [
 		
@@ -148,6 +160,8 @@
 		"volume": "95 ml",
 		"longest_side": "103 mm",
 		
+		"handling_modifier": 8,
+		
 		"price": "120 USD"
 	
 	},
@@ -167,6 +181,8 @@
 		"//volume": "height assumed from previous entry",
 		"volume": "101 ml",
 		"longest_side": "97 mm",
+		
+		"handling_modifier": 9,
 		
 		"price": "100 USD"
 	
@@ -190,6 +206,8 @@
 		"volume": "111 ml",
 		"longest_side": "108 mm",
 		
+		"handling_modifier": 9,
+		
 		"price": "25 USD"
 	
 	},
@@ -212,6 +230,8 @@
 		"volume": "89 ml",
 		"longest_side": "105 mm",
 		
+		"handling_modifier": 9,
+		
 		"price": "72 USD"
 	
 	},
@@ -231,6 +251,8 @@
 		"//volume": "height assumed from previous entry",
 		"volume": "89 ml",
 		"longest_side": "104 mm",
+		
+		"handling_modifier": 7,
 		
 		"price": "105 USD"
 	
@@ -252,6 +274,8 @@
 		"volume": "98 ml",
 		"longest_side": "105 mm",
 		
+		"handling_modifier": 6,
+		
 		"price": "100 USD"
 	
 	},
@@ -271,6 +295,8 @@
 		"//volume": "25% trim due to its unique shape and its relation to dimensions",
 		"volume": "411 ml",
 		"longest_side": "142 mm",
+		
+		"handling_modifier": 6,
 		
 		"price": "13 USD"
 	
@@ -292,6 +318,8 @@
 		"volume": "446 ml",
 		"longest_side": "151 mm",
 		
+		"handling_modifier": 7,
+		
 		"price": "40 USD"
 	
 	},
@@ -312,6 +340,8 @@
 		"volume": "107 ml",
 		"longest_side": "104 mm",
 		
+		"handling_modifier": 8,
+		
 		"price": "25 USD"
 	
 	},
@@ -331,6 +361,8 @@
 		"volume": "127 ml",
 		"longest_side": "108 mm",
 		
+		"handling_modifier": 11,
+		
 		"price": "32 USD"
 	
 	},
@@ -349,6 +381,8 @@
 		"weight": "130 g",
 		"volume": "122 ml",
 		"longest_side": "111 mm",
+		
+		"handling_modifier": 12,
 		
 		"price": "35 USD"
 	
@@ -370,6 +404,8 @@
 		"//volume2": "50% increase from previous due to palm rest",
 		"volume": "183 ml",
 		"longest_side": "111 mm",
+		
+		"handling_modifier": 14,
 		
 		"price": "55 USD"
 	
