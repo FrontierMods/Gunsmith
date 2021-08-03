@@ -75,6 +75,45 @@
 		
 		"mod_targets": [ "ar15" ]
 	
+	},
+	
+	{
+	
+		"abstract": "barrel_ar15_556",
+		"copy-from": "barrel_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform 5.56mm barrel" },
+		"description": "idea of an AR-15-platform 5.56mm barrel",
+		
+		"acceptable_ammo": [ "223" ]
+	
+	},
+	
+	{
+	
+		"abstract": "barrel_ar15_300blk",
+		"copy-from": "barrel_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform .300 Blackout barrel" },
+		"description": "idea of an AR-15-platform .300 Blackout barrel",
+		
+		"acceptable_ammo": [ "300blk" ]
+	
+	},
+	
+	{
+	
+		"abstract": "barrel_ar15_9mm",
+		"copy-from": "barrel_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform 9mm barrel" },
+		"description": "idea of an AR-15-platform 9mm barrel",
+		
+		"acceptable_ammo": [ "9mm" ]
+	
 	}
 
 ]

@@ -3,7 +3,7 @@
 	{
 	
 		"id": "barrel_ar15_colt_20in_223",
-		"copy-from": "barrel_rifle_threaded",
+		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.royaltigerimports.com/product-p/colt16b.htm",
@@ -17,8 +17,6 @@
 		"volume": "117 ml",
 		"longest_side": "51 cm",
 		
-		"acceptable_ammo": [ "223" ],
-		
 		"price": "259 USD"
 	
 	},
@@ -26,7 +24,7 @@
 	{
 	
 		"id": "barrel_ar15_dd_16in_223",
-		"copy-from": "barrel_rifle_threaded",
+		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.righttobear.com/Daniel-Defense-16-5-56-CHF-Barrel-Lightweight-p/07-078-09136-018.htm",
@@ -39,14 +37,12 @@
 		"volume": "122 ml",
 		"longest_side": "407 mm",
 		
-		"acceptable_ammo": [ "223" ],
-		
 		"price": "290 USD"
 	
 	}{
 	
 		"id": "barrel_ar15_ba_10.5in_223",
-		"copy-from": "barrel_rifle_threaded",
+		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.righttobear.com/ballistic-advantage-10-5-5-56-govt-profile-barrel-p/babl556005m.htm",
@@ -59,8 +55,6 @@
 		"volume": "80 ml",
 		"longest_side": "267 mm",
 		
-		"acceptable_ammo": [ "223" ],
-		
 		"price": "150 USD"
 	
 	},
@@ -68,7 +62,7 @@
 	{
 	
 		"id": "barrel_ar15_spikes_16in_300blk",
-		"copy-from": "barrel_rifle_threaded",
+		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-16-300-blackout-barrel/",
@@ -81,8 +75,6 @@
 		"volume": "122 ml",
 		"longest_side": "407 mm",
 		
-		"acceptable_ammo": [ "300blk" ],
-		
 		"price": "375 USD"
 	
 	},
@@ -90,7 +82,7 @@
 	{
 	
 		"id": "barrel_ar15_spikes_8.3in_300blk",
-		"copy-from": "barrel_rifle_threaded",
+		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-8-3-300-blackout-barrel/",
@@ -102,8 +94,6 @@
 		"//volume": "from cylinder calculations: d = 0.750 in, h = 8.3 in",
 		"volume": "63 ml",
 		"longest_side": "211 mm",
-		
-		"acceptable_ammo": [ "300blk" ],
 		
 		"price": "275 USD"
 	
