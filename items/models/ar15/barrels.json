@@ -43,7 +43,9 @@
 		
 		"price": "290 USD"
 	
-	}{
+	},
+	
+	{
 	
 		"id": "barrel_ar15_ba_10.5in_223",
 		"copy-from": "barrel_ar15_223",
