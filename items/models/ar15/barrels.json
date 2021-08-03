@@ -9,7 +9,7 @@
 		"//source": "https://www.royaltigerimports.com/product-p/colt16b.htm",
 		"//source2": "https://retrorifles.com/20-pencil-barrel-ar-15-xm16e1-m16-m16a1/",
 		
-		"name": { "str": "20\" 5.56mm Colt M16 barrel" },
+		"name": { "str": "20\" 5.56mm Colt factory barrel" },
 		"description": "TBD",
 		
 		"weight": "765 g",
@@ -29,7 +29,7 @@
 		
 		"//source": "https://www.righttobear.com/Daniel-Defense-16-5-56-CHF-Barrel-Lightweight-p/07-078-09136-018.htm",
 		
-		"name": { "str": "16\" 5.56mm Daniel Defense AR-15 barrel" },
+		"name": { "str": "16\" 5.56mm Daniel Defense barrel" },
 		"description": "TBD",
 		
 		"weight": "680 g",
@@ -47,7 +47,7 @@
 		
 		"//source": "https://www.righttobear.com/ballistic-advantage-10-5-5-56-govt-profile-barrel-p/babl556005m.htm",
 		
-		"name": { "str": "10.5\" 5.56mm Ballistic Advantage AR-15 barrel" },
+		"name": { "str": "10.5\" 5.56mm Ballistic Advantage barrel" },
 		"description": "TBD",
 		
 		"weight": "539 g",
