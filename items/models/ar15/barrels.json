@@ -139,6 +139,215 @@
 		
 		"price": "275 USD"
 	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_v7_10.25in_300blk",
+		"copy-from": "barrel_ar15_300blk",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/v-seven-300-blackout-barrel/",
+		
+		"name": { "str": "10.25\" .300BLK V Seven barrel" },
+		"description": "TBD",
+		
+		"weight": "588 g",
+		"volume": "74 ml",
+		"longest_side": "260 mm",
+		
+		"price": "369 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_ba_14.5in_300blk",
+		"copy-from": "barrel_ar15_300blk",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/ballistic-advantage-modern-series-300-blackout-barrel-drp-profile/",
+		
+		"name": { "str": "14.5\" .300BLK Ballistic Advantange Modern barrel" },
+		"description": "TBD",
+		
+		"weight": "768 g",
+		"volume": "105 ml",
+		"longest_side": "368 mm",
+		
+		"price": "167 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_ba_10.3in_300blk",
+		"copy-from": "barrel_ar15_300blk",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/barrels/300-blackout-barrels/ballistic-advantage-performance-series-300-blackout-barrel-hanson-profile/",
+		
+		"name": { "str": "10.3\" .300BLK Ballistic Advantange Performance barrel" },
+		"description": "TBD",
+		
+		"weight": "568 g",
+		"volume": "75 ml",
+		"longest_side": "262 mm",
+		
+		"price": "209 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_spikes_16in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/spikes-tactical-16-9mm-ar-barrel/",
+		
+		"name": { "str": "16\" 9mm Spike's Tactical barrel" },
+		"description": "TBD",
+		
+		"weight": "794 g",
+		"volume": "116 ml",
+		"longest_side": "406 mm",
+		
+		"price": "170 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_odin_10.5in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-10-5-ar-9mm-barrel/",
+		
+		"name": { "str": "10.5\" 9mm ODIN Works barrel" },
+		"description": "TBD",
+		
+		"weight": "526 g",
+		"volume": "76 ml",
+		"longest_side": "267 mm",
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_odin_7.5in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-7-5-9mm-ar-barrel/",
+		
+		"name": { "str": "7.5\" 9mm ODIN Works barrel" },
+		"description": "TBD",
+		
+		"weight": "395 g",
+		"volume": "54 ml",
+		"longest_side": "191 mm",
+		
+		"price": "140 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_odin_16.1in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-16-1-9mm-ar-15-barrel/",
+		
+		"name": { "str": "16.1\" 9mm ODIN Works barrel" },
+		"description": "TBD",
+		
+		"weight": "768 g",
+		"volume": "117 ml",
+		"longest_side": "408 mm",
+		
+		"price": "200 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_ba_11in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/ballistic-advantage-9mm-ar-15-barrel-modern-series/",
+		
+		"name": { "str": "11\" 9mm Ballistic Advantage barrel" },
+		"description": "TBD",
+		
+		"weight": "505 g",
+		"volume": "80 ml",
+		"longest_side": "280 mm",
+		
+		"price": "129 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_ba_4.5in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/faxon-firearms-tapered-9mm-ar-barrel/",
+		
+		"name": { "str": "4.5\" 9mm Faxon Firearms barrel" },
+		"description": "TBD",
+		
+		"weight": "242 g",
+		"volume": "33 ml",
+		"longest_side": "114 mm",
+		
+		"price": "104 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_kv_8.5in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/kaw-valley-precision-9mm-ar-barrel/",
+		
+		"name": { "str": "8.5\" 9mm Kaw Valley Precision barrel" },
+		"description": "TBD",
+		
+		"weight": "390 g",
+		"volume": "62 ml",
+		"longest_side": "216 mm",
+		
+		"price": "105 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_spikes_5.5in_9mm",
+		"copy-from": "barrel_ar15_9mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/spikes-tactical-5-5-9mm-ar-barrel/",
+		
+		"name": { "str": "5.5\" 9mm Spike's Tactical barrel" },
+		"description": "TBD",
+		
+		"weight": "283 g",
+		"volume": "40 ml",
+		"longest_side": "140 mm",
+		
+		"price": "130 USD"
+	
 	}
 
 ]
