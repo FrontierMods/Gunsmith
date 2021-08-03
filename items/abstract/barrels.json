@@ -79,12 +79,12 @@
 	
 	{
 	
-		"abstract": "barrel_ar15_556",
+		"abstract": "barrel_ar15_223",
 		"copy-from": "barrel_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15-platform 5.56mm barrel" },
-		"description": "idea of an AR-15-platform 5.56mm barrel",
+		"name": { "str": "AR-15-platform .223 barrel" },
+		"description": "idea of an AR-15-platform .223 barrel",
 		
 		"acceptable_ammo": [ "223" ]
 	
