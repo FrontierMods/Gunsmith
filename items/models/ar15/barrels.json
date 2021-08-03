@@ -66,6 +66,45 @@
 	
 	{
 	
+		"id": "barrel_ar15_spikes_18in_223",
+		"copy-from": "barrel_ar15_223",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/spikes-tactical-spr-special-purpose-ar15-18-inch-barrel/",
+		
+		"name": { "str": "18\" 5.56mm Spike's Tactical barrel" },
+		"description": "TBD",
+		
+		"weight": "881 g",
+		"volume": "130 ml",
+		"longest_side": "457 mm",
+		
+		"price": "350 USD"
+	
+	},
+	
+	{
+	
+		"id": "barrel_ar15_v7_14.5in_223",
+		"copy-from": "barrel_ar15_223",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/v-seven-lightweight-5-56-stainless-steel-match-grade-ar-15-barrel/",
+		
+		"name": { "str": "14.5\" 5.56mm V Seven lightweight barrel" },
+		"description": "TBD",
+		
+		"weight": "652 g",
+		"//volume": "0.625 in. diameter assumed",
+		"volume": "73 ml",
+		"longest_side": "368 mm",
+		
+		"price": "480 USD"
+	
+	},
+	
+	{
+	
 		"id": "barrel_ar15_spikes_16in_300blk",
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
