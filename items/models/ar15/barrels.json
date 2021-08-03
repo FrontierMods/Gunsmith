@@ -2,6 +2,9 @@
 
 	{
 	
+		"//VOLUME_NOTE": "calculations via cylinder volume",
+		"//VOLUME_NOTE2": "assumes d = 0.750 in. unless stated otherwise",
+	
 		"id": "barrel_ar15_colt_20in_223",
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
@@ -13,7 +16,7 @@
 		"description": "TBD",
 		
 		"weight": "765 g",
-		"//volume": "from cylinder calculations: d = 0.625 in, h = 20 in",
+		"//volume": "d = 0.625 in",
 		"volume": "117 ml",
 		"longest_side": "51 cm",
 		
@@ -33,7 +36,6 @@
 		"description": "TBD",
 		
 		"weight": "680 g",
-		"//volume": "from cylinder calculations: d = 0.750 in, h = 16 in",
 		"volume": "122 ml",
 		"longest_side": "407 mm",
 		
@@ -51,7 +53,6 @@
 		"description": "TBD",
 		
 		"weight": "539 g",
-		"//volume": "from cylinder calculations: d = 0.750 in, h = 10.5 in",
 		"volume": "80 ml",
 		"longest_side": "267 mm",
 		
@@ -71,7 +72,6 @@
 		"description": "TBD",
 		
 		"weight": "992 g",
-		"//volume": "from cylinder calculations: d = 0.750 in, h = 16 in",
 		"volume": "122 ml",
 		"longest_side": "407 mm",
 		
@@ -91,7 +91,6 @@
 		"description": "TBD",
 		
 		"weight": "482 g",
-		"//volume": "from cylinder calculations: d = 0.750 in, h = 8.3 in",
 		"volume": "63 ml",
 		"longest_side": "211 mm",
 		
