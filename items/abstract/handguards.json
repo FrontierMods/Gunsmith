@@ -34,10 +34,10 @@
 		
 		"add_mod": [
 		
-			[ "rail",         3 ],
-			[ "underbarrel",  1 ],
-			[ "iron sights",  1 ],
-			[ "offset mount", 1 ]
+			[ "rail",               3 ],
+			[ "underbarrel",        1 ],
+			[ "iron sights",        1 ],
+			[ "offset sight mount", 1 ]
 		
 		],
 		
