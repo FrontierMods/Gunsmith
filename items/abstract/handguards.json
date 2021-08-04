@@ -42,7 +42,7 @@
 		],
 		
 		"//sights": "basic aiming against the angled side of the handguard, in absence of regular iron sights; better than nothing",
-		"sight_dispersion": 15,
+		"sight_dispersion": 25,
 		"aim_speed": 8
 	
 	},
