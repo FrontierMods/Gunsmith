@@ -16,8 +16,7 @@
 		"dependencies": [ 
 		
 			"dda",
-			"materials",
-			"calibers"
+			"materials"
 			
 		]
 		
