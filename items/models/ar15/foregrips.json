@@ -1,0 +1,740 @@
+[
+
+	{
+	
+		"id": "foregrip_dd",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//note": "base game forward grip",
+		"//source": "https://danieldefense.com/daniel-defense-vertical-foregrip-daniel-defense-tornado.html",
+		
+		"name": { "str": "Daniel Defense vertical grip" },
+		"description": "TBD",
+		
+		"weight": "68 g",
+		"//volume": "30% trim due to shape",
+		"volume": "143 ml",
+		"longest_side": "114 mm",
+		
+		"material": [
+		
+			"plastic",
+			"rubber"
+		
+		],
+		
+		"//interface": "Picatinny",
+		
+		"price": "32 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_icrw",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/iron-city-rifle-works-reversible-m-lok-handstop/",
+		
+		"name": { "str": "Iron City Rifle Works reversible handstop" },
+		"description": "TBD",
+		
+		"weight": "19 g",
+		"//volume": "50% trim due to shape",
+		"volume": "10 ml",
+		"longest_side": "64 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "35 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_strike_short",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/strike-industries-picatinny-angled-vertical-grip-w-cable-management/",
+		
+		"name": { "str": "Strike Industries short vertical grip" },
+		"description": "TBD",
+		
+		"weight": "48 g",
+		"//volume": "30% trim due to shape",
+		"volume": "67 ml",
+		"longest_side": "64 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "20 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_ergo",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/ergo-pop-bottle-vertical-forward-grip-vfg/",
+		
+		"name": { "str": "ERGO Pop Bottle vertical grip" },
+		"description": "TBD",
+		
+		"weight": "58 g",
+		"//volume": "30% trim due to shape",
+		"volume": "108 ml",
+		"longest_side": "93 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "22 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_tyrant_mod",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/foregrips/tyrant-designs-mod-foregrip-fit-both-keymod-and-m-lok/",
+		
+		"name": { "str": "Tyrant Designs MOD foregrip" },
+		"description": "TBD",
+		
+		"weight": "48 g",
+		"//volume": "40% trim due to shape",
+		"volume": "48 ml",
+		"longest_side": "140 mm",
+		
+		"material": [
+		
+			"aluminum",
+			"plastic"
+		
+		],
+		
+		"//interface": "KeyMod, M-LOK",
+		
+		"price": "75 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_tyrant_modv2",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/tyrant-designs-mod-v2-foregrip-fit-both-keymod-and-m-lok/",
+		
+		"name": { "str": "Tyrant Designs MOD V2 foregrip" },
+		"description": "TBD",
+		
+		"weight": "83 g",
+		"//volume": "30% trim due to shape",
+		"volume": "62 ml",
+		"longest_side": "148 mm",
+		
+		"material": [
+		
+			"aluminum",
+			"plastic"
+		
+		],
+		
+		"//interface": "KeyMod, M-LOK",
+		
+		"price": "70 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_dd_short",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/daniel-defense-enhanced-m-lok-vertical-foregrip/",
+		
+		"name": { "str": "Daniel Defense short vertical grip" },
+		"description": "TBD",
+		
+		"weight": "52 g",
+		"//volume": "10% trim due to shape",
+		"volume": "86 ml",
+		"longest_side": "83 mm",
+		
+		"material": [
+		
+			"plastic",
+			"rubber"
+		
+		],
+		
+		"//interface": "M-LOK",
+		"//interface_note": "could be any: Daniel Defense produces for all three major interfaces",
+		
+		"price": "32 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_strike_bikini",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//note": "assumes 1× handstop",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/strike-industries-bikini-hand-stop-2-pack/",
+		
+		"name": { "str": "Strike Industries Bikini handstop" },
+		"description": "TBD",
+		
+		"weight": "6 g",
+		"//volume": "30% trim due to shape",
+		"volume": "7 ml",
+		"longest_side": "34 mm",
+		
+		"//interface": "M-LOK",
+		
+		"//price": "12 USD for a 2-pack",
+		"price": "6 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_fortis_shift_handstop",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/fortis-shift-m-lok-reversible-carbon-fiber-handstop/",
+		
+		"name": { "str": "Fortis Shift reversible handstop" },
+		"description": "TBD",
+		
+		"weight": "31 g",
+		"//volume": "40% trim due to shape",
+		"volume": "20 ml",
+		"longest_side": "60 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "53 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_arisaka",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/arisaka-defense-keymod-vertical-grip/",
+		
+		"name": { "str": "Arisaka Defense vertical grip" },
+		"description": "TBD",
+		
+		"weight": "53 g",
+		"//volume": "from cylinder volume",
+		"volume": "55 ml",
+		"longest_side": "64 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "KeyMod",
+		
+		"price": "53 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_strike_link",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/strike-industries-link-anchor-polymer-hand-stop/",
+		
+		"name": { "str": "Strike Industries LINK handstop" },
+		"description": "TBD",
+		
+		"weight": "17 g",
+		"//volume": "60% trim due to shape",
+		"volume": "18 ml",
+		"longest_side": "75 mm",
+		
+		"//interface": "KeyMod, M-LOK",
+		
+		"price": "15 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_slr_barricade",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//note": "mod 1",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/slr-rifleworks-keymod-barricade-handstop/",
+		
+		"name": { "str": "SLR Rifleworks Barricade handstop" },
+		"description": "TBD",
+		
+		"weight": "20 g",
+		"//volume": "50% trim due to shape",
+		"volume": "10 ml",
+		"longest_side": "50 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "KeyMod",
+		
+		"price": "36 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_impact",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//note": "barrier face",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/impact-weapons-components-m-lok-hand-stop/",
+		
+		"name": { "str": "Impact Weapons Components handstop" },
+		"description": "TBD",
+		
+		"weight": "20 g",
+		"//volume": "40% trim due to shape",
+		"volume": "9 ml",
+		"longest_side": "34 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "27 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_slr_fingerstop",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/slr-rifleworks-m-lok-finger-stop/",
+		
+		"name": { "str": "SLR Rifleworks fingerstop" },
+		"description": "TBD",
+		
+		"weight": "9 g",
+		"//volume": "40% trim due to shape",
+		"//dimensions": "width assumed from previous entry; length assumed from visuals to be 1.5× height",
+		"volume": "6 ml",
+		"longest_side": "31 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "36 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_seekins_m20",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/seekins-precision-m20-m-lok-angled-grip/",
+		
+		"name": { "str": "Seekins Precision M20 angled grip" },
+		"description": "TBD",
+		
+		"weight": "56 g",
+		"//volume": "30% trim due to shape",
+		"volume": "55 ml",
+		"longest_side": "132 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "49 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_odin_b1",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/odin-works-b1-m-lok-handstop/",
+		
+		"name": { "str": "ODIN Works B1 handstop" },
+		"description": "TBD",
+		
+		"weight": "34 g",
+		"//volume": "30% trim due to shape",
+		"volume": "28 ml",
+		"longest_side": "61 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "49 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_ascend",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/ascend-armory-aluminum-m-lok-angled-foregrip/",
+		
+		"name": { "str": "Ascend Armory angled grip" },
+		"description": "TBD",
+		
+		"weight": "20 g",
+		"//volume": "40% trim due to shape",
+		"volume": "18 ml",
+		"longest_side": "76 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "39 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_p5_micro",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/phase-5-m-lok-micro-handstop/",
+		
+		"name": { "str": "Ascend Armory angled grip" },
+		"description": "TBD",
+		
+		"weight": "15 g",
+		"//volume": "40% trim due to shape",
+		"volume": "9 ml",
+		"longest_side": "39 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "35 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_tyrant_halo",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/tyrant-designs-halo-handstop-for-keymod-m-lok-system/",
+		
+		"name": { "str": "Tyrant Desings HALO handstop" },
+		"description": "TBD",
+		
+		"weight": "26 g",
+		"//volume": "20% trim due to shape",
+		"volume": "18 ml",
+		"longest_side": "38 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "KeyMod, M-LOK",
+		
+		"price": "45 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_tyrant_halo_minivert",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/foregrips/tyrant-designs-halo-minivert-grip-fit-both-keymod-and-m-lok/",
+		
+		"name": { "str": "Tyrant Designs HALO MiniVert grip" },
+		"description": "TBD",
+		
+		"weight": "71 g",
+		"//volume": "30% trim due to shape",
+		"volume": "53 ml",
+		"longest_side": "77 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "KeyMod, M-LOK",
+		
+		"price": "58 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_fortis_shift",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/fortis-shift-m-lok-forend-vertical-grip/",
+		
+		"name": { "str": "Fortis Shift vertical grip" },
+		"description": "TBD",
+		
+		"weight": "108 g",
+		"//volume": "30% trim due to shape",
+		"volume": "131 ml",
+		"longest_side": "77 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "85 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_fortis_shift_angled",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/fortis-shift-m-lok-short-angled-grip/",
+		
+		"name": { "str": "Fortis Shift angled grip" },
+		"description": "TBD",
+		
+		"weight": "71 g",
+		"//volume": "20% trim due to shape",
+		"volume": "78 ml",
+		"longest_side": "74 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"//interface": "M-LOK",
+		
+		"price": "75 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_strike_cobra",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/strike-industries-cobra-tactical-foregrip/",
+		
+		"name": { "str": "Strike Industries Cobra angled grip" },
+		"description": "TBD",
+		
+		"weight": "40 g",
+		"//volume": "30% trim due to shape",
+		"//dimensions": "height and width assumed from previous entry",
+		"volume": "97 ml",
+		"longest_side": "106 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "25 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_missionfirst",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/strike-industries-cobra-tactical-foregrip/",
+		
+		"name": { "str": "Mission First Tactical React vertical grip" },
+		"description": "TBD",
+		
+		"weight": "65 g",
+		"//volume": "10% trim due to shape",
+		"volume": "213 ml",
+		"longest_side": "117 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "25 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_ergo_surestop",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/foregrips/ergo-surestop-tactical-rail-hand-stop/",
+		
+		"name": { "str": "ERGO SURESTOP handstop" },
+		"description": "TBD",
+		
+		"weight": "28 g",
+		"//volume": "40% trim due to shape",
+		"volume": "38 ml",
+		"longest_side": "57 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "14 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_missionfirst_folding",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/mission-first-tactical-react-folding-grip-rfg/",
+		
+		"name": { "str": "Mission First Tactical React folding vertical grip" },
+		"description": "TBD",
+		
+		"weight": "106 g",
+		"//volume": "10% trim due to shape",
+		"volume": "214 ml",
+		"longest_side": "110 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "40 USD",
+		
+		"flags": [ "NEEDS_UNFOLD" ]
+	
+	},
+	
+	{
+	
+		"id": "foregrip_magpul_afg2",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/foregrips/magpul-afg2-angled-fore-grip/",
+		
+		"name": { "str": "Magpul AFG2 angled grip" },
+		"description": "TBD",
+		
+		"weight": "72 g",
+		"//volume": "40% trim due to shape",
+		"volume": "123 ml",
+		"longest_side": "119 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "35 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_fab_folding",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/fab-defense-7-position-tactical-folding-foregrip-t-fl/",
+		
+		"name": { "str": "FAB Defense folding vertical grip" },
+		"description": "TBD",
+		
+		"weight": "133 g",
+		"//volume": "30% trim due to shape",
+		"volume": "187 ml",
+		"longest_side": "111 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "45 USD",
+		
+		"flags": [ "NEEDS_UNFOLD" ]
+	
+	},
+	
+	{
+	
+		"id": "foregrip_magpul",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/foregrips/magpul-rail-vertical-grip-rvg/",
+		
+		"name": { "str": "Magpul short vertical grip" },
+		"description": "TBD",
+		
+		"weight": "78 g",
+		"//volume": "10% trim due to shape",
+		"volume": "95 ml",
+		"longest_side": "84 mm",
+		
+		"//interface": "Picatinny",
+		
+		"price": "25 USD"
+	
+	},
+	
+	{
+	
+		"id": "foregrip_f1",
+		"copy-from": "foregrip_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/foregrips/f-1-firearms-m-lok-skeletonized-angled-foregrip/",
+		
+		"name": { "str": "F-1 Firearms skeletonized angled grip" },
+		"description": "TBD",
+		
+		"weight": "62 g",
+		"//volume": "30% trim due to shape",
+		"volume": "76 ml",
+		"longest_side": "105 mm",
+		
+		"//interface": "M-LOK",
+		
+		"add_mods": [
+		
+			[ "grip wrap", 1 ]
+		
+		],
+		
+		"price": "72 USD"
+	
+	}
+
+]
