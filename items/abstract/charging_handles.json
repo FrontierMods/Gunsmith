@@ -29,6 +29,18 @@
 		"location": "charging handle",
 		"install_time": "30 s"
 	
+	},
+	
+	{
+	
+		"abstract": "charging_handle_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "AR-15-platform charging handle" },
+		"description": "idea of an AR-15-platform charging handle",
+		
+		"mod_targets": [ "ar15" ]
+	
 	}
 	
 ]
