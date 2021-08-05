@@ -8,8 +8,16 @@
 		"name": { "str": "charging handle" },
 		"description": "idea of a charging handle",
 		
-		"weight": "250 g",
-		"volume": "250 ml",
+		"//weight": "rough average of most available handles",
+		"weight": "38 g",
+		"//volume + longest_side": "based on Anderson Manufacturing handle dimensions + BAD RACK handle for a more realistic width",
+		"//source": "https://www.primaryarms.com/anderson-manufacturing-standard-charging-handle-for-ar-15-am-27-assm",
+		"//source2": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/",
+		"//dimensions": "8 × 2 × 1 in.",
+		"//volume": "broken down into two parts for easier total volume calculations",
+		"//breakdown": "7 × 1 × 1 in. for the body + 1 × 2.75 × 1.5 in. for the handle itself",
+		"volume": "173 ml",
+		"longest_side": "203 mm",
 		
 		"material": [ "steel" ],
 		
