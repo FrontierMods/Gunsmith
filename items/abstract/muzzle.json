@@ -1,0 +1,68 @@
+[
+
+	{
+	
+		"abstract": "muzzle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "muzzle device" },
+		"description": "idea of a muzzle device",
+		
+		"weight": "50 g",
+		"volume": "50 ml",
+		"longest_side": "50 mm",
+		
+		"material": [ "steel" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "muzzle",
+		"install_time": "30 s"
+	
+	},
+	
+	{
+	
+		"abstract": "muzzle_brake",
+		"copy-from": "muzzle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "muzzle brake" },
+		"description": "idea of a muzzle brake",
+		
+		"recoil_modifier": -10
+	
+	},
+	
+	{
+	
+		"abstract": "suppressor",
+		"copy-from": "muzzle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "suppressor" },
+		"description": "idea of a suppressor",
+		
+		"longest_side": "178 mm",
+		
+		"loudness_modifier": -10,
+		"//damage_modifier": "average for a 7 in. suppressor",
+		"damage_modifier": 2,
+		"//dispersion_modifier": "basic suppressor effect",
+		"dispersion_modifier": 1
+	
+	},
+	
+	{
+	
+		"abstract": "muzzle_adapter",
+		"copy-from": "muzzle_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "muzzle adapter" },
+		"description": "idea of a muzzle adapter"
+	
+	}
+
+]
