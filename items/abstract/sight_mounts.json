@@ -1,0 +1,55 @@
+[
+
+	{
+	
+		"abstract": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "sight mount" },
+		"description": "idea of a sight mount",
+		
+		"weight": "100 g",
+		"volume": "100 ml",
+		"longest_side": "100 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "sights",
+		"install_time": "30 s",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow",
+			"launcher"
+			
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "sight_mount_30mm",
+		"copy-from": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "30mm sight mount" },
+		"description": "idea of a 30mm sight mount",
+		
+		"location": "sights",
+		"install_time": "30 s",
+		
+		"add_mods": [
+		
+			[ "30mm scope mount", 1 ]
+		
+		]
+	
+	}
+
+]
