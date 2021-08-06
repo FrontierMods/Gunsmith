@@ -1,0 +1,276 @@
+[
+
+	{
+	
+		"id": "iron_sights_aero",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/aero-precision-low-profile-flip-up-iron-sight-set/",
+		
+		"name": { "str": "Aero Precision low-profile iron sights" },
+		"description": "TBD",
+		
+		"weight": "96 g",
+		
+		"price": "106 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_ultradyne_c4",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c4-flip-up-front-and-rear-sight/",
+		
+		"name": { "str": "Ultradyne C4 iron sights" },
+		"description": "TBD",
+		
+		"weight": "133 g",
+		
+		"//sight_dispersion": "12 MOA",
+		"sight_dispersion": 48,
+		
+		"price": "249 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_scalarworks",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/scalarworks-peak-fixed-iron-sights-set/",
+		
+		"name": { "str": "Scalarworks PEAK iron sights" },
+		"description": "TBD",
+		
+		"weight": "68 g",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"//price": "129 USD per front/rear sight separately",
+		"price": "258 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_strike_sidewinder2",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-ii-45-degree-offset-inline-flip-up-sights/",
+		
+		"name": { "str": "Strike Industries Sidewinder II offset iron sights" },
+		"description": "TBD",
+		
+		"weight": "101 g",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_strike_sidewinder",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-45-degree-offset-co-witness-flip-up-sights/",
+		
+		"name": { "str": "Strike Industries Sidewinder offset iron sights" },
+		"description": "TBD",
+		
+		"weight": "96 g",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"price": "160 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_diamondhead",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/diamondhead-polymer-integrated-sighting-system-with-nitebrite/",
+		
+		"name": { "str": "Diamondhead iron sights" },
+		"description": "TBD",
+		
+		"weight": "72 g",
+		"volume": "48 ml",
+		"longest_side": "65 mm",
+		
+		"material": [
+			
+			"plastic"
+		
+		],
+		
+		"price": "118 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_ultradyne_c2",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c2-flip-up-front-and-rear-sight-combo/",
+		
+		"name": { "str": "Ultradyne C2 iron sights" },
+		"description": "TBD",
+		
+		"weight": "96 g",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"price": "199 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_spikes_micro",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-front-sight/",
+		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-rear-sight/",
+		
+		"name": { "str": "Spike's Tactical micro iron sights" },
+		"description": "TBD",
+		
+		"weight": "64 g",
+		"volume": "60 ml",
+		"longest_side": "44 ml",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"//price": "105 USD + 125 USD",
+		"price": "230 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_troy",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-m4-flip-up-front-battle-sight/",
+		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-folding-rear-battle-sight/",
+		
+		"name": { "str": "Troy Industries iron sights" },
+		"description": "TBD",
+		
+		"weight": "89 g",
+		"volume": "70 ml",
+		"longest_side": "54 ml",
+		
+		"material": [
+			
+			"aluminum",
+			"steel"
+		
+		],
+		
+		"//price": "100 USD + 120 USD",
+		"price": "220 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_magpul_mbus",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-front-sight-mbus/",
+		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus/",
+		
+		"name": { "str": "Magpul MBUS iron sights" },
+		"description": "TBD",
+		
+		"weight": "71 g",
+		"//volume": "width assumed from previous entry",
+		"//volume2": "slightly inaccurate, since it assumes total height is height from top of rail to aperture",
+		"volume": "88 ml",
+		"longest_side": "76 ml",
+		
+		"material": [
+			
+			"plastic"
+		
+		],
+		
+		"//price": "40 USD + 58 USD",
+		"price": "98 USD"
+	
+	},
+	
+	{
+	
+		"id": "iron_sights_magpul_pro",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-mbus-pro-front-sight/",
+		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus-pro/",
+		
+		"name": { "str": "Magpul MBUS Pro iron sights" },
+		"description": "TBD",
+		
+		"weight": "94 g",
+		"//volume": "width and length assumed from previous entry",
+		"//volume2": "slightly inaccurate, since it assumes total height is height from top of rail to aperture",
+		"volume": "87 ml",
+		"longest_side": "76 ml",
+		
+		"material": [
+			
+			"plastic"
+		
+		],
+		
+		"//price": "85 USD + 105 USD",
+		"price": "190 USD"
+	
+	}
+
+]
