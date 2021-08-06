@@ -16,6 +16,9 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
+		"//range_modifier": "sets range here, as opposed to the barrel, because (A) range is maximum for modern gas-operated rifles anyway, and (B) this emulates the necessity of the gas block as an operative part of the firearm",
+		"range_modifier": 120,
+		
 		"location": "gas block",
 		"install_time": "30 s"
 	

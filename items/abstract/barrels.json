@@ -17,9 +17,6 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
-		"//range_modifier": "It makes little sense that guns cannot reach beyond a certain range, as though bullets have the drop of an arrow",
-		"range_modifier": 120,
-		
 		"location": "barrel",
 		"install_time": "30 s"
 	

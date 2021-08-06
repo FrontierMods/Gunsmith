@@ -16,7 +16,7 @@
 		"symbol": "(",
 		"color": "dark_gray",
 		
-		"//range": "prevents the gun from firing; barrel adds range",
+		"//range": "prevents the gun from firing; gas block adds range",
 		"//range2": "this implementation causes a safe error with ranged.cpp:2335",
 		"range": -120
 	
