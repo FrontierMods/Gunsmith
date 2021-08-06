@@ -1,0 +1,353 @@
+[
+
+	{
+	
+		"id": "suppressor_surefire_socom556",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.surefire.com/products/suppressors-division/suppressors/socom556-rc2-suppressor/",
+		
+		"name": { "str": "Surefire SOCOM556-RC2 suppressor" },
+		"description": "TBD",
+		
+		"weight": "482 g",
+		"volume": "180 ml",
+		"longest_side": "162 mm",
+		"//added_length": "97 mm",
+		
+		"damage_modifier": 2,
+		
+		"//calibers": [ "556" ],
+		
+		"//sound_lower": "134 dB @ 16 in. w/ M855",
+		
+		"price": "1100 USD"
+	
+	},
+	
+	{
+	
+		"id": "suppressor_thunderbeast_dominus",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//source": "https://thunderbeastarms.com/products/dominus-sr",
+		
+		"name": { "str": "Thunder Beast Arms Dominus-SR suppressor" },
+		"description": "TBD",
+		
+		"weight": "354 g",
+		"volume": "290 ml",
+		"longest_side": "177 mm",
+		"//added_length": "162 mm",
+		
+		"damage_modifier": 2,
+		
+		"material": [ 
+		
+			"titanium",
+			"steel"
+			
+		]
+		
+		"//calibers": [ "556", "300BLK", "65Grendel", "65PRC", "300win", "68SPC", "762x39", "6.5Creedmoor", ".308win" ],
+		
+		"//sound_lower": "137 dB @ 20 in. w/ .308",
+		
+		"price": "1495 USD"
+	
+	},
+	
+	{
+	
+		"id": "suppressor_thunderbeast_ultra9",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//source": "https://thunderbeastarms.com/products/ultra-9",
+		
+		"name": { "str": "Thunder Beast Arms Ultra 9 Gen 2 suppressor" },
+		"description": "TBD",
+		
+		"weight": "335 g",
+		"volume": "375 ml",
+		"longest_side": "229 mm",
+		"//added_length": "?? mm",
+		
+		"damage_modifier": 3,
+		
+		"material": [ 
+		
+			"titanium",
+			"steel"
+			
+		],
+		
+		"//calibers": [ "556", "300BLK", "65Grendel", "65PRC", "300win", "68SPC", "762x39", "6.5Creedmoor", ".308win" ],
+		
+		"//sound_lower": "135 dB @ 20 in. w/ .308",
+		
+		"price": "1145 USD"
+	
+	},
+	
+	{
+	
+		"id": "suppressor_silentlegion_223",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//source": "https://thunderbeastarms.com/products/ultra-9",
+		
+		"name": { "str": "Silent Legion 5.56mm suppressor" },
+		"description": "TBD",
+		
+		"weight": "439 g",
+		"volume": "292 ml",
+		"longest_side": "178 mm",
+		"//added_length": " mm",
+		
+		"damage_modifier": 2,
+		
+		"//material": "actual material for the steel part is inconel",
+		"material": [ 
+		
+			"titanium",
+			"steel"
+			
+		],
+		
+		"//calibers": [ "556", "300BLK" ],
+		
+		"//sound_reduction": "32 dB",
+		
+		"price": "1120 USD"
+	
+	},
+	
+	{
+	
+		"id": "suppressor_banish_30",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//note": "short 7 in. version without tube extension",
+		
+		"//source": "https://www.silencercentral.com/products/banish-30/",
+		
+		"name": { "str": "Banish 30 suppressor" },
+		"description": "TBD",
+		
+		"weight": "284 g",
+		"volume": "292 ml",
+		"longest_side": "178 mm",
+		"//added_length": "?? mm",
+		
+		"damage_modifier": 2,
+		
+		"material": [ 
+		
+			"titanium",
+			"steel"
+			
+		],
+		
+		"//calibers": [ "556", "300BLK", "308", "300weatherby", "300winmag", "17", "22-50", "204" ],
+		
+		"//sound_reduction": "34 dB",
+		
+		"price": "979 USD"
+	
+	},
+	
+	{
+	
+		"id": "suppressor_eliteiron_bravo1lite",
+		"copy-from": "suppressor",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.eliteiron.com/product/bravo-1-lite-suppressor/",
+		
+		"name": { "str": "Elite Iron Bravo 1 Lite suppressor" },
+		"description": "TBD",
+		
+		"weight": "366 g",
+		"volume": "268 ml",
+		"longest_side": "200 mm",
+		"//added_length": "?? mm",
+		
+		"damage_modifier": 2,
+		
+		"//material": "actual material for the steel part is inconel",
+		"material": [ 
+		
+			"titanium",
+			"steel"
+			
+		],
+		
+		"//calibers": [ "556", "300BLK", "308", "30-06" ],
+		
+		"//sound_reduction": "23 dB",
+		
+		"price": "1095 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_precision_hypertap",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/muzzle-devices/precision-armament-hypertap-muzzle-brake-5-56-223/",
+		
+		"name": { "str": "Precision Armament Hypertap muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "87 g",
+		"volume": "24 ml",
+		"longest_side": "65 mm",
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction_note": "could be bogus",
+		"//recoil_reduction": "84%",
+		
+		"price": "180 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_sjc_titan",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://stores.sjcguns.com/223-5-56-sjc-titan-cs-black/",
+		
+		"name": { "str": "S&J Customs Titan muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "87 g",
+		"volume": "33 ml",
+		"longest_side": "70 mm",
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction": "78%",
+		"//recoil_distance": "2.4688 in.",
+		
+		"price": "100 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_v7",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.vsevenweaponsystems.com/v7-muzzle-brake/",
+		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		
+		"name": { "str": "V Seven muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "76 g",
+		"volume": "22 ml",
+		"longest_side": "53 mm",
+		
+		"material": [ "titanium" ],
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction": "56.35%",
+		"//recoil_distance": "4.9375 in.",
+		
+		"price": "91 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_v7_furion",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.vsevenweaponsystems.com/furion/",
+		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		
+		"name": { "str": "V Seven FURION muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "47 g",
+		"//trim": "trimmed slightly for empty spaces",
+		"volume": "24 ml",
+		"longest_side": "58 mm",
+		
+		"material": [ "titanium" ],
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction": "64.36%",
+		"//recoil_distance": "4.0313 in.",
+		
+		"price": "145 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_apex",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.apextactical.com/apex-enhanced-stabilization-attachment",
+		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		
+		"name": { "str": "Apex Enhanced Stabilization Attachment muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "63 g",
+		"//trim": "trimmed slightly for empty spaces",
+		"volume": "17 ml",
+		"longest_side": "66 mm",
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction": "60.50%",
+		"//recoil_distance": "4.4688 in.",
+		
+		"price": "60 USD"
+	
+	},
+	
+	{
+	
+		"id": "muzzle_brake_deadair_keymount",
+		"copy-from": "muzzle_brake",
+		"type": "GUNMOD",
+		
+		"//source": "https://deadairsilencers.com/product/keymount-muzzle-brake-2/",
+		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		
+		"name": { "str": "Dead Air KeyMount muzzle brake" },
+		"description": "TBD",
+		
+		"weight": "116 g",
+		"//trim": "trimmed slightly for empty spaces",
+		"volume": "37 ml",
+		"longest_side": "66 mm",
+		
+		"//calibers": [ "556" ],
+		
+		"//recoil_reduction": "56.63%",
+		"//recoil_distance": "4.9063 in.",
+		
+		"price": "89 USD"
+	
+	}
+
+]
