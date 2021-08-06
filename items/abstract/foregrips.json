@@ -29,7 +29,7 @@
 			
 		],
 		
-		"add_mod": "simulates the idea of having enough space to install a rail attachment",
+		"//add_mod": "simulates the idea of having enough space to install a rail attachment",
 		"add_mod": [
 		
 			[ "rail", 1 ]
