@@ -1,0 +1,106 @@
+[
+
+	{
+	
+		"id": "sight_mount_scalarworks_leap4",
+		"copy-from": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://scalarworks.com/shop/quick-detach-mounts/leap-04/",
+		"//source2": "https://www.wingtactical.com/accessories/optics-sights/optic-sight-mounts/scalarworks-leap-trijicon-rmr-mount/",
+		
+		"name": { "str": "Scalarworks LEAP-04 RMR mount" },
+		"description": "TBD",
+		
+		"weight": "43 g",
+		"//volume": "10% trim for shape",
+		"volume": "59 ml",
+		"longest_side": "53 mm",
+		
+		"price": "149 USD",
+		
+		"add_mods": [
+		
+			[ "RMR mount", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"id": "sight_mount_trijicon_rm33",
+		"copy-from": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/rm33",
+		"//source2": "https://www.amazon.com/Trijicon-RM33-Mount-Adapter-Profile/dp/B002KFSI6G",
+		
+		"name": { "str": "Trijicon RM33 RMR mount" },
+		"description": "TBD",
+		
+		"weight": "68 g",
+		"//volume": "assumes length and width of the RMR sight",
+		"//volume2": "assumes height of 0.768 in. (distance from top of rail to optical center) minus 0.5 × 1 in. (half the height = optical center of RMR) = 0.268 in.",
+		"volume": "9 ml",
+		"longest_side": "53 mm",
+		
+		"price": "104 USD",
+		
+		"add_mods": [
+		
+			[ "RMR mount", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"id": "sight_mount_30mm_aero",
+		"copy-from": "sight_mount_30mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/optic-sight-mounts/aero-precision-ultralight-extended-scope-mount/",
+		
+		"name": { "str": "Aero Precision Ultralight 30mm scope mount" },
+		"description": "TBD",
+		
+		"weight": "94 g",
+		"//volume": "80% trim for shape",
+		"volume": "52 ml",
+		"longest_side": "121 mm",
+		
+		"price": "95 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_mount_adapter_holosun",
+		"copy-from": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"//source": "https://holosun.com/index/product/detail/id/196.html",
+		"//source2": "https://www.holosun.eu/p/70147353",
+		
+		"name": { "str": "Holosun 407/507k adapter for RMR" },
+		"description": "TBD",
+		
+		"weight": "30 g",
+		"volume": "4 ml",
+		"longest_side": "45 mm",
+		
+		"location": "RMR mount",
+		
+		"add_mods": [
+		
+			[ "Holosun mount", 1 ]
+		
+		],
+		
+		"price": "47 USD"
+	
+	}
+
+]
