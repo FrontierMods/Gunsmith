@@ -1,0 +1,80 @@
+[
+
+	{
+	
+		"abstract": "sight_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "sight" },
+		"description": "idea of a sight",
+		
+		"weight": "100 g",
+		"volume": "100 ml",
+		"longest_side": "100 mm",
+		
+		"material": [ "aluminum" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"location": "sights",
+		"install_time": "30 s",
+		
+		"mod_targets": [ 
+		
+			"rifle",
+			"smg",
+			"shotgun",
+			"crossbow",
+			"launcher"
+			
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "sight_rds",
+		"type": "GUNMOD",
+		
+		"name": { "str": "red dot sight" },
+		"description": "idea of a red dot sight",
+		
+		"//sight_dispersion": "3 MOA in quarter-MOA / 15 arc seconds per point",
+		"sight_dispersion": 12,
+		"aim_speed": 6
+	
+	},
+	
+	{
+	
+		"abstract": "sight_30mm",
+		"type": "GUNMOD",
+		
+		"name": { "str": "30mm scope" },
+		"description": "idea of a 30mm scope",
+		
+		"//sight_dispersion": "3 MOA in quarter-MOA / 15 arc seconds per point",
+		"sight_dispersion": 2,
+		"aim_speed": 18,
+		
+		"location": "30mm mount",
+		"install_time": "30 s",
+		
+		"flags": [ "ZOOM" ]
+	
+	},
+	
+	{
+	
+		"abstract": "sight_ir",
+		"type": "GUNMOD",
+		
+		"name": { "str": "infrared sight" },
+		"description": "idea of an infrared sight",
+		
+		"flags": [ "INFRARED" ]
+	
+	}
+
+]
