@@ -6,6 +6,23 @@
 		"type": "MIGRATION",
 		"replace": "foregrip_dd"
 		
+	},
+	
+	{
+	
+		"id": "holo_sight",
+		"type": "MIGRATION",
+		"replace": "sight_eotech_xps2"
+		
+	},
+	
+	{
+	
+		"id": "red_dot_sight",
+		"type": "MIGRATION",
+		"//replace": "should be a different sight, e.g. Sightmark Sure Shot",
+		"replace": "sight_trijicon_rmr"
+		
 	}
 
 ]
