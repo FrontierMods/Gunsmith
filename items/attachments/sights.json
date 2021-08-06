@@ -1,0 +1,211 @@
+[
+
+	{
+	
+		"id": "sight_trijicon_rmr",
+		"copy-from": "sight_rds",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/rm01-c-700600",
+		
+		"name": { "str": "Trijicon RMR Type 2 red dot sight" },
+		"description": "TBD",
+		
+		"weight": "34 g",
+		"//volume": "40% trim for shape",
+		"volume": "20 ml",
+		"longest_side": "46 mm",
+		
+		"sight_dispersion": 13,
+		
+		"location": "RMR mount",
+		
+		"//power_source": "CR2032",
+		"//power_lifetime": "2 years",
+		
+		"price": "649 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_sousa",
+		"copy-from": "sight_rds",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.wingtactical.com/accessories/optics-sights/optics/sousa-optics-raid-pistol-red-dot-sight/",
+		
+		"name": { "str": "SOUSA RAID red dot sight" },
+		"description": "TBD",
+		
+		"weight": "28 g",
+		"//volume": "40% trim for shape",
+		"volume": "20 ml",
+		"longest_side": "45 mm",
+		
+		"sight_dispersion": 12,
+		
+		"location": "RMR mount",
+		
+		"//power_source": "CR2032",
+		"//power_lifetime": "5000 hours",
+		
+		"price": "180 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_eotech_xps2",
+		"copy-from": "sight_rds",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.eotechinc.com/eotech-hws-xps2",
+		
+		"name": { "str": "EOTech XPS2 holographic sight" },
+		"description": "TBD",
+		
+		"weight": "255 g",
+		"//volume": "30% trim for shape",
+		"volume": "229 ml",
+		"longest_side": "97 mm",
+		
+		"sight_dispersion": 4,
+		
+		"//power_source": "CR123",
+		"//power_lifetime": "1000 hours",
+		
+		"price": "575 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_eotech_vudu",
+		"copy-from": "sight_30mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.eotechinc.com/eotech-vudu-1-6x24-ffp",
+		
+		"name": { "str": "EOTech Vudu 1—6×24 30mm scope" },
+		"description": "TBD",
+		
+		"weight": "570 g",
+		"//volume": "from cylinder calculations",
+		"//trim": "20% trim for shape",
+		"volume": "153 ml",
+		"longest_side": "97 mm",
+		
+		"sight_dispersion": 4,
+		
+		"//power_source": "CR2032",
+		"//power_lifetime": "???",
+		
+		"price": "1400 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_holosun_507",
+		"copy-from": "sight_rds",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/rm01-c-700600",
+		
+		"name": { "str": "Holosun 507K red dot sight" },
+		"description": "TBD",
+		
+		"weight": "28 g",
+		"//volume": "30% trim for shape",
+		"volume": "17 ml",
+		"longest_side": "41 mm",
+		
+		"sight_dispersion": 8,
+		
+		"location": "Holosun mount",
+		
+		"//power_source": "CR1632",
+		"//power_lifetime": "50 000 hours",
+		
+		"price": "341 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_trijicon_huron",
+		"copy-from": "sight_30mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/hr1240-c-2700003",
+		
+		"name": { "str": "Trijicon Huron 3—12×40 30mm scope" },
+		"description": "TBD",
+		
+		"weight": "505 g",
+		"//volume": "from cylinder calculations",
+		"//trim": "20% trim for shape",
+		"volume": "180 ml",
+		"longest_side": "318 mm",
+		
+		"sight_dispersion": 1,
+		
+		"price": "700 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_trijicon_tenmile",
+		"copy-from": "sight_30mm",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/tm62450-c-3000005",
+		
+		"name": { "str": "Trijicon Tenmle 6—24×50 30mm scope" },
+		"description": "TBD",
+		
+		"weight": "705 g",
+		"//volume": "from cylinder calculations; assumes 40mm diameter to compensate for wide front lens frame",
+		"//trim": "30% trim for shape",
+		"volume": "323 ml",
+		"longest_side": "367 mm",
+		
+		"//sight_dispersion": "actual scope line thickness: 0.5 MRAD",
+		"sight_dispersion": 1,
+		
+		"//power_source": "CR2032",
+		"//power_lifetime": "39 hours",
+		
+		"price": "1400 USD"
+	
+	},
+	
+	{
+	
+		"id": "sight_trijicon_reap_ir",
+		"copy-from": "sight_ir",
+		"type": "GUNMOD",
+		
+		"//source": "https://www.trijicon.com/products/details/irms-35-2",
+		
+		"name": { "str": "Trijicon REAP-IR infrared sight" },
+		"description": "TBD",
+		
+		"weight": "695 g",
+		"//volume": "from cylinder calculations; 35mm diameter",
+		"//trim": "no trim to accomodate for non-cylinder parts",
+		"volume": "154 ml",
+		"longest_side": "160 mm",
+		
+		"sight_dispersion": 2,
+		
+		"//power_source": "CR123 ×2",
+		"//power_lifetime": "2 hours",
+		
+		"price": "8000 USD"
+	
+	}
+
+]
