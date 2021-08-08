@@ -16,6 +16,8 @@
 		"//handedness": "dexterous",
 		"//latch": "extended",
 		
+		"reload_modifier": -3,
+		
 		"price": "36 USD"
 	
 	},
@@ -36,6 +38,8 @@
 		"//handedness": "ambidexterous",
 		"//latch": "extended",
 		"//features": "textured latch",
+		
+		"reload_modifier": -5,
 		
 		"price": "80 USD"
 	
@@ -58,6 +62,8 @@
 		"//latch": "short",
 		"//features": "skeletonized textured latch",
 		
+		"reload_modifier": -4,
+		
 		"price": "90 USD"
 	
 	},
@@ -79,6 +85,9 @@
 		"//latch": "short",
 		"//features": "skeletonized textured latch, ported",
 		
+		"reload_modifier": -4,
+		"recoil_modifier": -5,
+		
 		"price": "143 USD"
 	
 	},
@@ -99,6 +108,8 @@
 		"//handedness": "dexterous",
 		"//latch": "extended",
 		
+		"reload_modifier": -2,
+		
 		"price": "26 USD"
 	
 	},
@@ -118,6 +129,8 @@
 		
 		"//handedness": "dexterous",
 		"//latch": "short",
+		
+		"reload_modifier": -1,
 		
 		"price": "33 USD"
 	
@@ -140,6 +153,8 @@
 		"//latch": "extended",
 		"//features": "skeletonized textured latch",
 		
+		"reload_modifier": -6,
+		
 		"price": "66 USD"
 	
 	},
@@ -160,6 +175,8 @@
 		"//handedness": "sided",
 		"//latch": "extended",
 		"//features": "textured latch",
+		
+		"reload_modifier": -5,
 		
 		"price": "45 USD"
 	
@@ -182,6 +199,8 @@
 		"//latch": "extended",
 		"//features": "skeletonized textured latch",
 		
+		"reload_modifier": -6,
+		
 		"price": "70 USD"
 	
 	},
@@ -202,6 +221,8 @@
 		"//handedness": "dexterous",
 		"//latch": "short",
 		"//features": "skeletonized textured latch",
+		
+		"reload_modifier": -5,
 		
 		"price": "60 USD"
 	
@@ -224,6 +245,8 @@
 		"//latch": "extended",
 		"//features": "textured latch",
 		
+		"reload_modifier": -4,
+		
 		"price": "45 USD"
 	
 	},
@@ -244,6 +267,8 @@
 		"//handedness": "ambidexterous",
 		"//latch": "extended",
 		"//features": "textured latch",
+		
+		"reload_modifier": -5,
 		
 		"price": "60 USD"
 	
@@ -266,6 +291,8 @@
 		"//latch": "extended",
 		"//features": "skeletonized textured latch",
 		
+		"reload_modifier": -6,
+		
 		"price": "80 USD"
 	
 	},
@@ -286,6 +313,9 @@
 		"//handedness": "dexterous",
 		"//latch": "extended",
 		"//features": "porting",
+		
+		"reload_modifier": -2,
+		"recoil_modifier": -5,
 		
 		"price": "59 USD"
 	
@@ -309,6 +339,8 @@
 		
 		"//note": "mod 3, large latch",
 		
+		"reload_modifier": -2,
+		
 		"price": "54 USD"
 	
 	},
@@ -330,6 +362,8 @@
 		"//latch": "short",
 		"//features": "enhanced design, skeletonized textured latch",
 		
+		"reload_modifier": -6,
+		
 		"price": "125 USD"
 	
 	},
@@ -350,6 +384,9 @@
 		"//handedness": "ambidexterous",
 		"//latch": "short",
 		"//features": "porting, textured grip",
+		
+		"reload_modifier": -4,
+		"recoil_modifier": -5,
 		
 		"price": "95 USD"
 	
