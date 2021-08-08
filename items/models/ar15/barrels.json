@@ -22,6 +22,11 @@
 		"volume": "117 ml",
 		"longest_side": "51 cm",
 		
+		"//stats": "is the most 'standard' barrel you can find, so no stat changes",
+		"dispersion_modifier": 0,
+		"damage_modifier": 0,
+		"loudness_modifier": 0,
+		
 		"price": "259 USD"
 	
 	},
@@ -40,6 +45,10 @@
 		"weight": "680 g",
 		"volume": "122 ml",
 		"longest_side": "407 mm",
+		
+		"dispersion_modifier": 2,
+		"damage_modifier": -2,
+		"loudness_modifier": 20,
 		
 		"price": "290 USD"
 	
@@ -60,6 +69,10 @@
 		"volume": "80 ml",
 		"longest_side": "267 mm",
 		
+		"dispersion_modifier": 5,
+		"damage_modifier": -3,
+		"loudness_modifier": 50,
+		
 		"price": "150 USD"
 	
 	},
@@ -78,6 +91,10 @@
 		"weight": "881 g",
 		"volume": "130 ml",
 		"longest_side": "457 mm",
+		
+		"dispersion_modifier": 1,
+		"damage_modifier": -1,
+		"loudness_modifier": 10,
 		
 		"price": "350 USD"
 	
@@ -99,6 +116,10 @@
 		"volume": "73 ml",
 		"longest_side": "368 mm",
 		
+		"dispersion_modifier": 2,
+		"damage_modifier": -2,
+		"loudness_modifier": 30,
+		
 		"price": "480 USD"
 	
 	},
@@ -117,6 +138,11 @@
 		"weight": "992 g",
 		"volume": "122 ml",
 		"longest_side": "407 mm",
+		
+		"//stats": "as baseline a barrel for .300BLK as it gets",
+		"dispersion_modifier": 0,
+		"damage_modifier": 0,
+		"loudness_modifier": 0,
 		
 		"price": "375 USD"
 	
@@ -137,6 +163,10 @@
 		"volume": "63 ml",
 		"longest_side": "211 mm",
 		
+		"dispersion_modifier": 3,
+		"damage_modifier": -3,
+		"loudness_modifier": 40,
+		
 		"price": "275 USD"
 	
 	},
@@ -155,6 +185,10 @@
 		"weight": "588 g",
 		"volume": "74 ml",
 		"longest_side": "260 mm",
+		
+		"dispersion_modifier": 2,
+		"damage_modifier": -2,
+		"loudness_modifier": 30,
 		
 		"price": "369 USD"
 	
@@ -175,6 +209,10 @@
 		"volume": "105 ml",
 		"longest_side": "368 mm",
 		
+		"dispersion_modifier": 1,
+		"damage_modifier": -1,
+		"loudness_modifier": 10,
+		
 		"price": "167 USD"
 	
 	},
@@ -193,6 +231,10 @@
 		"weight": "568 g",
 		"volume": "75 ml",
 		"longest_side": "262 mm",
+		
+		"dispersion_modifier": 2,
+		"damage_modifier": -2,
+		"loudness_modifier": 30,
 		
 		"price": "209 USD"
 	
@@ -213,6 +255,10 @@
 		"volume": "116 ml",
 		"longest_side": "406 mm",
 		
+		"dispersion_modifier": -10,
+		"damage_modifier": 10,
+		"loudness_modifier": -50,
+		
 		"price": "170 USD"
 	
 	},
@@ -231,6 +277,10 @@
 		"weight": "526 g",
 		"volume": "76 ml",
 		"longest_side": "267 mm",
+		
+		"dispersion_modifier": -1,
+		"damage_modifier": 1,
+		"loudness_modifier": -20,
 		
 		"price": "160 USD"
 	
@@ -251,6 +301,10 @@
 		"volume": "54 ml",
 		"longest_side": "191 mm",
 		
+		"dispersion_modifier": -1,
+		"damage_modifier": 1,
+		"loudness_modifier": 10,
+		
 		"price": "140 USD"
 	
 	},
@@ -269,6 +323,10 @@
 		"weight": "768 g",
 		"volume": "117 ml",
 		"longest_side": "408 mm",
+		
+		"dispersion_modifier": -3,
+		"damage_modifier": 3,
+		"loudness_modifier": -50,
 		
 		"price": "200 USD"
 	
@@ -289,6 +347,10 @@
 		"volume": "80 ml",
 		"longest_side": "280 mm",
 		
+		"dispersion_modifier": -2,
+		"damage_modifier": 2,
+		"loudness_modifier": -25,
+		
 		"price": "129 USD"
 	
 	},
@@ -307,6 +369,10 @@
 		"weight": "242 g",
 		"volume": "33 ml",
 		"longest_side": "114 mm",
+		
+		"dispersion_modifier": 1,
+		"damage_modifier": -1,
+		"loudness_modifier": 5,
 		
 		"price": "104 USD"
 	
@@ -327,6 +393,10 @@
 		"volume": "62 ml",
 		"longest_side": "216 mm",
 		
+		"dispersion_modifier": -1,
+		"damage_modifier": 1,
+		"loudness_modifier": -10,
+		
 		"price": "105 USD"
 	
 	},
@@ -345,6 +415,10 @@
 		"weight": "283 g",
 		"volume": "40 ml",
 		"longest_side": "140 mm",
+		
+		"dispersion_modifier": 0,
+		"damage_modifier": 0,
+		"loudness_modifier": 0,
 		
 		"price": "130 USD"
 	
