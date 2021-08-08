@@ -13,7 +13,7 @@
 		"name": { "str": "CMC two-stage trigger group" },
 		"description": "TBD",
 		
-		"//pull_weight": "2 / 3 lbs",
+		"//pull_weight": "2 + 3 lbs",
 		
 		"dispersion_modifier": -1,
 		"recoil_modifier": -1,
