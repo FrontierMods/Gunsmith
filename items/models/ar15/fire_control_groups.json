@@ -15,6 +15,9 @@
 		
 		"//pull_weight": "2 / 3 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": -1,
+		
 		"price": "230 USD"
 	
 	},
@@ -31,6 +34,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "4 lbs",
+		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 1,
 		
 		"price": "150 USD"
 	
@@ -49,6 +55,9 @@
 		
 		"//pull_weight": "3.5 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
+		
 		"price": "260 USD"
 	
 	},
@@ -65,6 +74,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "4 lbs",
+		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
 		
 		"price": "100 USD"
 	
@@ -83,6 +95,9 @@
 		
 		"//pull_weight": "3.5 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
+		
 		"price": "100 USD"
 	
 	},
@@ -100,6 +115,9 @@
 		
 		"//pull_weight": "3 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
+		
 		"price": "190 USD"
 	
 	},
@@ -116,6 +134,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "4.5 lbs",
+		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 1,
 		
 		"price": "160 USD"
 	
@@ -141,6 +162,9 @@
 		
 		"//pull_weight": "4.5 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 1,
+		
 		"price": "160 USD"
 	
 	},
@@ -157,6 +181,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "3.5 lbs",
+		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
 		
 		"price": "200 USD"
 	
@@ -175,6 +202,9 @@
 		
 		"//pull_weight": "3.25 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
+		
 		"price": "280 USD"
 	
 	},
@@ -191,6 +221,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "3.2 lbs",
+		
+		"dispersion_modifier": -2,
+		"recoil_modifier": 0,
 		
 		"price": "240 USD"
 	
@@ -209,6 +242,9 @@
 		
 		"//pull_weight": "4.5 lbs",
 		
+		"dispersion_modifier": -2,
+		"recoil_modifier": 1,
+		
 		"price": "275 USD"
 	
 	},
@@ -226,6 +262,9 @@
 		
 		"//pull_weight": "5.5 lbs",
 		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 2,
+		
 		"price": "100 USD"
 	
 	},
@@ -242,6 +281,9 @@
 		"description": "TBD",
 		
 		"//pull_weight": "3 lbs",
+		
+		"dispersion_modifier": -1,
+		"recoil_modifier": 0,
 		
 		"price": "200 USD"
 	
