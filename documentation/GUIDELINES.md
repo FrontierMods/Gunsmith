@@ -29,3 +29,22 @@ Unless stated otherwise, values add up. Three different factors worth +1 each ad
 * +1 — duct tape wrapping
 * +1 — paracord wrapping
 * +2 — rubber sleeve
+
+
+### Stocks
+
+#### Handling
+
+* +6 — any stock
+* +2 — full-body stock
+* +1 — textured backplate
+* +2 — distributed impact channels
+* +1 — adjustable length of pull
+* +2 — adjustable details
+
+
+#### Modifications
+
+*currently embedded*
+
+* +2 — rubber pad
