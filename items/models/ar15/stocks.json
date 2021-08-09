@@ -17,6 +17,8 @@
 		"volume": "70 ml",
 		"longest_side": "89 mm",
 		
+		"handling_modifier": 7,
+		
 		"price": "75 USD"
 	
 	},
@@ -38,6 +40,8 @@
 		"volume": "70 ml",
 		"//longest_side": "assumed from previous entry",
 		"longest_side": "89 mm",
+		
+		"handling_modifier": 7,
 		
 		"price": "70 USD"
 	
@@ -62,6 +66,8 @@
 		
 		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
 		"integral_volume": "470 ml",
+		
+		"handling_modifier": 13,
 		
 		"price": "40 USD",
 		
@@ -90,6 +96,8 @@
 		"integral_volume": "410 ml",
 		
 		"price": "50 USD"
+		"handling_modifier": 10,
+		
 	
 	},
 	
@@ -112,6 +120,8 @@
 		"material": [ "aluminum" ],
 		
 		"price": "140 USD",
+		
+		"handling_modifier": 8,
 		
 		"flags": [ "COLLAPSIBLE_STOCK" ]
 	
@@ -136,6 +146,8 @@
 		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
 		"integral_volume": "442 ml",
 		
+		"handling_modifier": 13,
+		
 		"price": "47 USD"
 	
 	},
@@ -159,6 +171,8 @@
 		
 		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
 		"integral_volume": "899 ml",
+		
+		"handling_modifier": 16,
 		
 		"price": "255 USD"
 	
@@ -191,6 +205,8 @@
 			"steel"
 		
 		],
+		
+		"handling_modifier": 12,
 		
 		"price": "35 USD"
 	
