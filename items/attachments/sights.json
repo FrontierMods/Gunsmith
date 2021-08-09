@@ -172,8 +172,8 @@
 		"volume": "323 ml",
 		"longest_side": "367 mm",
 		
-		"//sight_dispersion": "actual scope line thickness: 0.5 MRAD",
-		"sight_dispersion": 1,
+		"//sight_dispersion": "actual scope line thickness: 0.5 MRAD = 1.72 MOA",
+		"sight_dispersion": 7,
 		
 		"//power_source": "CR2032",
 		"//power_lifetime": "39 hours",
