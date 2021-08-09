@@ -26,6 +26,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 7,
+		
 		"price": "32 USD"
 	
 	},
@@ -50,6 +52,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 3,
+		
 		"price": "35 USD"
 	
 	},
@@ -72,6 +76,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 4,
+		
 		"price": "20 USD"
 	
 	},
@@ -93,6 +99,8 @@
 		"longest_side": "93 mm",
 		
 		"//interface": "Picatinny",
+		
+		"handling_modifier": 5,
 		
 		"price": "22 USD"
 	
@@ -123,6 +131,8 @@
 		
 		"//interface": "KeyMod, M-LOK",
 		
+		"handling_modifier": 5,
+		
 		"price": "75 USD"
 	
 	},
@@ -151,6 +161,8 @@
 		],
 		
 		"//interface": "KeyMod, M-LOK",
+		
+		"handling_modifier": 6,
 		
 		"price": "70 USD"
 	
@@ -182,6 +194,8 @@
 		"//interface": "M-LOK",
 		"//interface_note": "could be any: Daniel Defense produces for all three major interfaces",
 		
+		"handling_modifier": 5,
+		
 		"price": "32 USD"
 	
 	},
@@ -205,6 +219,8 @@
 		"longest_side": "34 mm",
 		
 		"//interface": "M-LOK",
+		
+		"handling_modifier": 2,
 		
 		"//price": "12 USD for a 2-pack",
 		"price": "6 USD"
@@ -231,6 +247,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 4,
+		
 		"price": "53 USD"
 	
 	},
@@ -255,6 +273,8 @@
 		
 		"//interface": "KeyMod",
 		
+		"handling_modifier": 5,
+		
 		"price": "53 USD"
 	
 	},
@@ -276,6 +296,8 @@
 		"longest_side": "75 mm",
 		
 		"//interface": "KeyMod, M-LOK",
+		
+		"handling_modifier": 6,
 		
 		"price": "15 USD"
 	
@@ -303,6 +325,8 @@
 		
 		"//interface": "KeyMod",
 		
+		"handling_modifier": 2,
+		
 		"price": "36 USD"
 	
 	},
@@ -329,6 +353,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 2,
+		
 		"price": "27 USD"
 	
 	},
@@ -354,6 +380,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 1,
+		
 		"price": "36 USD"
 	
 	},
@@ -377,6 +405,8 @@
 		"material": [ "aluminum" ],
 		
 		"//interface": "M-LOK",
+		
+		"handling_modifier": 3,
 		
 		"price": "49 USD"
 	
@@ -402,6 +432,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 2,
+		
 		"price": "49 USD"
 	
 	},
@@ -425,6 +457,8 @@
 		"material": [ "aluminum" ],
 		
 		"//interface": "M-LOK",
+		
+		"handling_modifier": 4,
 		
 		"price": "39 USD"
 	
@@ -450,6 +484,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 2,
+		
 		"price": "35 USD"
 	
 	},
@@ -473,6 +509,8 @@
 		"material": [ "aluminum" ],
 		
 		"//interface": "KeyMod, M-LOK",
+		
+		"handling_modifier": 3,
 		
 		"price": "45 USD"
 	
@@ -498,6 +536,8 @@
 		
 		"//interface": "KeyMod, M-LOK",
 		
+		"handling_modifier": 6,
+		
 		"price": "58 USD"
 	
 	},
@@ -521,6 +561,8 @@
 		"material": [ "aluminum" ],
 		
 		"//interface": "M-LOK",
+		
+		"handling_modifier": 5,
 		
 		"price": "85 USD"
 	
@@ -546,6 +588,8 @@
 		
 		"//interface": "M-LOK",
 		
+		"handling_modifier": 3,
+		
 		"price": "75 USD"
 	
 	},
@@ -569,6 +613,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 4,
+		
 		"price": "25 USD"
 	
 	},
@@ -590,6 +636,8 @@
 		"longest_side": "117 mm",
 		
 		"//interface": "Picatinny",
+		
+		"handling_modifier": 8,
 		
 		"price": "25 USD"
 	
@@ -613,6 +661,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 1,
+		
 		"price": "14 USD"
 	
 	},
@@ -634,6 +684,8 @@
 		"longest_side": "110 mm",
 		
 		"//interface": "Picatinny",
+		
+		"handling_modifier": 6,
 		
 		"price": "40 USD",
 		
@@ -659,6 +711,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 5,
+		
 		"price": "35 USD"
 	
 	},
@@ -680,6 +734,8 @@
 		"longest_side": "111 mm",
 		
 		"//interface": "Picatinny",
+		
+		"handling_modifier": 9,
 		
 		"price": "45 USD",
 		
@@ -705,6 +761,8 @@
 		
 		"//interface": "Picatinny",
 		
+		"handling_modifier": 4,
+		
 		"price": "25 USD"
 	
 	},
@@ -726,6 +784,8 @@
 		"longest_side": "105 mm",
 		
 		"//interface": "M-LOK",
+		
+		"handling_modifier": 5,
 		
 		"add_mods": [
 		
