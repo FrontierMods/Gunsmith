@@ -18,7 +18,19 @@
 		"color": "dark_gray",
 		
 		"location": "muzzle",
-		"install_time": "30 s"
+		"install_time": "30 s",
+		
+		"mod_targets": [
+			
+			"pistol",
+			"smg",
+			"shotgun",
+			"rifle",
+			"bow",
+			"crossbow",
+			"launcher"
+			
+		]
 	
 	},
 	
@@ -46,7 +58,7 @@
 		
 		"longest_side": "178 mm",
 		
-		"loudness_modifier": -10,
+		"loudness_modifier": -50,
 		"//damage_modifier": "average for a 7 in. suppressor",
 		"damage_modifier": 2,
 		"//dispersion_modifier": "basic suppressor effect",
