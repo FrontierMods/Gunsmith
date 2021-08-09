@@ -22,9 +22,11 @@
 		
 		"mod_targets": [ 
 		
+			"pistol",
 			"rifle",
 			"smg",
 			"shotgun",
+			"bow",
 			"crossbow",
 			"launcher"
 			

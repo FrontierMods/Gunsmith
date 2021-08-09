@@ -20,11 +20,13 @@
 		"location": "sights",
 		"install_time": "30 s",
 		
-		"mod_targets": [ 
-		
-			"rifle",
+		"mod_targets": [
+			
+			"pistol",
 			"smg",
 			"shotgun",
+			"rifle",
+			"bow",
 			"crossbow",
 			"launcher"
 			
