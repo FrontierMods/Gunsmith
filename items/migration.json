@@ -23,6 +23,30 @@
 		"//replace": "should be a different sight, e.g. Sightmark Sure Shot",
 		"replace": "sight_trijicon_rmr"
 		
+	},
+	
+	{
+	
+		"id": "adjustable_stock",
+		"type": "MIGRATION",
+		"replace": "stock_carbine_milspec_magpul_moe"
+		
+	},
+	
+	{
+	
+		"id": "recoil_stock",
+		"type": "MIGRATION",
+		"replace": "stock_rifle_milspec_magpul_prs"
+		
+	},
+	
+	{
+	
+		"id": "suppressor",
+		"type": "MIGRATION",
+		"replace": "suppressor_surefire_socom556"
+		
 	}
 
 ]
