@@ -1,0 +1,34 @@
+[
+
+	{
+	
+		"type": "AMMO",
+		"id": "duct_tape",
+		"copy-from": "duct_tape",
+		
+		"name": { "str_sp": "duct tape" },
+		
+		"gunmod_data": {
+		
+			"location": "grip wrap",
+			"install_time": "30 s",
+			
+			"mod_targets": [
+			
+				"pistol",
+				"smg",
+				"shotgun",
+				"rifle",
+				"bow",
+				"crossbow",
+				"launcher"
+			
+			],
+			
+			"handling_modifier": 2
+		
+		}
+	
+	}
+
+]
