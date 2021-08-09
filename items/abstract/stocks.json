@@ -17,6 +17,9 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
+		"location": "stock",
+		"install_time": "30 s",
+		
 		"mod_targets": [ 
 		
 			"rifle",
@@ -25,10 +28,7 @@
 			"crossbow",
 			"launcher"
 			
-		],
-		
-		"location": "stock",
-		"install_time": "30 s"
+		]
 	
 	},
 	

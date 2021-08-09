@@ -24,10 +24,10 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
-		"mod_targets": [ "rifle" ],
-		
 		"location": "charging handle",
-		"install_time": "30 s"
+		"install_time": "30 s,
+		
+		"mod_targets": [ "rifle" ]
 	
 	},
 	

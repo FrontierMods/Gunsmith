@@ -17,6 +17,15 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
+		"add_mod": [
+		
+			[ "bolt carrier group", 1 ]
+		
+		],
+		
+		"location": "buffer",
+		"install_time": "30 s",
+		
 		"mod_targets": [ 
 		
 			"rifle",
@@ -25,16 +34,7 @@
 			"crossbow",
 			"launcher"
 			
-		],
-		
-		"add_mod": [
-		
-			[ "bolt carrier group", 1 ]
-		
-		],
-		
-		"location": "buffer",
-		"install_time": "30 s"
+		]
 	
 	},
 	
