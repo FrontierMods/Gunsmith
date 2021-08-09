@@ -95,9 +95,11 @@
 		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
 		"integral_volume": "410 ml",
 		
-		"price": "50 USD"
 		"handling_modifier": 10,
 		
+		"price": "50 USD",
+		
+		"flags": [ "COLLAPSIBLE_STOCK" ]
 	
 	},
 	
