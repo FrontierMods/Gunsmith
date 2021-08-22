@@ -180,32 +180,6 @@
 		
 		"price": "1400 USD"
 	
-	},
-	
-	{
-	
-		"id": "sight_trijicon_reap_ir",
-		"copy-from": "sight_ir",
-		"type": "GUNMOD",
-		
-		"//source": "https://www.trijicon.com/products/details/irms-35-2",
-		
-		"name": { "str": "Trijicon REAP-IR infrared sight" },
-		"description": "TBD",
-		
-		"weight": "695 g",
-		"//volume": "from cylinder calculations; 35mm diameter",
-		"//trim": "no trim to accomodate for non-cylinder parts",
-		"volume": "154 ml",
-		"longest_side": "160 mm",
-		
-		"sight_dispersion": 2,
-		
-		"//power_source": "CR123 ×2",
-		"//power_lifetime": "2 hours",
-		
-		"price": "8000 USD"
-	
 	}
 
 ]

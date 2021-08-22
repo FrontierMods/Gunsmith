@@ -65,18 +65,6 @@
 		
 		"flags": [ "ZOOM" ]
 	
-	},
-	
-	{
-	
-		"abstract": "sight_ir",
-		"type": "GUNMOD",
-		
-		"name": { "str": "infrared sight" },
-		"description": "idea of an infrared sight",
-		
-		"flags": [ "INFRARED" ]
-	
 	}
 
 ]
