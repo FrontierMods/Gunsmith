@@ -173,7 +173,7 @@
 		
 		"weight": "64 g",
 		"volume": "60 ml",
-		"longest_side": "44 ml",
+		"longest_side": "44 mm",
 		
 		"material": [
 			
@@ -201,7 +201,7 @@
 		
 		"weight": "89 g",
 		"volume": "70 ml",
-		"longest_side": "54 ml",
+		"longest_side": "54 mm",
 		
 		"material": [
 			
@@ -231,7 +231,7 @@
 		"//volume": "width assumed from previous entry",
 		"//volume2": "slightly inaccurate, since it assumes total height is height from top of rail to aperture",
 		"volume": "88 ml",
-		"longest_side": "76 ml",
+		"longest_side": "76 mm",
 		
 		"material": [
 			
@@ -260,7 +260,7 @@
 		"//volume": "width and length assumed from previous entry",
 		"//volume2": "slightly inaccurate, since it assumes total height is height from top of rail to aperture",
 		"volume": "87 ml",
-		"longest_side": "76 ml",
+		"longest_side": "76 mm",
 		
 		"material": [
 			
