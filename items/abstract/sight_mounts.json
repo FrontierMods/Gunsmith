@@ -46,7 +46,7 @@
 		"location": "sights",
 		"install_time": "30 s",
 		
-		"add_mods": [
+		"add_mod": [
 		
 			[ "30mm scope mount", 1 ]
 		

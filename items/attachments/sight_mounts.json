@@ -19,7 +19,7 @@
 		
 		"price": "149 USD",
 		
-		"add_mods": [
+		"add_mod": [
 		
 			[ "RMR mount", 1 ]
 		
@@ -47,7 +47,7 @@
 		
 		"price": "104 USD",
 		
-		"add_mods": [
+		"add_mod": [
 		
 			[ "RMR mount", 1 ]
 		
@@ -93,7 +93,7 @@
 		
 		"location": "RMR mount",
 		
-		"add_mods": [
+		"add_mod": [
 		
 			[ "Holosun mount", 1 ]
 		
