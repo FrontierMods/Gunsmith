@@ -65,15 +65,6 @@
 			"ar15", 
 			"ar15_bare" 
 			
-		],
-		
-		"add_mod": [
-		
-			[ "sights",             1 ],
-			[ "offset sight mount", 1 ],
-			[ "brass catcher",      1 ],
-			[ "charging handle",    1 ]
-		
 		]
 	
 	}
