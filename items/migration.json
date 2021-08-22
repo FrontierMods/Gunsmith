@@ -47,6 +47,14 @@
 		"type": "MIGRATION",
 		"replace": "suppressor_surefire_socom556"
 		
+	},
+	
+	{
+	
+		"id": "offset_sight_rail",
+		"type": "MIGRATION",
+		"replace": "osm_arisaka"
+		
 	}
 
 ]
