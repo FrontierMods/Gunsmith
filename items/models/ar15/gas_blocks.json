@@ -23,7 +23,7 @@
 	
 	{
 	
-		"id": "gas_block_ar15_bad",
+		"id": "gas_block_ar15_battlearms",
 		"copy-from": "gas_block_ar15",
 		"type": "GUNMOD",
 		
@@ -279,7 +279,7 @@
 	
 	{
 	
-		"id": "gas_block_ar15_bad_titanium",
+		"id": "gas_block_ar15_battlearms_titanium",
 		"copy-from": "gas_block_ar15",
 		"type": "GUNMOD",
 		
