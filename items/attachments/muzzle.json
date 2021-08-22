@@ -16,7 +16,7 @@
 		"longest_side": "162 mm",
 		"//added_length": "97 mm",
 		
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		
 		"//calibers": [ "556" ],
 		
@@ -44,14 +44,14 @@
 		"longest_side": "177 mm",
 		"//added_length": "162 mm",
 		
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		
 		"material": [ 
 		
 			"titanium",
 			"steel"
 			
-		]
+		],
 		
 		"//calibers": [ "556", "300BLK", "65Grendel", "65PRC", "300win", "68SPC", "762x39", "6.5Creedmoor", ".308win" ],
 		
@@ -79,7 +79,7 @@
 		"longest_side": "229 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": 3,
+		"damage_modifier": { "damage_type": "bullet", "amount": 3 },
 		
 		"material": [ 
 		
@@ -114,7 +114,7 @@
 		"longest_side": "178 mm",
 		"//added_length": " mm",
 		
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 
@@ -152,7 +152,7 @@
 		"longest_side": "178 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		
 		"material": [ 
 		
@@ -187,7 +187,7 @@
 		"longest_side": "200 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 

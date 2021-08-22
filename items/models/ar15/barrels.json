@@ -1,7 +1,5 @@
 [
 
-	"//TODO": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/faxon-firearms-16-tapered-profile-9mm-ar-barrel-w-integral-slim-muzzle-brake/",
-
 	{
 	
 		"//VOLUME_NOTE": "calculations via cylinder volume",
@@ -24,7 +22,7 @@
 		
 		"//stats": "is the most 'standard' barrel you can find, so no stat changes",
 		"dispersion_modifier": 0,
-		"damage_modifier": 0,
+		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
 		"loudness_modifier": 0,
 		
 		"price": "259 USD"
@@ -47,7 +45,7 @@
 		"longest_side": "407 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": -2,
+		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
 		"loudness_modifier": 20,
 		
 		"price": "290 USD"
@@ -70,7 +68,7 @@
 		"longest_side": "267 mm",
 		
 		"dispersion_modifier": 5,
-		"damage_modifier": -3,
+		"damage_modifier": { "damage_type": "bullet", "amount": -3 },
 		"loudness_modifier": 50,
 		
 		"price": "150 USD"
@@ -93,7 +91,7 @@
 		"longest_side": "457 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": -1,
+		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
 		"loudness_modifier": 10,
 		
 		"price": "350 USD"
@@ -117,7 +115,7 @@
 		"longest_side": "368 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": -2,
+		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
 		"loudness_modifier": 30,
 		
 		"price": "480 USD"
@@ -141,7 +139,7 @@
 		
 		"//stats": "as baseline a barrel for .300BLK as it gets",
 		"dispersion_modifier": 0,
-		"damage_modifier": 0,
+		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
 		"loudness_modifier": 0,
 		
 		"price": "375 USD"
@@ -164,7 +162,7 @@
 		"longest_side": "211 mm",
 		
 		"dispersion_modifier": 3,
-		"damage_modifier": -3,
+		"damage_modifier": { "damage_type": "bullet", "amount": -3 },
 		"loudness_modifier": 40,
 		
 		"price": "275 USD"
@@ -187,7 +185,7 @@
 		"longest_side": "260 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": -2,
+		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
 		"loudness_modifier": 30,
 		
 		"price": "369 USD"
@@ -210,7 +208,7 @@
 		"longest_side": "368 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": -1,
+		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
 		"loudness_modifier": 10,
 		
 		"price": "167 USD"
@@ -233,7 +231,7 @@
 		"longest_side": "262 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": -2,
+		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
 		"loudness_modifier": 30,
 		
 		"price": "209 USD"
@@ -256,7 +254,7 @@
 		"longest_side": "406 mm",
 		
 		"dispersion_modifier": -10,
-		"damage_modifier": 10,
+		"damage_modifier": { "damage_type": "bullet", "amount": 10 },
 		"loudness_modifier": -50,
 		
 		"price": "170 USD"
@@ -279,7 +277,7 @@
 		"longest_side": "267 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": 1,
+		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
 		"loudness_modifier": -20,
 		
 		"price": "160 USD"
@@ -302,7 +300,7 @@
 		"longest_side": "191 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": 1,
+		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
 		"loudness_modifier": 10,
 		
 		"price": "140 USD"
@@ -325,7 +323,7 @@
 		"longest_side": "408 mm",
 		
 		"dispersion_modifier": -3,
-		"damage_modifier": 3,
+		"damage_modifier": { "damage_type": "bullet", "amount": 3 },
 		"loudness_modifier": -50,
 		
 		"price": "200 USD"
@@ -348,7 +346,7 @@
 		"longest_side": "280 mm",
 		
 		"dispersion_modifier": -2,
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		"loudness_modifier": -25,
 		
 		"price": "129 USD"
@@ -371,7 +369,7 @@
 		"longest_side": "114 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": -1,
+		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
 		"loudness_modifier": 5,
 		
 		"price": "104 USD"
@@ -394,7 +392,7 @@
 		"longest_side": "216 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": 1,
+		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
 		"loudness_modifier": -10,
 		
 		"price": "105 USD"
@@ -417,7 +415,7 @@
 		"longest_side": "140 mm",
 		
 		"dispersion_modifier": 0,
-		"damage_modifier": 0,
+		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
 		"loudness_modifier": 0,
 		
 		"price": "130 USD"

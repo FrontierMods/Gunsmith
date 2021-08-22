@@ -60,7 +60,7 @@
 		
 		"loudness_modifier": -50,
 		"//damage_modifier": "average for a 7 in. suppressor",
-		"damage_modifier": 2,
+		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
 		"//dispersion_modifier": "basic suppressor effect",
 		"dispersion_modifier": 1
 	
