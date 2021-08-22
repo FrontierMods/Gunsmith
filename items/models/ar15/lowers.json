@@ -70,11 +70,50 @@
 	
 	{
 	
+		"id": "ar15_doctrine1",
 		"copy-from": "ar15",
 		"type": "GUN",
 		
+		"name": { "str": "AR-15, First Doctrine" },
+		"description": "AR-15 modified for reliability, at the cost of weight.",
 		
+		"default_mods": [
 		
+			"..."
+		
+		]
+	
+	},
+	
+	{
+	
+		"id": "ar15_doctrine2",
+		"copy-from": "ar15",
+		"type": "GUN",
+		
+		"name": { "str": "AR-15, Second Doctrine" },
+		"description": "AR-15 modified for weight, at the cost of reliability.",
+		
+		"default_mods": [
+		
+			"grip_ar15_f1",
+			"fcg_ar15_hiperfire_hipertouch",
+			"buffer_tube_ar15_battlearms_sabertube",
+			"stock_plate_battlearms",
+			"buffer_spring_carbine_spikes",
+			"buffer_carbine_aero_std",
+			"receiver_upper_ar15_icrw",
+			"bcg_ar15_v7_titanium",
+			"charging_handle_ar15_f1",
+			"barrel_ar15_v7_14.5in_223",
+			"gas_block_ar15_battlearms_titanium",
+			"handguard_ar15_v7_magnesium",
+			"sight_mount_trijicon_rm33",
+			"sight_trijicon_rmr",
+			"foregrip_f1",
+			"suppressor_banish_30"
+		
+		]
 	
 	}
 
