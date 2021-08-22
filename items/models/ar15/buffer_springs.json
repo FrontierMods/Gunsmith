@@ -1,9 +1,5 @@
 [
 
-	"//TODO": "buffer assemblies: 'springs' that have all the characteristics of a spring/buffer combo, and don't give the extra buffer slot, directly enabling BCGs",
-	
-	"//TODO": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tube-accessories/sprinco-ar-15-carbine-buffer-spring/",
-
 	{
 	
 		"id": "buffer_spring_carbine_strike",
