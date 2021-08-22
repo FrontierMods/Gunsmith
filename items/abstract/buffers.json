@@ -40,8 +40,8 @@
 	
 	{
 	
-		"abstract": "buffer_spring_pistol",
-		"copy-from": "buffer_spring_abstract",
+		"abstract": "buffer_pistol",
+		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "pistol-length buffer" },
@@ -58,8 +58,8 @@
 	
 	{
 	
-		"abstract": "buffer_spring_carbine",
-		"copy-from": "buffer_spring_abstract",
+		"abstract": "buffer_carbine",
+		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "carbine-length buffer" },
@@ -76,8 +76,8 @@
 	
 	{
 	
-		"abstract": "buffer_spring_rifle",
-		"copy-from": "buffer_spring_abstract",
+		"abstract": "buffer_rifle",
+		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "rifle-length buffer" },
