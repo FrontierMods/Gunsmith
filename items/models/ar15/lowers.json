@@ -27,17 +27,9 @@
 		
 		],
 		
-		"default_mods": [
+		"//default_mods": [
 		
-			"receiver_upper_rifle_ar15_factory",
-			"barrel_rifle_ar15_223",
-			"buffer_tube_ar15_factory",
-			"gas_block_rifle_ar15",
-			"grip_rifle_a2",
-			"charging_handle_ar15",
-			"fire_control_group_rifle_ar15_factory",
-			"bolt_carrier_group_rifle_ar15_factory",
-			"handguard_rifle_ar15_factory"
+			"..."
 		
 		],
 		
@@ -78,16 +70,11 @@
 	
 	{
 	
-		"id": "ar15_bare",
 		"copy-from": "ar15",
 		"type": "GUN",
 		
-		"name": { "str": "AR-15" },
-		"description": "TBD",
 		
-		"skill": "rifle",
 		
-		"default_mods": []
 	
 	}
 
