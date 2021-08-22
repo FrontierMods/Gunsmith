@@ -56,7 +56,7 @@
 		"name": { "str": "30mm scope" },
 		"description": "idea of a 30mm scope",
 		
-		"//sight_dispersion": "3 MOA in quarter-MOA / 15 arc seconds per point",
+		"//sight_dispersion": "0.5 MOA in quarter-MOA / 15 arc seconds per point",
 		"sight_dispersion": 2,
 		"aim_speed": 18,
 		
