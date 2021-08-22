@@ -34,6 +34,7 @@
 	{
 	
 		"abstract": "charging_handle_ar15",
+		"copy-from": "charging_handle_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "AR-15-platform charging handle" },
