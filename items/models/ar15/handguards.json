@@ -17,11 +17,14 @@
 		
 		"add_mod": [
 		
-			[ "rail",        7 ],
-			[ "underbarrel", 1 ],
-			[ "iron sights", 1 ]
+			[ "rail",              1 ],
+			[ "rail mount",        6 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
 		
 		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "160 USD"
 	
@@ -42,6 +45,17 @@
 		"volume": "726 ml",
 		"longest_side": "381 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        6 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "117 USD"
 	
 	},
@@ -60,6 +74,17 @@
 		"weight": "428 g",
 		"volume": "1052 ml",
 		"longest_side": "375 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "212 USD"
 	
@@ -80,6 +105,17 @@
 		"volume": "892 ml",
 		"longest_side": "330 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "234 USD"
 	
 	},
@@ -98,6 +134,17 @@
 		"weight": "313 g",
 		"volume": "626 ml",
 		"longest_side": "312 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "194 USD"
 	
@@ -118,6 +165,17 @@
 		"volume": "931 ml",
 		"longest_side": "381 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "221 USD"
 	
 	},
@@ -136,6 +194,17 @@
 		"weight": "416 g",
 		"volume": "719 ml",
 		"longest_side": "330 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "160 USD"
 	
@@ -156,6 +225,17 @@
 		"volume": "769 ml",
 		"longest_side": "381 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "137 USD"
 	
 	},
@@ -174,6 +254,17 @@
 		"weight": "363 g",
 		"volume": "825 ml",
 		"longest_side": "419 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "228 USD"
 	
@@ -194,6 +285,17 @@
 		"volume": "702 ml",
 		"longest_side": "353 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "190 USD"
 	
 	},
@@ -212,6 +314,17 @@
 		"weight": "205 g",
 		"volume": "529 ml",
 		"longest_side": "282 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "349 USD"
 	
@@ -232,6 +345,17 @@
 		"volume": "713 ml",
 		"longest_side": "381 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "342 USD"
 	
 	},
@@ -250,6 +374,17 @@
 		"weight": "356 g",
 		"volume": "606 ml",
 		"longest_side": "319 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "162 USD"
 	
@@ -270,6 +405,18 @@
 		"volume": "762 ml",
 		"longest_side": "389 mm",
 		
+		"//add_mod": "has front-of-handguard 4× one-length M-LOK slots",
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "270 USD"
 	
 	},
@@ -288,6 +435,17 @@
 		"weight": "306 g",
 		"volume": "687 ml",
 		"longest_side": "348 mm",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        6 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
 		
 		"price": "282 USD"
 	
@@ -308,6 +466,17 @@
 		"volume": "1082 ml",
 		"longest_side": "381 mm",
 		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
 		"price": "189 USD"
 	
 	},
@@ -318,16 +487,28 @@
 		"copy-from": "handguard_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-noxs-keymod-rail-system/",
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-noxs-m-lok-rail-system/",
 		
 		"name": { "str": "Seekins Precision NOXs 9\" handguard" },
 		"description": "TBD",
 		
+		"//weight": "includes weight of the barrel nut",
 		"weight": "247 g",
 		"volume": "443 ml",
 		"longest_side": "229 mm",
 		
-		"price": "151 USD"
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		],
+		
+		"//interface": "M-LOK",
+		
+		"price": "180 USD"
 	
 	}
 
