@@ -17,7 +17,7 @@
 		"volume": "41 ml",
 		"longest_side": "150 mm",
 		
-		"recoil_modifier": -1400,
+		"//recoil_modifier": -1400,
 		
 		"price": "20 USD"
 	
@@ -40,7 +40,7 @@
 		"volume": "40 ml",
 		"longest_side": "149 mm",
 		
-		"recoil_modifier": -900,
+		"//recoil_modifier": -900,
 		
 		"price": "20 USD"
 	
@@ -59,7 +59,7 @@
 		
 		"weight": "142 g",
 		
-		"recoil_modifier": -1400,
+		"//recoil_modifier": -1400,
 		
 		"price": "15 USD"
 	
@@ -78,7 +78,7 @@
 		
 		"weight": "106 g",
 		
-		"recoil_modifier": -1000,
+		"//recoil_modifier": -1000,
 		
 		"price": "23 USD"
 	
@@ -101,7 +101,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -850,
+		"//recoil_modifier": -850,
 		
 		"price": "13 USD"
 	
@@ -124,7 +124,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1100,
+		"//recoil_modifier": -1100,
 		
 		"price": "24 USD"
 	
@@ -147,7 +147,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1300,
+		"//recoil_modifier": -1300,
 		
 		"price": "34 USD"
 	
@@ -170,7 +170,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1600,
+		"//recoil_modifier": -1600,
 		
 		"price": "44 USD"
 	
@@ -195,7 +195,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1100,
+		"//recoil_modifier": -1100,
 		"loudness_modifier": -10,
 		
 		"price": "49 USD"
@@ -219,7 +219,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1300,
+		"//recoil_modifier": -1300,
 		
 		"price": "49 USD"
 	
@@ -242,7 +242,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1500,
+		"//recoil_modifier": -1500,
 		
 		"price": "49 USD"
 	
@@ -261,7 +261,7 @@
 		
 		"weight": "85 g",
 		
-		"recoil_modifier": -850,
+		"//recoil_modifier": -850,
 		
 		"price": "30 USD"
 	
@@ -280,7 +280,7 @@
 		
 		"weight": "113 g",
 		
-		"recoil_modifier": -1100,
+		"//recoil_modifier": -1100,
 		
 		"price": "35 USD"
 	
@@ -299,7 +299,7 @@
 		
 		"weight": "156 g",
 		
-		"recoil_modifier": -1500,
+		"//recoil_modifier": -1500,
 		
 		"price": "41 USD"
 	
@@ -322,7 +322,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1300,
+		"//recoil_modifier": -1300,
 		
 		"price": "40 USD"
 	
@@ -345,7 +345,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -1500,
+		"//recoil_modifier": -1500,
 		
 		"price": "50 USD"
 	
@@ -368,7 +368,7 @@
 		"volume": "22 ml",
 		"longest_side": "83 mm",
 		
-		"recoil_modifier": -2000,
+		"//recoil_modifier": -2000,
 		
 		"price": "85 USD"
 	

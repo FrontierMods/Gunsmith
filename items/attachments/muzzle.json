@@ -227,7 +227,7 @@
 		"//recoil_reduction_note": "could be bogus",
 		"//recoil_reduction": "84%",
 		
-		"recoil_modifier": -420,
+		"//recoil_modifier": -420,
 		
 		"price": "180 USD"
 	
@@ -253,7 +253,7 @@
 		"//recoil_reduction": "78%",
 		"//recoil_distance": "2.4688 in.",
 		
-		"recoil_modifier": -400,
+		"//recoil_modifier": -400,
 		
 		"price": "100 USD"
 	
@@ -282,7 +282,7 @@
 		"//recoil_reduction": "56.35%",
 		"//recoil_distance": "4.9375 in.",
 		
-		"recoil_modifier": -275,
+		"//recoil_modifier": -275,
 		
 		"price": "91 USD"
 	
@@ -312,7 +312,7 @@
 		"//recoil_reduction": "64.36%",
 		"//recoil_distance": "4.0313 in.",
 		
-		"recoil_modifier": -325,
+		"//recoil_modifier": -325,
 		
 		"price": "145 USD"
 	
@@ -340,7 +340,7 @@
 		"//recoil_reduction": "60.50%",
 		"//recoil_distance": "4.4688 in.",
 		
-		"recoil_modifier": -300,
+		"//recoil_modifier": -300,
 		
 		"price": "60 USD"
 	
@@ -368,7 +368,7 @@
 		"//recoil_reduction": "56.63%",
 		"//recoil_distance": "4.9063 in.",
 		
-		"recoil_modifier": -275,
+		"//recoil_modifier": -275,
 		
 		"price": "89 USD"
 	
