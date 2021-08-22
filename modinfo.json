@@ -15,8 +15,7 @@
 		
 		"dependencies": [ 
 		
-			"dda",
-			"materials"
+			"dda"
 			
 		]
 		
