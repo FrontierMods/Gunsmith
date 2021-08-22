@@ -59,7 +59,6 @@
 		"volume": "1082 ml",
 		"longest_side": "203 mm",
 		
-		"//mod_targets": "all distinct variants and default builds go here",
 		"mod_targets": [ 
 		
 			"ar15", 
