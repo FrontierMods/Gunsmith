@@ -21,7 +21,7 @@
 		
 		"valid_mod_locations": [
 		
-			[ "rifle grip",         1 ],
+			[ "grip",               1 ],
 			[ "fire control group", 1 ],
 			[ "magwell",            1 ]
 		
