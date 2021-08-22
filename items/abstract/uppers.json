@@ -63,7 +63,8 @@
 		"mod_targets": [ 
 		
 			"ar15", 
-			"ar15_bare" 
+			"ar15_doctrine1", 
+			"ar15_doctrine2" 
 			
 		]
 	
