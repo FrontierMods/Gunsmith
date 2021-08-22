@@ -25,7 +25,7 @@
 		"color": "dark_gray",
 		
 		"location": "charging handle",
-		"install_time": "30 s,
+		"install_time": "30 s",
 		
 		"mod_targets": [ "rifle" ]
 	
