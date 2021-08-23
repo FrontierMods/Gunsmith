@@ -43,9 +43,6 @@
 		"name": { "str": "30mm sight mount" },
 		"description": "idea of a 30mm sight mount",
 		
-		"location": "sights",
-		"install_time": "30 s",
-		
 		"add_mod": [
 		
 			[ "30mm scope mount", 1 ]
