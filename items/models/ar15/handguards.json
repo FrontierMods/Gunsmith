@@ -3,7 +3,7 @@
 	{
 	
 		"id": "handguard_ar15_strike_gridlok",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/strike-industries-gridlok-lite-m-lok-handguard-with-front-sight/",
@@ -15,15 +15,6 @@
 		"volume": "675 ml",
 		"longest_side": "279 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        6 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "160 USD"
@@ -33,7 +24,7 @@
 	{
 	
 		"id": "handguard_ar15_ab_pro",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/ab-arms-pro-aluminum-m-lok-free-float-handguard/",
@@ -45,15 +36,6 @@
 		"volume": "726 ml",
 		"longest_side": "381 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        6 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "117 USD"
@@ -63,7 +45,7 @@
 	{
 	
 		"id": "handguard_ar15_f1_c7m",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-c7m-ar-15-contoured-m-lok-handguard/",
@@ -75,15 +57,6 @@
 		"volume": "1052 ml",
 		"longest_side": "375 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "212 USD"
@@ -93,7 +66,7 @@
 	{
 	
 		"id": "handguard_ar15_f1_x7m",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-x7m-ar15-contoured-m-lok-handguard/",
@@ -105,15 +78,6 @@
 		"volume": "892 ml",
 		"longest_side": "330 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "234 USD"
@@ -123,7 +87,7 @@
 	{
 	
 		"id": "handguard_ar15_f1_h7m",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/",
@@ -135,15 +99,6 @@
 		"volume": "626 ml",
 		"longest_side": "312 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "194 USD"
@@ -153,7 +108,7 @@
 	{
 	
 		"id": "handguard_ar15_f1_p7m",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/",
@@ -165,15 +120,6 @@
 		"volume": "931 ml",
 		"longest_side": "381 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "221 USD"
@@ -183,7 +129,7 @@
 	{
 	
 		"id": "handguard_ar15_aeroknox",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/aeroknox-ax-15-m-lok-ar-15-handguard/",
@@ -195,15 +141,6 @@
 		"volume": "719 ml",
 		"longest_side": "330 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "160 USD"
@@ -213,7 +150,7 @@
 	{
 	
 		"id": "handguard_ar15_2a",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/2a-armament-builder-series-m-lok-handguard/",
@@ -225,15 +162,6 @@
 		"volume": "769 ml",
 		"longest_side": "381 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "137 USD"
@@ -243,7 +171,7 @@
 	{
 	
 		"id": "handguard_ar15_icrw",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/iron-city-rifle-works-berserker-lite-m-lok-handguard/",
@@ -255,15 +183,6 @@
 		"volume": "825 ml",
 		"longest_side": "419 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "228 USD"
@@ -273,7 +192,7 @@
 	{
 	
 		"id": "handguard_ar15_rise",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/rise-armament-ra-905-ar-15-m-lok-handguard/",
@@ -285,15 +204,6 @@
 		"volume": "702 ml",
 		"longest_side": "353 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "190 USD"
@@ -303,7 +213,7 @@
 	{
 	
 		"id": "handguard_ar15_v7",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-2099-ultra-light-m-lok-handguard/",
@@ -315,15 +225,6 @@
 		"volume": "529 ml",
 		"longest_side": "282 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "349 USD"
@@ -333,7 +234,7 @@
 	{
 	
 		"id": "handguard_ar15_v7_magnesium",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-magnesium-hyper-light-m-lok-ar-15-handguard/",
@@ -345,15 +246,6 @@
 		"volume": "713 ml",
 		"longest_side": "381 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "342 USD"
@@ -363,7 +255,7 @@
 	{
 	
 		"id": "handguard_ar15_aero_atlas",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/aero-precision-atlas-r-one-m-lok-handguard/",
@@ -375,15 +267,6 @@
 		"volume": "606 ml",
 		"longest_side": "319 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "162 USD"
@@ -393,7 +276,7 @@
 	{
 	
 		"id": "handguard_ar15_fortis",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/fortis-switch-mod2-556-m-lok-rail-system/",
@@ -405,15 +288,7 @@
 		"volume": "762 ml",
 		"longest_side": "389 mm",
 		
-		"//add_mod": "has front-of-handguard 4× one-length M-LOK slots",
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
+		"//add_mod": "has front-of-handguard 4× 32mm M-LOK slots",
 		
 		"//interface": "M-LOK",
 		
@@ -424,7 +299,7 @@
 	{
 	
 		"id": "handguard_ar15_slr",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/slr-rifleworks-ion-ultra-lite-lightweight-m-lok-handguard/",
@@ -436,15 +311,6 @@
 		"volume": "687 ml",
 		"longest_side": "348 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        6 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "282 USD"
@@ -454,7 +320,7 @@
 	{
 	
 		"id": "handguard_ar15_seekins",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-sp3r-v3-m-lok-rail/",
@@ -466,15 +332,6 @@
 		"volume": "1082 ml",
 		"longest_side": "381 mm",
 		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
-		
 		"//interface": "M-LOK",
 		
 		"price": "189 USD"
@@ -484,7 +341,7 @@
 	{
 	
 		"id": "handguard_ar15_seekins_nox",
-		"copy-from": "handguard_ar15",
+		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-noxs-m-lok-rail-system/",
@@ -496,15 +353,6 @@
 		"weight": "247 g",
 		"volume": "443 ml",
 		"longest_side": "229 mm",
-		
-		"add_mod": [
-		
-			[ "rail",              1 ],
-			[ "rail mount",        2 ],
-			[ "underbarrel mount", 1 ],
-			[ "iron sights",       1 ]
-		
-		],
 		
 		"//interface": "M-LOK",
 		

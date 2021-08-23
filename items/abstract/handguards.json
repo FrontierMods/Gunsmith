@@ -79,6 +79,46 @@
 		
 		"mod_targets": [ "ar15" ]
 	
+	},
+	
+	{
+	
+		"abstract": "handguard_ar15_quad",
+		"copy-from": "handguard_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "quad-rail AR-15-type rifle handguard" },
+		"description": "idea of an quad-rail AR-15-type rifle handguard",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        2 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "handguard_ar15_octo",
+		"copy-from": "handguard_ar15",
+		"type": "GUNMOD",
+		
+		"name": { "str": "octo-rail AR-15-type rifle handguard" },
+		"description": "idea of an octo-rail AR-15-type rifle handguard",
+		
+		"add_mod": [
+		
+			[ "rail",              1 ],
+			[ "rail mount",        6 ],
+			[ "underbarrel mount", 1 ],
+			[ "iron sights",       1 ]
+		
+		]
+	
 	}
 
 ]
