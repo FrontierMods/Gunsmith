@@ -37,6 +37,7 @@
 	{
 	
 		"abstract": "sight_rds",
+		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "red dot sight" },
@@ -51,6 +52,7 @@
 	{
 	
 		"abstract": "sight_30mm",
+		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
 		
 		"name": { "str": "30mm scope" },
