@@ -1,0 +1,130 @@
+[
+
+	{
+	
+		"id": "rail_mount_alexanderarms",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Alexander Arms 3\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.shopalexanderarms.com/Handguards-Picatinny_3_Rail_Section_3.html",
+		
+		"weight": "23 g",
+		"volume": "4 ml",
+		"longest_side": "76 mm",
+		
+		"//slots": 5,
+		
+		"price": "19 USD"
+	
+	},
+	
+	{
+	
+		"id": "rail_mount_troy",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Troy QARS 4.2\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.at3tactical.com/products/troy-industries-rail-sections-for-trx-rail-black",
+		
+		"volume": "5 ml",
+		"longest_side": "107 mm",
+		
+		"//slots": 8,
+		
+		"price": "32 USD"
+	
+	},
+	
+	{
+	
+		"id": "rail_mount_kv",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Kaw Valley Precision 3.1\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/kaw-valley-precision-m-lok-rail-section/",
+		
+		"weight": "33 g",
+		"volume": "4 ml",
+		"longest_side": "80 mm",
+		
+		"//slots": 7,
+		
+		"price": "15 USD"
+	
+	},
+	
+	{
+	
+		"id": "rail_mount_strike",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Strike Industries LINK 3.5\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/strike-industries-link-rail-section-fit-both-keymod-and-m-lok/",
+		
+		"weight": "33 g",
+		"volume": "4 ml",
+		"longest_side": "88 mm",
+		
+		"//slots": 7,
+		
+		"price": "23 USD"
+	
+	},
+	
+	{
+	
+		"id": "rail_mount_cmc",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "CMC Triggers 3.3\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-system-parts-accessories/cmc-trigger-m-lok-picatinny-rail/",
+		
+		"weight": "34 g",
+		"volume": "9 ml",
+		"longest_side": "84 mm",
+		
+		"//slots": 7,
+		
+		"price": "23 USD"
+	
+	},
+	
+	{
+	
+		"id": "rail_mount_seekins",
+		"copy-from": "rail_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Seekins Precision 3.2\" rail mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/seekins-precision-rvl-r6-toolless-m-lok-rail-section/",
+		
+		"weight": "33 g",
+		"volume": "9 ml",
+		"longest_side": "80 mm",
+		
+		"//slots": 6,
+		
+		"//installation": "requires no tools to install",
+		
+		"price": "59 USD"
+	
+	}
+
+]
