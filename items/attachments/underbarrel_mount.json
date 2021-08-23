@@ -1,0 +1,65 @@
+[
+
+	{
+	
+		"id": "underbarrel_mount_accuracy",
+		"copy-from": "underbarrel_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Accuracy Solutions 5.5\" underbarrel mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.opticsplanet.com/accuracy-solutions-picatinny-rail-13-slot-m-lok.html",
+		
+		"volume": "7 ml",
+		"longest_side": "140 mm",
+		
+		"//slots": 13,
+		
+		"price": "34 USD"
+	
+	},
+	
+	{
+	
+		"id": "underbarrel_mount_mdt",
+		"copy-from": "underbarrel_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "MDT 6.5\" underbarrel mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.opticsplanet.com/mdt-aluminum-picatinny-m-lok-rail.html",
+		
+		"volume": "8 ml",
+		"longest_side": "165 mm",
+		
+		"//slots": 14,
+		
+		"price": "46 USD"
+	
+	},
+	
+	{
+	
+		"id": "underbarrel_mount_seekins",
+		"copy-from": "underbarrel_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "Seeking Precision 6\" underbarrel mount" },
+		"description": "TBD",
+		
+		"//source": "https://www.opticsplanet.com/seekins-precision-0010560083-m-lok-picatinny-rail-13-slot-6061-t6-aluminum-black.html",
+		"//source2": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/seekins-precision-m-lok-rail-section/",
+		
+		"weight": "48 g",
+		"volume": "8 ml",
+		"longest_side": "154 mm",
+		
+		"//slots": 13,
+		
+		"price": "37 USD"
+	
+	}
+
+]
