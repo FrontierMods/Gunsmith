@@ -3,7 +3,7 @@
 	{
 	
 		"id": "ar15",
-		"copy-from": "receiver_lower",
+		"copy-from": "receiver_lower_ar15",
 		"type": "GUN",
 		
 		"name": { "str": "AR-15" },
@@ -11,20 +11,11 @@
 		
 		"weight": "227 g",
 		
-		"skill": "rifle",
 		"ammo": [ 
 		
 			"223",
 			"300blk"
 			
-		],
-		
-		"valid_mod_locations": [
-		
-			[ "grip",               1 ],
-			[ "fire control group", 1 ],
-			[ "magwell",            1 ]
-		
 		],
 		
 		"//default_mods": [

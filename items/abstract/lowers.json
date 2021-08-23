@@ -31,15 +31,31 @@
 		"name": { "str": "Rifle lower receiver" },
 		"description": "idea of a rifle lower receiver",
 		
-		"//skill_note": "does not appear to get inherited",
-		"//skill": "rifle",
+		"skill": "rifle",
 		
-		"//valid_mod_locations_note": "does not appear to get inherited",
-		"//valid_mod_locations": [
+		"valid_mod_locations": [
 		
-			[ "rifle grip",         1 ],
+			[ "grip",               1 ],
+			[ "fire control group", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
+		"abstract": "receiver_lower_ar15",
+		"copy-from": "receiver_lower_rifle",
+		"type": "GUN",
+		
+		"name": { "str": "AR-15-platform lower receiver" },
+		"description": "idea of an AR-15-platform lower receiver",
+		
+		"valid_mod_locations": [
+		
+			[ "grip",               1 ],
 			[ "fire control group", 1 ],
-			[ "receiver extension", 1 ]
+			[ "magwell",            1 ]
 		
 		]
 	
