@@ -55,6 +55,14 @@
 		"type": "MIGRATION",
 		"replace": "osm_arisaka"
 		
+	},
+	
+	{
+	
+		"id": "rail_laser_sight",
+		"type": "MIGRATION",
+		"replace": "laser_sight_firefield"
+		
 	}
 
 ]
