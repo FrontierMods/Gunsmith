@@ -63,6 +63,15 @@
 		"type": "MIGRATION",
 		"replace": "laser_sight_firefield"
 		
+	},
+	
+	{
+	
+		"id": "muzzle_brake",
+		"type": "MIGRATION",
+		"//replace": "needs something more generic; A2 birdcage?",
+		"replace": "muzzle_brake_precision_hypertap"
+		
 	}
 
 ]
