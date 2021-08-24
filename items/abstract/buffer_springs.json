@@ -23,7 +23,7 @@
 		
 		],
 		
-		"location": "buffer tube",
+		"location": "buffer spring",
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
@@ -53,7 +53,7 @@
 		
 		],
 		
-		"location": "pistol buffer tube"
+		"location": "pistol buffer spring"
 	
 	},
 	
@@ -79,7 +79,7 @@
 		
 		],
 		
-		"location": "carbine buffer tube"
+		"location": "carbine buffer spring"
 	
 	},
 	
@@ -105,7 +105,7 @@
 		
 		],
 		
-		"location": "rifle buffer tube"
+		"location": "rifle buffer spring"
 	
 	}
 
