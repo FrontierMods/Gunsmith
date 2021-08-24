@@ -17,6 +17,8 @@
 		"//volume": "broken down into two parts for easier total volume calculations",
 		"//breakdown": "7 × 1 × 1 in. for the body + 1 × 2.75 × 1.5 in. for the handle itself",
 		"volume": "173 ml",
+		"//integral_volume": "only the latch part is sticking out; 20% trim for shape",
+		"integral_volume": "5 ml",
 		"longest_side": "203 mm",
 		
 		"material": [ "aluminum" ],
