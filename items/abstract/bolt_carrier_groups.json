@@ -41,64 +41,6 @@
 		
 		"mod_targets": [ "rifle" ]
 	
-	},
-	
-	{
-	
-		"abstract": "bcg_ar15",
-		"copy-from": "bcg_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform bolt carrier group" },
-		"description": "idea of an AR-15-platform bolt carrier group",
-		
-		"//volume": "assumed from averages; see REFERENCE.md",
-		"volume": "26 ml",
-		"longest_side": "170 mm",
-		
-		"mod_targets": [ "ar15" ],
-		
-		"add_mod": [
-		
-			[ "barrel",           1 ],
-			[ "charging handle ", 1 ]
-		
-		]
-	
-	},
-	
-	{
-	
-		"abstract": "bcg_ar15_556",
-		"copy-from": "bcg_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "5.56mm AR-15-platform bolt carrier group" },
-		"description": "idea of a 5.56mm/.223/.300BLK AR-15-platform bolt carrier group",
-		
-		"//ammo_modifier1": "TODO: test multi-modifier in-game",
-		"//ammo_modifier2": "docs say multiple types are allowed",
-		"//ammo_modifier3": "most, if not all, 5.56mm BCGs list .300 Blackout as accepted caliber",
-		"//ammo_modifier": [ 
-		
-			"223",
-			"300blk"
-			
-		]
-	
-	},
-	
-	{
-	
-		"abstract": "bcg_ar15_9mm",
-		"copy-from": "bcg_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "9mm AR-15-platform bolt carrier group" },
-		"description": "idea of a 9mm AR-15-platform bolt carrier group",
-		
-		"ammo_modifier": [ "9mm" ]
-	
 	}
 
 ]

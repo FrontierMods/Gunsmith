@@ -59,58 +59,6 @@
 		
 		]
 	
-	},
-	
-	{
-	
-		"abstract": "barrel_ar15",
-		"copy-from": "barrel_rifle_threaded",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform barrel" },
-		"description": "idea of an AR-15-platform barrel",
-		
-		"mod_targets": [ "ar15" ]
-		
-	},
-	
-	{
-	
-		"abstract": "barrel_ar15_223",
-		"copy-from": "barrel_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform .223 barrel" },
-		"description": "idea of an AR-15-platform .223 barrel",
-		
-		"acceptable_ammo": [ "223" ]
-	
-	},
-	
-	{
-	
-		"abstract": "barrel_ar15_300blk",
-		"copy-from": "barrel_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform .300 Blackout barrel" },
-		"description": "idea of an AR-15-platform .300 Blackout barrel",
-		
-		"acceptable_ammo": [ "300blk" ]
-	
-	},
-	
-	{
-	
-		"abstract": "barrel_ar15_9mm",
-		"copy-from": "barrel_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform 9mm barrel" },
-		"description": "idea of an AR-15-platform 9mm barrel",
-		
-		"acceptable_ammo": [ "9mm" ]
-	
 	}
 
 ]

@@ -42,23 +42,6 @@
 		
 		"mod_targets": [ "rifle" ]
 	
-	},
-	
-	{
-	
-		"abstract": "fcg_ar15",
-		"copy-from": "fcg_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform fire control group" },
-		"description": "idea of a AR-15-platform fire control group",
-		
-		"//weight": "extrapolated and rounded from source",
-		"//weight_source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/",
-		"weight": "71 g",
-		
-		"mod_targets": [ "ar15" ]
-	
 	}
 
 ]

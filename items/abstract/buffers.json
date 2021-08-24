@@ -36,60 +36,6 @@
 			
 		]
 	
-	},
-	
-	{
-	
-		"abstract": "buffer_pistol",
-		"copy-from": "buffer_abstract",
-		"type": "GUNMOD",
-		
-		"name": { "str": "pistol-length buffer" },
-		"description": "idea of a pistol-length buffer",
-		
-		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
-		"volume": "17 ml",
-		"//longest_side": "assumed from average; see REFERENCE.md",
-		"longest_side": "62 mm",
-		
-		"location": "pistol buffer"
-	
-	},
-	
-	{
-	
-		"abstract": "buffer_carbine",
-		"copy-from": "buffer_abstract",
-		"type": "GUNMOD",
-		
-		"name": { "str": "carbine-length buffer" },
-		"description": "idea of a carbine-length buffer",
-		
-		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
-		"volume": "23 ml",
-		"//longest_side": "assumed from average; see REFERENCE.md",
-		"longest_side": "83 mm",
-		
-		"location": "carbine buffer"
-	
-	},
-	
-	{
-	
-		"abstract": "buffer_rifle",
-		"copy-from": "buffer_abstract",
-		"type": "GUNMOD",
-		
-		"name": { "str": "rifle-length buffer" },
-		"description": "idea of a rifle-length buffer",
-		
-		"//volume": "from average dimensions; diameter assumed to be 0.73 in.",
-		"volume": "41 ml",
-		"//longest_side": "assumed from average; see REFERENCE.md",
-		"longest_side": "150 mm",
-		
-		"location": "rifle buffer"
-	
 	}
 
 ]

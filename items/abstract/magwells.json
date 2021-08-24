@@ -35,19 +35,6 @@
 		
 		"mod_targets": [ "rifle" ]
 	
-	},
-	
-	{
-	
-		"abstract": "magwell_ar15",
-		"copy-from": "magwell_rifle",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform bolt carrier group" },
-		"description": "idea of an AR-15-platform bolt carrier group",
-		
-		"mod_targets": [ "ar15" ]
-	
 	}
 
 ]
