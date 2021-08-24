@@ -20,8 +20,12 @@
 		
 		"location": "RMR mount",
 		
-		"//power_source": "CR2032",
-		"//power_lifetime": "2 years",
+		"//power": {
+		
+			"source": "CR2032",
+			"lifetime": "2 years"
+		
+		},
 		
 		"price": "649 USD"
 	
@@ -47,8 +51,12 @@
 		
 		"location": "RMR mount",
 		
-		"//power_source": "CR2032",
-		"//power_lifetime": "5000 hours",
+		"//power": {
+		
+			"source": "CR2032",
+			"lifetime": "5 000 hours"
+		
+		},
 		
 		"price": "180 USD"
 	
@@ -72,8 +80,12 @@
 		
 		"sight_dispersion": 4,
 		
-		"//power_source": "CR123",
-		"//power_lifetime": "1000 hours",
+		"//power": {
+		
+			"source": "CR123",
+			"lifetime": "1 000 hours"
+		
+		},
 		
 		"price": "575 USD"
 	
@@ -98,8 +110,12 @@
 		
 		"sight_dispersion": 4,
 		
-		"//power_source": "CR2032",
-		"//power_lifetime": "???",
+		"//power": {
+		
+			"source": "CR2032",
+			"lifetime": "???"
+		
+		},
 		
 		"price": "1400 USD"
 	
@@ -125,8 +141,12 @@
 		
 		"location": "Holosun mount",
 		
-		"//power_source": "CR1632",
-		"//power_lifetime": "50 000 hours",
+		"//power": {
+		
+			"source": "CR1632",
+			"lifetime": "50 000 hours"
+		
+		},
 		
 		"price": "341 USD"
 	
@@ -175,8 +195,12 @@
 		"//sight_dispersion": "actual scope line thickness: 0.5 MRAD = 1.72 MOA",
 		"sight_dispersion": 7,
 		
-		"//power_source": "CR2032",
-		"//power_lifetime": "39 hours",
+		"//power": {
+		
+			"source": "CR2032",
+			"lifetime": "39 hours"
+		
+		},
 		
 		"price": "1400 USD"
 	
