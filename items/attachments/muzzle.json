@@ -228,6 +228,7 @@
 		"//recoil_reduction": "84%",
 		
 		"//recoil_modifier": -420,
+		"handling_modifier": 42,
 		
 		"price": "180 USD"
 	
@@ -254,6 +255,7 @@
 		"//recoil_distance": "2.4688 in.",
 		
 		"//recoil_modifier": -400,
+		"handling_modifier": 40,
 		
 		"price": "100 USD"
 	
@@ -283,6 +285,7 @@
 		"//recoil_distance": "4.9375 in.",
 		
 		"//recoil_modifier": -275,
+		"handling_modifier": 28,
 		
 		"price": "91 USD"
 	
@@ -313,6 +316,7 @@
 		"//recoil_distance": "4.0313 in.",
 		
 		"//recoil_modifier": -325,
+		"handling_modifier": 33,
 		
 		"price": "145 USD"
 	
@@ -341,6 +345,7 @@
 		"//recoil_distance": "4.4688 in.",
 		
 		"//recoil_modifier": -300,
+		"handling_modifier": 30,
 		
 		"price": "60 USD"
 	
@@ -369,6 +374,7 @@
 		"//recoil_distance": "4.9063 in.",
 		
 		"//recoil_modifier": -275,
+		"handling_modifier": 28,
 		
 		"price": "89 USD"
 	
