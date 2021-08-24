@@ -60,7 +60,7 @@
 		"type": "GUN",
 		
 		"name": { "str": "AR-15, First Doctrine" },
-		"description": "AR-15 modified for reliability, at the cost of weight.",
+		"description": "AR-15 modified for performance, at the cost of weight.",
 		
 		"default_mods": [
 		
@@ -94,7 +94,7 @@
 		"type": "GUN",
 		
 		"name": { "str": "AR-15, Second Doctrine" },
-		"description": "AR-15 modified for weight, at the cost of reliability.",
+		"description": "AR-15 modified for weight, at the cost of performance.",
 		
 		"default_mods": [
 		
