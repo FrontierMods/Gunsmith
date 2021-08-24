@@ -17,7 +17,7 @@
 		"color": "dark_gray",
 		
 		"//range": "prevents the gun from firing; gas block adds range",
-		"//range2": "this implementation causes a safe error with ranged.cpp:2335",
+		"//range2": "this implementation causes a safe error with ranged.cpp:2335 when firing a lower before it's fully assembled",
 		"range": -120
 	
 	},
