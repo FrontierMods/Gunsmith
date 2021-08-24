@@ -125,7 +125,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-lightweight-ar-15-titanium-bcg/",
 		
-		"name": { "str": "RCA titanium 5.56mm bolt carrier group" },
+		"name": { "str": "Rubber City Armory titanium 5.56mm bolt carrier group" },
 		"description": "TBD",
 		
 		"material": [
@@ -558,7 +558,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-low-mass-competition-ar-15-bcg/",
 		
-		"name": { "str": "RCA Low Mass 5.56mm bolt carrier group" },
+		"name": { "str": "Rubber City Armory Low Mass 5.56mm bolt carrier group" },
 		"description": "TBD",
 		
 		"weight": "258 g",
