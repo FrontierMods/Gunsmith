@@ -190,8 +190,6 @@
 		"copy-from": "buffer_carbine",
 		"type": "GUNMOD",
 		
-		"//temp_note": "teflon-coated → less noise",
-		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffers/v-seven-enhanced-ar-15-carbine-buffers/",
 		
 		"name": { "str": "V Seven Enhanced H1 carbine buffer" },
@@ -205,6 +203,7 @@
 		
 		"//recoil_modifier": -1100,
 		"handling_modifier": 110,
+		"//loudness_modifier": "teflon-coated → less noise",
 		"loudness_modifier": -10,
 		
 		"price": "49 USD"
