@@ -22,6 +22,8 @@ Use the debug menu to spawn an item called `Gunsmith Demo 1 package`. Deconstruc
 
 Alternatively, use the debug menu to spawn each item individually.
 
+Because the guns assembled this way must follow a protocol of sorts, use [this guide](/documentation/ASSEMBLY_GUIDES/ar15.md) to figure out how to build an awesome AR-15 from scratch.
+
 Try using duct tape as a grip wrapper for the pistol grip, for enhanced handling. Some forward grips can receive a grip wrapper too.
 
 
