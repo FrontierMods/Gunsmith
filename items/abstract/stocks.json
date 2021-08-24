@@ -129,10 +129,10 @@
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "receiver extension plate" },
-		"description": "idea of a receiver extension plate",
+		"name": { "str": "stock plate" },
+		"description": "idea of a stock plate",
 		
-		"location": "receiver extension plate"
+		"location": "stock plate"
 	
 	}
 

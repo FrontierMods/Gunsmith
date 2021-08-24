@@ -8,7 +8,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/",
 		
-		"name": { "str": "Battle Arms Development receiver extension plate" },
+		"name": { "str": "Battle Arms Development stock plate" },
 		"description": "TBD",
 		
 		"weight": "80 g",
@@ -31,7 +31,7 @@
 		
 		"//source": "https://timbercreekoutdoorsinc.com/products/ms-rep",
 		
-		"name": { "str": "Timber Creek receiver extension plate" },
+		"name": { "str": "Timber Creek stock plate" },
 		"description": "TBD",
 		
 		"//weight": "assumed from previous entry",
