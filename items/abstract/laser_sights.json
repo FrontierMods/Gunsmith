@@ -44,7 +44,7 @@
 		"description": "idea of a red laser sight",
 		
 		"//stats": "vague attempt at balancing this to be somewhere between iron sights and standalone sights",
-		"sight_dispersion": 24,
+		"sight_dispersion": 20,
 		"aim_speed": 6
 	
 	},
@@ -59,7 +59,7 @@
 		"description": "idea of a green laser sight",
 		
 		"//stats": "green laser is attested to be slightly more visible than red laser",
-		"sight_dispersion": 20,
+		"sight_dispersion": 18,
 		"aim_speed": 6
 	
 	}
