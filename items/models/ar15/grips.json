@@ -348,27 +348,6 @@
 	
 	{
 	
-		"id": "grip_ar15_dd_enhanced",
-		"copy-from": "grip_ar15",
-		"type": "GUNMOD",
-		
-		"name": { "str": "Daniel Defense Enhanced grip" },
-		"description": "TBD",
-		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/daniel-defense-enhanced-ar-pistol-grip/",
-		
-		"weight": "99 g",
-		"volume": "127 ml",
-		"longest_side": "108 mm",
-		
-		"handling_modifier": 11,
-		
-		"price": "32 USD"
-	
-	},
-	
-	{
-	
 		"id": "grip_ar15_fab",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
