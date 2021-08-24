@@ -22,7 +22,6 @@
 		
 		"mod_targets": [ 
 		
-			"pistol",
 			"rifle",
 			"smg",
 			"shotgun",
@@ -40,10 +39,10 @@
 		"copy-from": "grip_wrap",
 		"type": "GUNMOD",
 		
-		"name": { "str": "AR-15-platform grip wrap" },
-		"description": "idea of an AR-15-platform grip wrap",
+		"name": { "str": "pistol grip wrap" },
+		"description": "idea of a pistol grip wrap",
 		
-		"mod_targets": [ "ar15" ]
+		"mod_targets": [ "pistol" ]
 	
 	}
 
