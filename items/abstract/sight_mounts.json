@@ -36,6 +36,23 @@
 	
 	{
 	
+		"abstract": "sight_mount_rmr",
+		"copy-from": "sight_mount_abstract",
+		"type": "GUNMOD",
+		
+		"name": { "str": "RMR sight mount" },
+		"description": "idea of an RMR sight mount",
+		
+		"add_mod": [
+		
+			[ "RMR mount", 1 ]
+		
+		]
+	
+	},
+	
+	{
+	
 		"abstract": "sight_mount_30mm",
 		"copy-from": "sight_mount_abstract",
 		"type": "GUNMOD",

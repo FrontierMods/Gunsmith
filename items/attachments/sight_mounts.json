@@ -3,7 +3,7 @@
 	{
 	
 		"id": "sight_mount_scalarworks_leap4",
-		"copy-from": "sight_mount_abstract",
+		"copy-from": "sight_mount_rmr",
 		"type": "GUNMOD",
 		
 		"//source": "https://scalarworks.com/shop/quick-detach-mounts/leap-04/",
@@ -17,20 +17,14 @@
 		"volume": "59 ml",
 		"longest_side": "53 mm",
 		
-		"price": "149 USD",
-		
-		"add_mod": [
-		
-			[ "RMR mount", 1 ]
-		
-		]
+		"price": "149 USD"
 	
 	},
 	
 	{
 	
 		"id": "sight_mount_trijicon_rm33",
-		"copy-from": "sight_mount_abstract",
+		"copy-from": "sight_mount_rmr",
 		"type": "GUNMOD",
 		
 		"//source": "https://www.trijicon.com/products/details/rm33",
@@ -45,13 +39,7 @@
 		"volume": "9 ml",
 		"longest_side": "53 mm",
 		
-		"price": "104 USD",
-		
-		"add_mod": [
-		
-			[ "RMR mount", 1 ]
-		
-		]
+		"price": "104 USD"
 	
 	},
 	
