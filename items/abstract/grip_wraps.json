@@ -8,8 +8,8 @@
 		"name": { "str": "grip wrap" },
 		"description": "idea of a grip wrap",
 		
-		"weight": "50 g",
-		"volume": "50 ml",
+		"weight": "10 g",
+		"volume": "10 ml",
 		"longest_side": "50 mm",
 		
 		"material": [ "rubber" ],
