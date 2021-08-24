@@ -16,15 +16,27 @@
 		"volume": "66 ml",
 		"longest_side": "56 mm",
 		
-		"//laser_class": "3R",
-		"//range_day": "20 yards",
-		"//beam_divergence": "1.5 in. @ 50 yards = 0.83 MRAD = 2.86 MOA",
-		
 		"sight_dispersion": 11,
 		
-		"//power_output": "5 mW",
-		"//power_source": "CR2",
-		"//power_lifetime": "40 hours",
+		"//power": {
+		
+			"source": "CR2",
+			"lifetime": "40 hours"
+		
+		},
+		
+		"//laser": {
+		
+			"class": "3R",
+			"power": "5 mW",
+			"divergence": "2.86 MOA",
+			"range": {
+				
+				"day": "20 yards"
+			
+			}
+		
+		},
 		
 		"price": "30 USD"
 	
@@ -47,15 +59,27 @@
 		"volume": "48 ml",
 		"longest_side": "56 mm",
 		
-		"//laser_class": "3R",
-		"//range_day": "???",
-		"//beam_divergence": "0.5 in. @ 50 feet = 0.83 MRAD = 2.86 MOA",
-		
 		"sight_dispersion": 11,
 		
-		"//power_output": "5 mW",
-		"//power_source": "CR1/3N",
-		"//power_lifetime": "???",
+		"//power": {
+		
+			"source": "CR1/3N",
+			"lifetime": "???"
+		
+		},
+		
+		"//laser": {
+		
+			"class": "3R",
+			"power": "5 mW",
+			"divergence": "2.86 MOA",
+			"range": {
+				
+				"day": "???"
+			
+			}
+		
+		},
 		
 		"price": "287 USD"
 	
@@ -79,15 +103,27 @@
 		"volume": "304 ml",
 		"longest_side": "117 mm",
 		
-		"//laser_class": "3R",
-		"//range_day": "25 meters",
-		"//beam_divergence": "0.5 MRAD = 1.72 MOA",
-		
 		"sight_dispersion": 7,
 		
-		"//power_output": "4.6 mW",
-		"//power_source": "DL123 3V",
-		"//power_lifetime": "6 hours",
+		"//power": {
+		
+			"source": "DL123, 3V",
+			"lifetime": "6 hours"
+		
+		},
+		
+		"//laser": {
+		
+			"class": "3R",
+			"power": "4.6 mW",
+			"divergence": "1.72 MOA",
+			"range": {
+				
+				"day": "25 meters"
+			
+			}
+		
+		},
 		
 		"price": "1840 USD"
 	
