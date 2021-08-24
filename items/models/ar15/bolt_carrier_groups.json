@@ -670,7 +670,7 @@
 		"weight": "457 g",
 		
 		"//recoil_modifier": 1000,
-		"handling_modifier": -10,
+		"handling_modifier": -100,
 		
 		"price": "160 USD"
 	
