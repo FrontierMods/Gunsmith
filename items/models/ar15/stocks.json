@@ -55,7 +55,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/",
 		
-		"name": { "str": "Magpul MOE milspec stock" },
+		"name": { "str": "Magpul MOE carbine milspec stock" },
 		"description": "TBD",
 		
 		"weight": "243 g",
@@ -83,7 +83,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/",
 		
-		"name": { "str": "Strike Industries Viper milspec stock" },
+		"name": { "str": "Strike Industries Viper carbine milspec stock" },
 		"description": "TBD",
 		
 		"weight": "172 g",
@@ -111,7 +111,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/",
 		
-		"name": { "str": "Elftmann ELF milspec stock" },
+		"name": { "str": "Elftmann ELF carbine milspec stock" },
 		"description": "TBD",
 		
 		"weight": "147 g",
@@ -137,7 +137,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/",
 		
-		"name": { "str": "LUTH-AR Skullaton milspec stock" },
+		"name": { "str": "LUTH-AR Skullaton rifle milspec stock" },
 		"description": "TBD",
 		
 		"weight": "298 g",
@@ -162,7 +162,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/",
 		
-		"name": { "str": "Magpul PRS Gen 3 milspec stock" },
+		"name": { "str": "Magpul PRS Gen 3 rifle milspec stock" },
 		"description": "TBD",
 		
 		"weight": "788 g",
@@ -190,7 +190,7 @@
 		
 		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/strike-industries-modular-ar-fixed-stock/",
 		
-		"name": { "str": "Strike Industries milspec stock" },
+		"name": { "str": "Strike Industries carbine milspec stock" },
 		"description": "TBD",
 		
 		"weight": "358 g",
