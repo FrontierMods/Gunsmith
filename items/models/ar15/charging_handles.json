@@ -86,7 +86,7 @@
 		"//features": "skeletonized textured latch, ported",
 		
 		"reload_modifier": -4,
-		"recoil_modifier": -5,
+		"handling_modifier": 1,
 		
 		"price": "143 USD"
 	
@@ -315,7 +315,7 @@
 		"//features": "porting",
 		
 		"reload_modifier": -2,
-		"recoil_modifier": -5,
+		"handling_modifier": 1,
 		
 		"price": "59 USD"
 	
@@ -386,7 +386,7 @@
 		"//features": "porting, textured grip",
 		
 		"reload_modifier": -4,
-		"recoil_modifier": -5,
+		"handling_modifier": 1,
 		
 		"price": "95 USD"
 	

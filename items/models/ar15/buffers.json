@@ -18,6 +18,7 @@
 		"longest_side": "150 mm",
 		
 		"//recoil_modifier": -1400,
+		"handling_modifier": 140,
 		
 		"price": "20 USD"
 	
@@ -41,6 +42,7 @@
 		"longest_side": "149 mm",
 		
 		"//recoil_modifier": -900,
+		"handling_modifier": 90,
 		
 		"price": "20 USD"
 	
@@ -60,6 +62,7 @@
 		"weight": "142 g",
 		
 		"//recoil_modifier": -1400,
+		"handling_modifier": 140,
 		
 		"price": "15 USD"
 	
@@ -79,6 +82,7 @@
 		"weight": "106 g",
 		
 		"//recoil_modifier": -1000,
+		"handling_modifier": 100,
 		
 		"price": "23 USD"
 	
@@ -102,6 +106,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -850,
+		"handling_modifier": 85,
 		
 		"price": "13 USD"
 	
@@ -125,6 +130,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1100,
+		"handling_modifier": 110,
 		
 		"price": "24 USD"
 	
@@ -148,6 +154,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1300,
+		"handling_modifier": 130,
 		
 		"price": "34 USD"
 	
@@ -171,6 +178,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1600,
+		"handling_modifier": 160,
 		
 		"price": "44 USD"
 	
@@ -196,6 +204,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1100,
+		"handling_modifier": 110,
 		"loudness_modifier": -10,
 		
 		"price": "49 USD"
@@ -220,6 +229,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1300,
+		"handling_modifier": 130,
 		
 		"price": "49 USD"
 	
@@ -243,6 +253,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1500,
+		"handling_modifier": 150,
 		
 		"price": "49 USD"
 	
@@ -262,6 +273,7 @@
 		"weight": "85 g",
 		
 		"//recoil_modifier": -850,
+		"handling_modifier": 85,
 		
 		"price": "30 USD"
 	
@@ -281,6 +293,7 @@
 		"weight": "113 g",
 		
 		"//recoil_modifier": -1100,
+		"handling_modifier": 110,
 		
 		"price": "35 USD"
 	
@@ -300,6 +313,7 @@
 		"weight": "156 g",
 		
 		"//recoil_modifier": -1500,
+		"handling_modifier": 150,
 		
 		"price": "41 USD"
 	
@@ -323,6 +337,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1300,
+		"handling_modifier": 130,
 		
 		"price": "40 USD"
 	
@@ -346,6 +361,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -1500,
+		"handling_modifier": 150,
 		
 		"price": "50 USD"
 	
@@ -369,6 +385,7 @@
 		"longest_side": "83 mm",
 		
 		"//recoil_modifier": -2000,
+		"handling_modifier": 200,
 		
 		"price": "85 USD"
 	

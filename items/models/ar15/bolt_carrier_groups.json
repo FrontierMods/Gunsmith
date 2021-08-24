@@ -22,7 +22,8 @@
 		
 		"//profile": "AR-15 / lightweight",
 		
-		"recoil_modifier": 600,
+		"//recoil_modifier": 600,
+		"handling_modifier": -60,
 		
 		"price": "438 USD"
 	
@@ -43,7 +44,8 @@
 		
 		"//profile": "AR-15 / low-mass(?)",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "335 USD"
 	
@@ -64,7 +66,8 @@
 		
 		"//profile": "AR-15",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "335 USD"
 	
@@ -85,7 +88,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "200 USD"
 	
@@ -106,7 +110,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "189 USD"
 	
@@ -134,7 +139,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "359 USD"
 	
@@ -155,7 +161,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 750,
+		"//recoil_modifier": 750,
+		"handling_modifier": -75,
 		
 		"price": "185 USD"
 	
@@ -176,7 +183,8 @@
 		
 		"//profile": "M16 / lightweight",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "250 USD"
 	
@@ -197,7 +205,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "138 USD"
 	
@@ -218,7 +227,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "300 USD"
 	
@@ -239,7 +249,8 @@
 		
 		"//profile": "M16 / lightweight",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "330 USD"
 	
@@ -260,7 +271,8 @@
 		
 		"//profile": "AR-15",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "148 USD"
 	
@@ -281,7 +293,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "160 USD"
 	
@@ -302,7 +315,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "130 USD"
 	
@@ -323,7 +337,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "291 USD"
 	
@@ -344,7 +359,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "130 USD"
 	
@@ -365,7 +381,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "200 USD"
 	
@@ -386,7 +403,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "131 USD"
 	
@@ -407,7 +425,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 600,
+		"//recoil_modifier": 600,
+		"handling_modifier": -60,
 		
 		"price": "350 USD"
 	
@@ -428,7 +447,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 600,
+		"//recoil_modifier": 600,
+		"handling_modifier": -60,
 		
 		"price": "237 USD"
 	
@@ -457,7 +477,8 @@
 		
 		"//profile": "M16 / lightweight",
 		
-		"recoil_modifier": 600,
+		"//recoil_modifier": 600,
+		"handling_modifier": -60,
 		
 		"price": "437 USD"
 	
@@ -478,7 +499,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "150 USD"
 	
@@ -499,7 +521,8 @@
 		
 		"//profile": "M16 / low mass(?)",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "180 USD"
 	
@@ -520,7 +543,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "180 USD"
 	
@@ -541,7 +565,8 @@
 		
 		"//profile": "AR-15 / low-mass",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "250 USD"
 	
@@ -562,7 +587,8 @@
 		
 		"//profile": "M16",
 		
-		"recoil_modifier": 600,
+		"//recoil_modifier": 600,
+		"handling_modifier": -60,
 		
 		"price": "350 USD"
 	
@@ -583,7 +609,8 @@
 		
 		"//profile": "lightweight",
 		
-		"recoil_modifier": 700,
+		"//recoil_modifier": 700,
+		"handling_modifier": -70,
 		
 		"price": "225 USD"
 	
@@ -602,7 +629,8 @@
 		
 		"weight": "420 g",
 		
-		"recoil_modifier": 900,
+		"//recoil_modifier": 900,
+		"handling_modifier": -90,
 		
 		"price": "150 USD"
 	
@@ -621,7 +649,8 @@
 		
 		"weight": "427 g",
 		
-		"recoil_modifier": 900,
+		"//recoil_modifier": 900,
+		"handling_modifier": -90,
 		
 		"price": "200 USD"
 	
@@ -640,7 +669,8 @@
 		
 		"weight": "457 g",
 		
-		"recoil_modifier": 1000,
+		"//recoil_modifier": 1000,
+		"handling_modifier": -10,
 		
 		"price": "160 USD"
 	
@@ -659,7 +689,8 @@
 		
 		"weight": "414 g",
 		
-		"recoil_modifier": 900,
+		"//recoil_modifier": 900,
+		"handling_modifier": -90,
 		
 		"price": "165 USD"
 	
@@ -678,7 +709,8 @@
 		
 		"weight": "388 g",
 		
-		"recoil_modifier": 800,
+		"//recoil_modifier": 800,
+		"handling_modifier": -80,
 		
 		"price": "260 USD"
 	

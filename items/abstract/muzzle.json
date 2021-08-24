@@ -43,7 +43,7 @@
 		"name": { "str": "muzzle brake" },
 		"description": "idea of a muzzle brake",
 		
-		"recoil_modifier": -10
+		"//recoil_modifier": -10
 	
 	},
 	
