@@ -92,7 +92,7 @@ Pull weight is regulated with the trigger spring. Tighter-wound springs offer he
 
 Pull weights range from as little as 1.8 lbs to as much as 8.5 lbs.
 
-Generally, 4~5 lbs is considered great for combat and home defense scenarios, and 3~4 lbs – for competition and hunting.
+Generally, 4\~5 lbs is considered great for combat and home defense scenarios, and 3\~4 lbs – for competition and hunting.
 
 Pull weights can be customized per trigger group. The same group could offer anywhere between 2 lbs and 5 lbs.
 
@@ -197,10 +197,10 @@ Common configurations:
     - 3.8 oz. ≈ 108 g
 * HH / H2:
     - 2× tungsten + 1× steel
-    - 4.6 ~ 4.7 oz. ≈ 130 ~ 133 g
+    - 4.6 \~ 4.7 oz. ≈ 130 \~ 133 g
 * HHH / H3:
     - 3× tungsten
-    - 5.4 ~ 5.6 oz. ≈ 153 ~ 159 g
+    - 5.4 \~ 5.6 oz. ≈ 153 \~ 159 g
 * heavy stainless-steel tungsten / HSS
 	- solid 303 stainless steel + 1× tungsten
     - 6.5oz. ≈ 184 g
@@ -209,7 +209,7 @@ Common configurations:
     - 8.5oz. ≈ 241 g
 * rifle
     - 5× steel + steel spacer
-    - 5.0 ~ 5.3 oz. ≈ 142 ~ 150 g
+    - 5.0 \~ 5.3 oz. ≈ 142 \~ 150 g
 
 
 ##### Pistol-Caliber Builds
@@ -252,11 +252,11 @@ Common spring configurations:
 *average length* / *average coils*
 
 * carbine
-    - 10.0625 ~ 11.25 in. ≈ 256 ~ 286 mm
-    - 37 ~ 39 coils
+    - 10.0625 \~ 11.25 in. ≈ 256 \~ 286 mm
+    - 37 \~ 39 coils
 * rifle
-    - 11.75 ~ 13.5 in. ≈ 299 ~ 343 mm
-    - 41 ~ 43 coils
+    - 11.75 \~ 13.5 in. ≈ 299 \~ 343 mm
+    - 41 \~ 43 coils
     
 #### Further Reading
 
