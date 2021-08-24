@@ -30,7 +30,7 @@ Try using duct tape as a grip wrapper for the pistol grip, for enhanced handling
 1. Most parts don't add length to the gun when attached. This is a base game limitation.
 2. Conversion of AR-15 to different calibers (e.g. 9mm, for which the parts exist) doesn't work. The cause is unknown.
 3. The bare lower receiver has all the characteristics of a firearm, yet causes an error when aiming with it is attempted. This has been taken into account. The error is safe to ignore. Fully assembling the firearm (see below) will result in a perfectly functional rifle.
-4. Replacing an "early" part removes all the "later" parts (e.g. removing upper receiver removes everything from barrel to foregrips to sights). See below for explanation. Sorry for the tedium.
+4. Replacing an "early" part removes all the "later" parts (e.g. removing upper receiver removes everything from barrel to foregrips to sights). See below for explanation, or follow [this guide](/documentation/ASSEMBLY_GUIDES/ar15.md). Sorry for the tedium.
 5. Pre-assembled example rifles are likely to crash when disassembly is attempted. The cause is unknown. Make sure to save before attempting disassembly in order to have a save point to return to in case of a crash.
 6. There are no rifle-length buffer tubes in Demo 1, nor are there pistol-length stocks. There are also no commercial stocks of any kind. This is a limitation of research.
 7. Migration does not transform, remove, or replace base-game generic attachment with new specific ones. The cause is unknown.
