@@ -59,7 +59,7 @@
 		
 		"//power": {
 			"source": "CR2032",
-			"lifetime": "5 000 hours"
+			"lifetime": "5000 hours"
 		},
 		
 		"price": "180 USD"
@@ -90,7 +90,7 @@
 		
 		"//power": {
 			"source": "CR123",
-			"lifetime": "1 000 hours"
+			"lifetime": "1000 hours"
 		},
 		
 		"price": "575 USD"
@@ -155,7 +155,7 @@
 		
 		"//power": {
 			"source": "CR1632",
-			"lifetime": "50 000 hours"
+			"lifetime": "50000 hours"
 		},
 		
 		"price": "341 USD"
