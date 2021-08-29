@@ -153,7 +153,7 @@
 		"weight": "439 g",
 		"volume": "292 ml",
 		"longest_side": "178 mm",
-		"//added_length": " mm",
+		"//added_length": "?? mm",
 		
 		"damage_modifier": { 
 			"damage_type": "bullet", "amount": 2 
