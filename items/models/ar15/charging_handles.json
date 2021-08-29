@@ -368,7 +368,7 @@
 			]
 		},
 		
-		"reload_modifier": -5,
+		"reload_modifier": -2,
 		
 		"price": "60 USD"
 	
@@ -400,7 +400,7 @@
 			]
 		},
 		
-		"reload_modifier": -6,
+		"reload_modifier": -3,
 		
 		"price": "80 USD"
 	
@@ -431,7 +431,7 @@
 			]
 		},
 		
-		"reload_modifier": -2,
+		"reload_modifier": -1,
 		"handling_modifier": 1,
 		
 		"price": "59 USD"
@@ -461,7 +461,7 @@
 			"latch_extended": true
 		},
 		
-		"reload_modifier": -2,
+		"reload_modifier": -1,
 		
 		"price": "54 USD"
 	
@@ -494,7 +494,7 @@
 			]
 		},
 		
-		"reload_modifier": -6,
+		"reload_modifier": -3,
 		
 		"price": "125 USD"
 	
@@ -526,7 +526,7 @@
 			]
 		},
 		
-		"reload_modifier": -4,
+		"reload_modifier": -2,
 		"handling_modifier": 1,
 		
 		"price": "95 USD"
