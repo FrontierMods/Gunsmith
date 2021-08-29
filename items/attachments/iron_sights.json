@@ -6,9 +6,13 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/aero-precision-low-profile-flip-up-iron-sight-set/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/aero-precision-low-profile-flip-up-iron-sight-set/"
+		],
 		
-		"name": { "str": "Aero Precision low-profile iron sights" },
+		"name": {
+			"str": "Aero Precision low-profile iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "96 g",
@@ -23,9 +27,13 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c4-flip-up-front-and-rear-sight/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c4-flip-up-front-and-rear-sight/"
+		],
 		
-		"name": { "str": "Ultradyne C4 iron sights" },
+		"name": {
+			"str": "Ultradyne C4 iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "133 g",
@@ -43,18 +51,20 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/scalarworks-peak-fixed-iron-sights-set/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/scalarworks-peak-fixed-iron-sights-set/"
+		],
 		
-		"name": { "str": "Scalarworks PEAK iron sights" },
+		"name": {
+			"str": "Scalarworks PEAK iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "68 g",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"//price": "129 USD per front/rear sight separately",
@@ -68,18 +78,20 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-ii-45-degree-offset-inline-flip-up-sights/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-ii-45-degree-offset-inline-flip-up-sights/"
+		],
 		
-		"name": { "str": "Strike Industries Sidewinder II offset iron sights" },
+		"name": {
+			"str": "Strike Industries Sidewinder II offset iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "101 g",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"price": "160 USD"
@@ -92,18 +104,20 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-45-degree-offset-co-witness-flip-up-sights/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/strike-industries-sidewinder-45-degree-offset-co-witness-flip-up-sights/"
+		],
 		
-		"name": { "str": "Strike Industries Sidewinder offset iron sights" },
+		"name": {
+			"str": "Strike Industries Sidewinder offset iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "96 g",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"price": "160 USD"
@@ -116,9 +130,13 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/diamondhead-polymer-integrated-sighting-system-with-nitebrite/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/diamondhead-polymer-integrated-sighting-system-with-nitebrite/"
+		],
 		
-		"name": { "str": "Diamondhead iron sights" },
+		"name": {
+			"str": "Diamondhead iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "72 g",
@@ -126,9 +144,7 @@
 		"longest_side": "65 mm",
 		
 		"material": [
-			
 			"plastic"
-		
 		],
 		
 		"price": "118 USD"
@@ -141,18 +157,20 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c2-flip-up-front-and-rear-sight-combo/",
+		"//source": [
+			"https://www.wingtactical.com/accessories/optics-sights/sights/ultradyne-c2-flip-up-front-and-rear-sight-combo/"
+		],
 		
-		"name": { "str": "Ultradyne C2 iron sights" },
+		"name": {
+			"str": "Ultradyne C2 iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "96 g",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"price": "199 USD"
@@ -165,10 +183,14 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-front-sight/",
-		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-rear-sight/",
+		"//source": [ 
+			"https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-front-sight/",
+			"https://www.wingtactical.com/accessories/optics-sights/sights/spikes-tactical-micro-rear-sight/"
+		],
 		
-		"name": { "str": "Spike's Tactical micro iron sights" },
+		"name": {
+			"str": "Spike's Tactical micro iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "64 g",
@@ -176,10 +198,8 @@
 		"longest_side": "44 mm",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"//price": "105 USD + 125 USD",
@@ -193,10 +213,14 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-m4-flip-up-front-battle-sight/",
-		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-folding-rear-battle-sight/",
+		"//source": [ 
+			"https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-m4-flip-up-front-battle-sight/",
+			"https://www.wingtactical.com/accessories/optics-sights/sights/troy-industries-folding-rear-battle-sight/"
+		],
 		
-		"name": { "str": "Troy Industries iron sights" },
+		"name": {
+			"str": "Troy Industries iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "89 g",
@@ -204,10 +228,8 @@
 		"longest_side": "54 mm",
 		
 		"material": [
-			
 			"aluminum",
 			"steel"
-		
 		],
 		
 		"//price": "100 USD + 120 USD",
@@ -221,10 +243,14 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-front-sight-mbus/",
-		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus/",
+		"//source": [ 
+			"https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-front-sight-mbus/",
+			"https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus/"
+		],
 		
-		"name": { "str": "Magpul MBUS iron sights" },
+		"name": {
+			"str": "Magpul MBUS iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "71 g",
@@ -234,9 +260,7 @@
 		"longest_side": "76 mm",
 		
 		"material": [
-			
 			"plastic"
-		
 		],
 		
 		"//price": "40 USD + 58 USD",
@@ -250,10 +274,14 @@
 		"copy-from": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"//source_front": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-mbus-pro-front-sight/",
-		"//source_rear": "https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus-pro/",
+		"//source": [ 
+			"https://www.wingtactical.com/accessories/optics-sights/sights/magpul-mbus-pro-front-sight/",
+			"https://www.wingtactical.com/accessories/optics-sights/sights/magpul-back-up-rear-sight-mbus-pro/"
+		],
 		
-		"name": { "str": "Magpul MBUS Pro iron sights" },
+		"name": {
+			"str": "Magpul MBUS Pro iron sights"
+		},
 		"description": "TBD",
 		
 		"weight": "94 g",
@@ -262,10 +290,8 @@
 		"volume": "87 ml",
 		"longest_side": "76 mm",
 		
-		"material": [
-			
-			"plastic"
-		
+		"material": [ 
+			"plastic" 
 		],
 		
 		"//price": "85 USD + 105 USD",

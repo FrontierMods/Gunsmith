@@ -8,10 +8,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "A2 pistol grip" },
-		"description": "TBD",
+		"//source": [
+			"???"
+		],
 		
-		"//source": "???",
+		"name": {
+			"str": "A2 pistol grip"
+		},
+		"description": "TBD",
 		
 		"weight": "110 g",
 		"volume": "120 ml",
@@ -29,10 +33,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Strike Industries flat-top overmolded grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-flat-top-overmolded-ar-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-flat-top-overmolded-ar-pistol-grip/",
+		"name": {
+			"str": "Strike Industries flat-top overmolded grip"
+		},
+		"description": "TBD",
 		
 		"weight": "54 g",
 		"volume": "106 ml",
@@ -50,10 +58,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Strike Industries enhanced overmolded grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-overmolded-ar-enhanced-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-overmolded-ar-enhanced-pistol-grip/",
+		"name": {
+			"str": "Strike Industries enhanced overmolded grip"
+		},
+		"description": "TBD",
 		
 		"weight": "73 g",
 		"volume": "110 ml",
@@ -71,10 +83,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Armaspec UAT grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/armaspec-tactical-grip-with-ultra-aggressive-texture-uat/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/armaspec-tactical-grip-with-ultra-aggressive-texture-uat/",
+		"name": {
+			"str": "Armaspec UAT grip"
+		},
+		"description": "TBD",
 		
 		"weight": "88 g",
 		"//volume": "roughly; only width available, so other dimensions assumed from previous entry",
@@ -93,10 +109,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Tyrant Designs Concept 1 grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/tyrant-designs-concept-one-aluminum-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/tyrant-designs-concept-one-aluminum-pistol-grip/",
+		"name": {
+			"str": "Tyrant Designs Concept 1 grip"
+		},
+		"description": "TBD",
 		
 		"weight": "149 g",
 		"//volume": "roughly; only length and width available, so height assumed from previous entry",
@@ -105,11 +125,9 @@
 		
 		"handling_modifier": 8,
 		
-		"material": [
-		
+		"material": [ 
 			"aluminum",
-			"rubber"
-		
+			"rubber" 
 		],
 		
 		"price": "80 USD"
@@ -122,10 +140,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Daniel Defense Enhanced grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/daniel-defense-enhanced-ar-pistol-grip-no-trigger-guard/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/daniel-defense-enhanced-ar-pistol-grip-no-trigger-guard/",
+		"name": {
+			"str": "Daniel Defense Enhanced grip"
+		},
+		"description": "TBD",
 		
 		"weight": "84 g",
 		"volume": "119 ml",
@@ -133,11 +155,9 @@
 		
 		"handling_modifier": 13,
 		
-		"material": [
-		
+		"material": [ 
 			"plastic",
-			"rubber"
-		
+			"rubber" 
 		],
 		
 		"price": "32 USD"
@@ -150,10 +170,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Fortis Manufacturing TORQUE carbon-fiber grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/fortis-manufacturing-torque-carbon-fiber-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/fortis-manufacturing-torque-carbon-fiber-pistol-grip/",
+		"name": {
+			"str": "Fortis Manufacturing TORQUE carbon-fiber grip"
+		},
+		"description": "TBD",
 		
 		"weight": "127 g",
 		"//volume": "height assumed from previous entry",
@@ -172,10 +196,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Aeroknox ORION grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/aeroknox-orion-ar-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/aeroknox-orion-ar-pistol-grip/",
+		"name": {
+			"str": "Aeroknox ORION grip"
+		},
+		"description": "TBD",
 		
 		"weight": "146 g",
 		"//volume": "height assumed from previous entry",
@@ -194,10 +222,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Battle Arms Development grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/battle-arms-development-adjustable-tactical-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/battle-arms-development-adjustable-tactical-pistol-grip/",
+		"name": {
+			"str": "Battle Arms Development grip"
+		},
+		"description": "TBD",
 		
 		"//note": "assumed to be the 17° option",
 		
@@ -218,13 +250,16 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "F-1 Firearms skeletonized grip" },
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/f-1-firearms-skeletonized-ar-pistol-grip/",
+			"assumed to be the grooved option sans paracord" 
+		],
+		
+		"name": {
+			"str": "F-1 Firearms skeletonized grip"
+		},
 		"description": "TBD",
-		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/f-1-firearms-skeletonized-ar-pistol-grip/",
-		
-		"//note": "assumed to be the grooved option sans paracord",
-		
+				
 		"weight": "103 g",
 		"//volume": "height assumed from previous entry",
 		"volume": "89 ml",
@@ -242,10 +277,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Tyrant Designs Lightweight Pro grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-lwp-lightweight-pro-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-lwp-lightweight-pro-pistol-grip/",
+		"name": {
+			"str": "Tyrant Designs Lightweight Pro grip"
+		},
+		"description": "TBD",
 		
 		"weight": "104 g",
 		"//volume": "height assumed from previous entry",
@@ -264,10 +303,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Tyrant Designs Titan aluminum grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-titan-aluminum-pistol-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-titan-aluminum-pistol-grip/",
+		"name": {
+			"str": "Tyrant Designs Titan aluminum grip"
+		},
+		"description": "TBD",
 		
 		"weight": "149 g",
 		"//volume": "height assumed from previous entry",
@@ -286,10 +329,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Strike Industries featureless grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/strike-industries-simple-featureless-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/strike-industries-simple-featureless-grip/",
+		"name": {
+			"str": "Strike Industries featureless grip"
+		},
+		"description": "TBD",
 		
 		"weight": "95 g",
 		"//volume": "25% increase due to its unique shape and its relation to dimensions",
@@ -308,10 +355,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Strike Industries Megafin featureless grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/strike-industries-megafin-featureless-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/strike-industries-megafin-featureless-grip/",
+		"name": {
+			"str": "Strike Industries Megafin featureless grip"
+		},
+		"description": "TBD",
 		
 		"weight": "118 g",
 		"//volume": "25% increase due to its unique shape and its relation to dimensions",
@@ -330,10 +381,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Magpul MOE K2+ grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/magpul-moe-k2-ar-15-grip/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/magpul-moe-k2-ar-15-grip/",
+		"name": {
+			"str": "Magpul MOE K2+ grip"
+		},
+		"description": "TBD",
 		
 		"weight": "88 g",
 		"//volume": "height assumed from previous non-featureless entry",
@@ -352,10 +407,14 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "FAB Defense rubberized grip" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/fab-defense-rubberized-pistol-grip-agr-43/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/fab-defense-rubberized-pistol-grip-agr-43/",
+		"name": {
+			"str": "FAB Defense rubberized grip"
+		},
+		"description": "TBD",
 		
 		"weight": "130 g",
 		"volume": "122 ml",
@@ -373,14 +432,20 @@
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"name": { "str": "ERGO Deluxe grip with palm shelf" },
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/ergo-tactical-deleux-grip-w-palm-shelf/"
+		],
+		
+		"name": {
+			"str": "ERGO Deluxe grip with palm shelf"
+		},
 		"description": "TBD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/ergo-tactical-deleux-grip-w-palm-shelf/",
-		
 		"weight": "184 g",
-		"//volume": "no dimensions available; assumng previous entry",
-		"//volume2": "50% increase from previous due to palm rest",
+		"//volume": [ 
+			"no dimensions available; assumng previous entry", 
+			"50% increase from previous due to palm rest"
+		],
 		"volume": "183 ml",
 		"longest_side": "111 mm",
 		

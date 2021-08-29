@@ -6,16 +6,22 @@
 		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/strike-industries-gridlok-lite-m-lok-handguard-with-front-sight/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/strike-industries-gridlok-lite-m-lok-handguard-with-front-sight/"
+		],
 		
-		"name": { "str": "Strike Industries GRIDLOK 11\" handguard" },
+		"name": {
+			"str": "Strike Industries GRIDLOK 11\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "388 g",
 		"volume": "675 ml",
 		"longest_side": "279 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "160 USD"
 	
@@ -27,16 +33,22 @@
 		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/ab-arms-pro-aluminum-m-lok-free-float-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/ab-arms-pro-aluminum-m-lok-free-float-handguard/"
+		],
 		
-		"name": { "str": "AB Arms Pro 15\" handguard" },
+		"name": {
+			"str": "AB Arms Pro 15\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "393 g",
 		"volume": "726 ml",
 		"longest_side": "381 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "117 USD"
 	
@@ -48,16 +60,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-c7m-ar-15-contoured-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-c7m-ar-15-contoured-m-lok-handguard/"
+		],
 		
-		"name": { "str": "F-1 Firearms C7M 14.75\" contoured handguard" },
+		"name": {
+			"str": "F-1 Firearms C7M 14.75\" contoured handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "428 g",
 		"volume": "1052 ml",
 		"longest_side": "375 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "212 USD"
 	
@@ -69,16 +87,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-x7m-ar15-contoured-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-x7m-ar15-contoured-m-lok-handguard/"
+		],
 		
-		"name": { "str": "F-1 Firearms X7M 13\" contoured handguard" },
+		"name": {
+			"str": "F-1 Firearms X7M 13\" contoured handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "379 g",
 		"volume": "892 ml",
 		"longest_side": "330 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "234 USD"
 	
@@ -90,16 +114,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/"
+		],
 		
-		"name": { "str": "F-1 Firearms H7M 12.3\" Ultra-Lite handguard" },
+		"name": {
+			"str": "F-1 Firearms H7M 12.3\" Ultra-Lite handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "313 g",
 		"volume": "626 ml",
 		"longest_side": "312 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "194 USD"
 	
@@ -111,16 +141,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/f-1-firearms-h7m-ar15-ultra-lite-m-lok-handguard/"
+		],
 		
-		"name": { "str": "F-1 Firearms P7M 15\" Hyper-Lite handguard" },
+		"name": {
+			"str": "F-1 Firearms P7M 15\" Hyper-Lite handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "329 g",
 		"volume": "931 ml",
 		"longest_side": "381 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "221 USD"
 	
@@ -132,16 +168,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/aeroknox-ax-15-m-lok-ar-15-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/aeroknox-ax-15-m-lok-ar-15-handguard/"
+		],
 		
-		"name": { "str": "Aeroknox AX // 15 13\" handguard" },
+		"name": {
+			"str": "Aeroknox AX // 15 13\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "416 g",
 		"volume": "719 ml",
 		"longest_side": "330 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "160 USD"
 	
@@ -153,16 +195,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/2a-armament-builder-series-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/2a-armament-builder-series-m-lok-handguard/"
+		],
 		
-		"name": { "str": "2A Armanent Builder 15\" handguard" },
+		"name": {
+			"str": "2A Armanent Builder 15\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "325 g",
 		"volume": "769 ml",
 		"longest_side": "381 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "137 USD"
 	
@@ -174,16 +222,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/iron-city-rifle-works-berserker-lite-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/iron-city-rifle-works-berserker-lite-m-lok-handguard/"
+		],
 		
-		"name": { "str": "Iron City Rifle Works Berserker 16.5\" handguard" },
+		"name": {
+			"str": "Iron City Rifle Works Berserker 16.5\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "363 g",
 		"volume": "825 ml",
 		"longest_side": "419 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "228 USD"
 	
@@ -195,16 +249,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/rise-armament-ra-905-ar-15-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/rise-armament-ra-905-ar-15-m-lok-handguard/"
+		],
 		
-		"name": { "str": "RISE Armanent 13\" handguard" },
+		"name": {
+			"str": "RISE Armanent 13\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "367 g",
 		"volume": "702 ml",
 		"longest_side": "353 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "190 USD"
 	
@@ -216,16 +276,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-2099-ultra-light-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-2099-ultra-light-m-lok-handguard/"
+		],
 		
-		"name": { "str": "V Seven 2099 11.1\" Ultra-Light handguard" },
+		"name": {
+			"str": "V Seven 2099 11.1\" Ultra-Light handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "205 g",
 		"volume": "529 ml",
 		"longest_side": "282 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "349 USD"
 	
@@ -237,16 +303,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-magnesium-hyper-light-m-lok-ar-15-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/v-seven-magnesium-hyper-light-m-lok-ar-15-handguard/"
+		],
 		
-		"name": { "str": "V Seven Magnesium 15\" Hyper-Light handguard" },
+		"name": {
+			"str": "V Seven Magnesium 15\" Hyper-Light handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "198 g",
 		"volume": "713 ml",
 		"longest_side": "381 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "342 USD"
 	
@@ -258,16 +330,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/aero-precision-atlas-r-one-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/aero-precision-atlas-r-one-m-lok-handguard/"
+		],
 		
-		"name": { "str": "Aero Precision ATLAS R-ONE 12\" handguard" },
+		"name": {
+			"str": "Aero Precision ATLAS R-ONE 12\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "356 g",
 		"volume": "606 ml",
 		"longest_side": "319 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "162 USD"
 	
@@ -279,9 +357,13 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/fortis-switch-mod2-556-m-lok-rail-system/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-systems/fortis-switch-mod2-556-m-lok-rail-system/"
+		],
 		
-		"name": { "str": "Fortis SWITCH Mod2 15\" handguard" },
+		"name": {
+			"str": "Fortis SWITCH Mod2 15\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "299 g",
@@ -290,7 +372,9 @@
 		
 		"//add_mod": "has front-of-handguard 4× 32mm M-LOK slots",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "270 USD"
 	
@@ -302,16 +386,22 @@
 		"copy-from": "handguard_ar15_octo",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/slr-rifleworks-ion-ultra-lite-lightweight-m-lok-handguard/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/slr-rifleworks-ion-ultra-lite-lightweight-m-lok-handguard/"
+		],
 		
-		"name": { "str": "SLR Rifleworks ION 13.7\" Ultra-Lite handguard" },
+		"name": {
+			"str": "SLR Rifleworks ION 13.7\" Ultra-Lite handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "306 g",
 		"volume": "687 ml",
 		"longest_side": "348 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "282 USD"
 	
@@ -323,16 +413,22 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-sp3r-v3-m-lok-rail/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-sp3r-v3-m-lok-rail/"
+		],
 		
-		"name": { "str": "Seekins Precision SP3R V3 15\" handguard" },
+		"name": {
+			"str": "Seekins Precision SP3R V3 15\" handguard"
+		},
 		"description": "TBD",
 		
 		"weight": "448 g",
 		"volume": "1082 ml",
 		"longest_side": "381 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "189 USD"
 	
@@ -344,9 +440,13 @@
 		"copy-from": "handguard_ar15_quad",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-noxs-m-lok-rail-system/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-systems/seekins-precision-noxs-m-lok-rail-system/"
+		],
 		
-		"name": { "str": "Seekins Precision NOXs 9\" handguard" },
+		"name": {
+			"str": "Seekins Precision NOXs 9\" handguard"
+		},
 		"description": "TBD",
 		
 		"//weight": "includes weight of the barrel nut",
@@ -354,7 +454,9 @@
 		"volume": "443 ml",
 		"longest_side": "229 mm",
 		
-		"//interface": "M-LOK",
+		"//interface": [
+			"M-LOK"
+		],
 		
 		"price": "180 USD"
 	

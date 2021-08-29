@@ -5,7 +5,9 @@
 		"abstract": "magwell_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "magwell" },
+		"name": { 
+			"str": "magwell" 
+		},
 		"description": "idea of a magwell",
 		
 		"weight": "50 g",
@@ -14,7 +16,9 @@
 		
 		"integral_volume": "5 ml",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -30,10 +34,14 @@
 		"copy-from": "magwell_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle bolt carrier group" },
-		"description": "idea of a rifle bolt carrier group",
+		"name": { 
+			"str": "rifle magwell" 
+		},
+		"description": "idea of a rifle magwell",
 		
-		"mod_targets": [ "rifle" ]
+		"mod_targets": [ 
+			"rifle" 
+		]
 	
 	}
 

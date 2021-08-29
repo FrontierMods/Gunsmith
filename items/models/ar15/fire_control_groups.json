@@ -6,15 +6,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/cmc-drop-in-ar-2-stage-trigger-group/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/cmc-drop-in-ar-2-stage-trigger-group/"
+		],
 		
-		"name": { "str": "CMC two-stage trigger group" },
+		"name": {
+			"str": "CMC two-stage trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "2 + 3 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": -1,
 		
 		"price": "230 USD"
 	
@@ -26,15 +29,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-classic-drop-in-ar-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-classic-drop-in-ar-trigger/"
+		],
 		
-		"name": { "str": "Velocity Triggers Classic trigger group" },
+		"name": {
+			"str": "Velocity Triggers Classic trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "4 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 1,
 		
 		"price": "150 USD"
 	
@@ -46,15 +52,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/rise-armament-ra-535-advanced-performance-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/rise-armament-ra-535-advanced-performance-trigger/"
+		],
 		
-		"name": { "str": "RISE Armanent Advanced Performance trigger group" },
+		"name": {
+			"str": "RISE Armanent Advanced Performance trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "260 USD"
 	
@@ -66,15 +75,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jmt-saber-single-stage-drop-in-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jmt-saber-single-stage-drop-in-trigger/"
+		],
 		
-		"name": { "str": "JMT Saber trigger group" },
+		"name": {
+			"str": "JMT Saber trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "4 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "100 USD"
 	
@@ -86,15 +98,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/copy-of-jmt-saber-single-stage-drop-in-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/copy-of-jmt-saber-single-stage-drop-in-trigger/"
+		],
 		
-		"name": { "str": "JMT Black Ops trigger group" },
+		"name": {
+			"str": "JMT Black Ops trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "100 USD"
 	
@@ -106,15 +121,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/"
+		],
 		
-		"name": { "str": "Velocity Triggers MPC trigger group" },
+		"name": {
+			"str": "Velocity Triggers MPC trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "190 USD"
 	
@@ -126,15 +144,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/rise-armament-le145-duty-tactical-ar-drop-in-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/rise-armament-le145-duty-tactical-ar-drop-in-trigger/"
+		],
 		
-		"name": { "str": "RISE Armanent Duty trigger group" },
+		"name": {
+			"str": "RISE Armanent Duty trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "4.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 1,
 		
 		"price": "160 USD"
 	
@@ -146,22 +167,23 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-se-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-se-trigger/"
+		],
 		
-		"name": { "str": "Elftmann Tactical ELF SE trigger group" },
+		"name": {
+			"str": "Elftmann Tactical ELF SE trigger group"
+		},
 		"description": "TBD",
 		
-		"material": [
-		
+		"material": [ 
 			"steel",
-			"aluminum"
-		
+			"aluminum" 
 		],
 		
 		"//pull_weight": "4.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 1,
 		
 		"price": "160 USD"
 	
@@ -173,15 +195,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jp-enterprises-ez-trigger-system/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/jp-enterprises-ez-trigger-system/"
+		],
 		
-		"name": { "str": "JP Enterprises EZ trigger group" },
+		"name": {
+			"str": "JP Enterprises EZ trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "200 USD"
 	
@@ -193,15 +218,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-3-gun-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/lower-receiver-parts/ar-15-trigger-groups/elftmann-tactical-elf-3-gun-trigger/"
+		],
 		
-		"name": { "str": "Elftmann Tactical ELF 3-gun trigger group" },
+		"name": {
+			"str": "Elftmann Tactical ELF 3-gun trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3.25 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "280 USD"
 	
@@ -213,15 +241,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/geissele-ssa-e-super-semi-automatic-enhanced-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/trigger-groups/geissele-ssa-e-super-semi-automatic-enhanced-trigger/"
+		],
 		
-		"name": { "str": "Geissele SSA-E trigger group" },
+		"name": {
+			"str": "Geissele SSA-E trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3.2 lbs",
 		
 		"dispersion_modifier": -2,
-		"//recoil_modifier": 0,
 		
 		"price": "240 USD"
 	
@@ -233,15 +264,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/timney-skeletonized-ar-15-trigger/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/timney-skeletonized-ar-15-trigger/"
+		],
 		
-		"name": { "str": "Timney Triggers skeletonized trigger group" },
+		"name": {
+			"str": "Timney Triggers skeletonized trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "4.5 lbs",
 		
 		"dispersion_modifier": -2,
-		"//recoil_modifier": 1,
 		
 		"price": "275 USD"
 	
@@ -253,15 +287,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.opticsplanet.com/hiperfire-hipertouch-edt3-trigger-assembly.html",
+		"//source": [
+			"https://www.opticsplanet.com/hiperfire-hipertouch-edt3-trigger-assembly.html"
+		],
 		
-		"name": { "str": "HIPERFIRE Enhanced Duty trigger group" },
+		"name": {
+			"str": "HIPERFIRE Enhanced Duty trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "5.5 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 2,
 		
 		"price": "100 USD"
 	
@@ -273,15 +310,18 @@
 		"copy-from": "fcg_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.opticsplanet.com/hiperfire-hipertouch-24-competition-trigger-assembly.html",
+		"//source": [
+			"https://www.opticsplanet.com/hiperfire-hipertouch-24-competition-trigger-assembly.html"
+		],
 		
-		"name": { "str": "HIPERFIRE HIPERTOUCH 24 trigger group" },
+		"name": {
+			"str": "HIPERFIRE HIPERTOUCH 24 trigger group"
+		},
 		"description": "TBD",
 		
 		"//pull_weight": "3 lbs",
 		
 		"dispersion_modifier": -1,
-		"//recoil_modifier": 0,
 		
 		"price": "200 USD"
 	

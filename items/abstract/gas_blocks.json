@@ -5,14 +5,18 @@
 		"abstract": "gas_block_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "gas block" },
+		"name": { 
+			"str": "gas block" 
+		},
 		"description": "idea of a gas block",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -31,10 +35,14 @@
 		"copy-from": "gas_block_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle gas block" },
+		"name": { 
+			"str": "rifle gas block" 
+		},
 		"description": "idea of a rifle gas block",
 		
-		"mod_targets": [ "rifle" ]
+		"mod_targets": [ 
+			"rifle" 
+		]
 	
 	}
 

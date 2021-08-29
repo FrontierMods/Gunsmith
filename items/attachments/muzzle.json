@@ -6,9 +6,13 @@
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.surefire.com/products/suppressors-division/suppressors/socom556-rc2-suppressor/",
+		"//source": [
+			"https://www.surefire.com/products/suppressors-division/suppressors/socom556-rc2-suppressor/"
+		],
 		
-		"name": { "str": "Surefire SOCOM556-RC2 suppressor" },
+		"name": { 
+			"str": "Surefire SOCOM556-RC2 suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "482 g",
@@ -16,9 +20,14 @@
 		"longest_side": "162 mm",
 		"//added_length": "97 mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 2 
+		},
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//sound_lower": "134 dB @ 16 in. w/ M855",
 		
@@ -34,9 +43,13 @@
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": "https://thunderbeastarms.com/products/dominus-sr",
+		"//source": [
+			"https://thunderbeastarms.com/products/dominus-sr"
+		],
 		
-		"name": { "str": "Thunder Beast Arms Dominus-SR suppressor" },
+		"name": { 
+			"str": "Thunder Beast Arms Dominus-SR suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "354 g",
@@ -44,16 +57,27 @@
 		"longest_side": "177 mm",
 		"//added_length": "162 mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 2 
+		},
 		
 		"material": [ 
-		
 			"titanium",
 			"steel"
-			
 		],
 		
-		"//calibers": [ "556", "300BLK", "65Grendel", "65PRC", "300win", "68SPC", "762x39", "6.5Creedmoor", ".308win" ],
+		"//calibers": [ 
+			"556", 
+			"300BLK", 
+			"65grendel", 
+			"65PRC", 
+			"300win", 
+			"68SPC", 
+			"762soviet", 
+			"65creedmoor", 
+			"308win" 
+		],
 		
 		"//sound_lower": "137 dB @ 20 in. w/ .308",
 		
@@ -69,7 +93,9 @@
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": "https://thunderbeastarms.com/products/ultra-9",
+		"//source": [
+			"https://thunderbeastarms.com/products/ultra-9"
+		],
 		
 		"name": { "str": "Thunder Beast Arms Ultra 9 Gen 2 suppressor" },
 		"description": "TBD",
@@ -79,16 +105,27 @@
 		"longest_side": "229 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 3 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 3 
+		},
 		
 		"material": [ 
-		
 			"titanium",
 			"steel"
-			
 		],
 		
-		"//calibers": [ "556", "300BLK", "65Grendel", "65PRC", "300win", "68SPC", "762x39", "6.5Creedmoor", ".308win" ],
+		"//calibers": [ 
+			"556", 
+			"300BLK", 
+			"65grendel", 
+			"65PRC", 
+			"300win", 
+			"68SPC", 
+			"762soviet", 
+			"65creedmoor", 
+			"308win" 
+		],
 		
 		"//sound_lower": "135 dB @ 20 in. w/ .308",
 		
@@ -104,9 +141,13 @@
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": "https://thunderbeastarms.com/products/ultra-9",
+		"//source": [
+			"https://thunderbeastarms.com/products/ultra-9"
+		],
 		
-		"name": { "str": "Silent Legion 5.56mm suppressor" },
+		"name": { 
+			"str": "Silent Legion 5.56mm suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "439 g",
@@ -114,17 +155,20 @@
 		"longest_side": "178 mm",
 		"//added_length": " mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", "amount": 2 
+		},
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 
-		
 			"titanium",
 			"steel"
-			
 		],
 		
-		"//calibers": [ "556", "300BLK" ],
+		"//calibers": [ 
+			"556", 
+			"300BLK" 
+		],
 		
 		"//sound_reduction": "32 dB",
 		
@@ -142,9 +186,13 @@
 		
 		"//note": "short 7 in. version without tube extension",
 		
-		"//source": "https://www.silencercentral.com/products/banish-30/",
+		"//source": [
+			"https://www.silencercentral.com/products/banish-30/"
+		],
 		
-		"name": { "str": "Banish 30 suppressor" },
+		"name": { 
+			"str": "Banish 30 suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "284 g",
@@ -152,16 +200,26 @@
 		"longest_side": "178 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 2 
+		},
 		
 		"material": [ 
-		
 			"titanium",
 			"steel"
-			
 		],
 		
-		"//calibers": [ "556", "300BLK", "308", "300weatherby", "300winmag", "17", "22-50", "204" ],
+		"//calibers": [ 
+			"556", 
+			"300BLK", 
+			"308", 
+			"300weatherby", 
+			"300winmag", 
+			"17", 
+			"22-50", 
+			"204" 
+		],
 		
 		"//sound_reduction": "34 dB",
 		
@@ -177,9 +235,13 @@
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.eliteiron.com/product/bravo-1-lite-suppressor/",
+		"//source": [
+			"https://www.eliteiron.com/product/bravo-1-lite-suppressor/"
+		],
 		
-		"name": { "str": "Elite Iron Bravo 1 Lite suppressor" },
+		"name": { 
+			"str": "Elite Iron Bravo 1 Lite suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "366 g",
@@ -187,17 +249,22 @@
 		"longest_side": "200 mm",
 		"//added_length": "?? mm",
 		
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", "amount": 2 
+		},
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 
-		
 			"titanium",
 			"steel"
-			
 		],
 		
-		"//calibers": [ "556", "300BLK", "308", "30-06" ],
+		"//calibers": [ 
+			"556", 
+			"300BLK", 
+			"308", 
+			"30-06" 
+		],
 		
 		"//sound_reduction": "23 dB",
 		
@@ -213,16 +280,22 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/muzzle-devices/precision-armament-hypertap-muzzle-brake-5-56-223/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/muzzle-devices/precision-armament-hypertap-muzzle-brake-5-56-223/"
+		],
 		
-		"name": { "str": "Precision Armament Hypertap muzzle brake" },
+		"name": { 
+			"str": "Precision Armament Hypertap muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "87 g",
 		"volume": "24 ml",
 		"longest_side": "65 mm",
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction_note": "could be bogus",
 		"//recoil_reduction": "84%",
@@ -240,16 +313,22 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://stores.sjcguns.com/223-5-56-sjc-titan-cs-black/",
+		"//source": [
+			"https://stores.sjcguns.com/223-5-56-sjc-titan-cs-black/"
+		],
 		
-		"name": { "str": "S&J Customs Titan muzzle brake" },
+		"name": { 
+			"str": "S&J Customs Titan muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "87 g",
 		"volume": "33 ml",
 		"longest_side": "70 mm",
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction": "78%",
 		"//recoil_distance": "2.4688 in.",
@@ -267,19 +346,27 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.vsevenweaponsystems.com/v7-muzzle-brake/",
-		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		"//source": [
+			"https://www.vsevenweaponsystems.com/v7-muzzle-brake/",
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+		],
 		
-		"name": { "str": "V Seven muzzle brake" },
+		"name": { 
+			"str": "V Seven muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "76 g",
 		"volume": "22 ml",
 		"longest_side": "53 mm",
 		
-		"material": [ "titanium" ],
+		"material": [ 
+			"titanium" 
+		],
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction": "56.35%",
 		"//recoil_distance": "4.9375 in.",
@@ -297,10 +384,14 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.vsevenweaponsystems.com/furion/",
-		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		"//source": [
+			"https://www.vsevenweaponsystems.com/furion/",
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+		],
 		
-		"name": { "str": "V Seven FURION muzzle brake" },
+		"name": { 
+			"str": "V Seven FURION muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "47 g",
@@ -308,9 +399,13 @@
 		"volume": "24 ml",
 		"longest_side": "58 mm",
 		
-		"material": [ "titanium" ],
+		"material": [ 
+			"titanium" 
+		],
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction": "64.36%",
 		"//recoil_distance": "4.0313 in.",
@@ -328,10 +423,14 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.apextactical.com/apex-enhanced-stabilization-attachment",
-		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		"//source": [
+			"https://www.apextactical.com/apex-enhanced-stabilization-attachment",
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+		],
 		
-		"name": { "str": "Apex Enhanced Stabilization Attachment muzzle brake" },
+		"name": { 
+			"str": "Apex Enhanced Stabilization Attachment muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "63 g",
@@ -339,7 +438,9 @@
 		"volume": "17 ml",
 		"longest_side": "66 mm",
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction": "60.50%",
 		"//recoil_distance": "4.4688 in.",
@@ -357,10 +458,14 @@
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": "https://deadairsilencers.com/product/keymount-muzzle-brake-2/",
-		"//source2": "https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/",
+		"//source": [
+			"https://deadairsilencers.com/product/keymount-muzzle-brake-2/",
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+		],
 		
-		"name": { "str": "Dead Air KeyMount muzzle brake" },
+		"name": { 
+			"str": "Dead Air KeyMount muzzle brake" 
+		},
 		"description": "TBD",
 		
 		"weight": "116 g",
@@ -368,7 +473,9 @@
 		"volume": "37 ml",
 		"longest_side": "66 mm",
 		
-		"//calibers": [ "556" ],
+		"//calibers": [ 
+			"556" 
+		],
 		
 		"//recoil_reduction": "56.63%",
 		"//recoil_distance": "4.9063 in.",

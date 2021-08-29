@@ -6,9 +6,13 @@
 		"copy-from": "stock_plate",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/"
+		],
 		
-		"name": { "str": "Battle Arms Development stock plate" },
+		"name": {
+			"str": "Battle Arms Development stock plate"
+		},
 		"description": "TBD",
 		
 		"weight": "80 g",
@@ -29,9 +33,13 @@
 		"copy-from": "stock_plate",
 		"type": "GUNMOD",
 		
-		"//source": "https://timbercreekoutdoorsinc.com/products/ms-rep",
+		"//source": [
+			"https://timbercreekoutdoorsinc.com/products/ms-rep"
+		],
 		
-		"name": { "str": "Timber Creek stock plate" },
+		"name": {
+			"str": "Timber Creek stock plate"
+		},
 		"description": "TBD",
 		
 		"//weight": "assumed from previous entry",
@@ -53,9 +61,13 @@
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/"
+		],
 		
-		"name": { "str": "Magpul MOE carbine milspec stock" },
+		"name": {
+			"str": "Magpul MOE carbine milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "243 g",
@@ -69,9 +81,9 @@
 		
 		"handling_modifier": 13,
 		
-		"price": "40 USD",
 		
 		"flags": [ "COLLAPSIBLE_STOCK" ]
+		"price": "40 USD"
 	
 	},
 	
@@ -81,9 +93,13 @@
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/"
+		],
 		
-		"name": { "str": "Strike Industries Viper carbine milspec stock" },
+		"name": {
+			"str": "Strike Industries Viper carbine milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "172 g",
@@ -97,9 +113,9 @@
 		
 		"handling_modifier": 10,
 		
-		"price": "50 USD",
 		
 		"flags": [ "COLLAPSIBLE_STOCK" ]
+		"price": "50 USD"
 	
 	},
 	
@@ -109,9 +125,13 @@
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/"
+		],
 		
-		"name": { "str": "Elftmann ELF carbine milspec stock" },
+		"name": {
+			"str": "Elftmann ELF carbine milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "147 g",
@@ -119,13 +139,14 @@
 		"volume": "127 ml",
 		"longest_side": "183 mm",
 		
-		"material": [ "aluminum" ],
-		
-		"price": "140 USD",
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"handling_modifier": 8,
 		
 		"flags": [ "COLLAPSIBLE_STOCK" ]
+		"price": "140 USD"
 	
 	},
 	
@@ -135,9 +156,13 @@
 		"copy-from": "stock_rifle_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/"
+		],
 		
-		"name": { "str": "LUTH-AR Skullaton rifle milspec stock" },
+		"name": {
+			"str": "LUTH-AR Skullaton rifle milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "298 g",
@@ -160,14 +185,20 @@
 		"copy-from": "stock_rifle_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/"
+		],
 		
-		"name": { "str": "Magpul PRS Gen 3 rifle milspec stock" },
+		"name": {
+			"str": "Magpul PRS Gen 3 rifle milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "788 g",
-		"//volume": "20% trim because of the shape",
-		"//volume2": "width and height assumed from previous entry",
+		"//volume": [ 
+			"20% trim because of the shape", 
+			"width and height assumed from previous entry" 
+		],
 		"volume": "1049 ml",
 		"longest_side": "292 mm",
 		
@@ -186,11 +217,14 @@
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//note": "assumes maximum length and no modularity",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/strike-industries-modular-ar-fixed-stock/",
+			"assumes maximum length and no modularity"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/strike-industries-modular-ar-fixed-stock/",
-		
-		"name": { "str": "Strike Industries carbine milspec stock" },
+		"name": {
+			"str": "Strike Industries carbine milspec stock"
+		},
 		"description": "TBD",
 		
 		"weight": "358 g",
@@ -201,11 +235,9 @@
 		"//integral_volume": "total volume − roughly assumed average of present buffer tubes (150 ml)",
 		"integral_volume": "760 ml",
 		
-		"material": [
-		
+		"material": [ 
 			"plastic",
-			"steel"
-		
+			"steel" 
 		],
 		
 		"handling_modifier": 12,

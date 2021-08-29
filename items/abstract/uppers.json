@@ -5,13 +5,18 @@
 		"abstract": "receiver_upper",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Upper receiver" },
+		"name": { 
+			"str": "upper receiver" 
+		},
 		"description": "idea of a upper receiver",
 		
 		"weight": "250 g",
 		"volume": "250 ml",
+		"longest_side": "250 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -27,18 +32,20 @@
 		"copy-from": "receiver_upper",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle upper receiver" },
+		"name": { 
+			"str": "rifle upper receiver" 
+		},
 		"description": "idea of a rifle upper receiver",
 		
-		"mod_targets": [ "rifle" ],
+		"mod_targets": [ 
+			"rifle" 
+		],
 		
-		"add_mod": [
-		
+		"add_mod": [ 
 			[ "sights",             1 ],
 			[ "bolt carrier group", 1 ],
 			[ "offset sight mount", 1 ],
-			[ "brass catcher",      1 ]
-		
+			[ "brass catcher",      1 ] 
 		]
 	
 	}

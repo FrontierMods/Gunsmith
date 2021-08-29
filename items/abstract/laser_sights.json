@@ -5,14 +5,18 @@
 		"abstract": "laser_sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "laser sight" },
+		"name": { 
+			"str": "laser sight" 
+		},
 		"description": "idea of a laser sight",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -21,7 +25,6 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"pistol",
 			"rifle",
 			"smg",
@@ -29,7 +32,6 @@
 			"bow",
 			"crossbow",
 			"launcher"
-			
 		]
 	
 	},
@@ -40,7 +42,9 @@
 		"copy-from": "laser_sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "red laser sight" },
+		"name": { 
+			"str": "red laser sight" 
+		},
 		"description": "idea of a red laser sight",
 		
 		"//stats": "vague attempt at balancing this to be somewhere between iron sights and standalone sights",
@@ -55,7 +59,9 @@
 		"copy-from": "laser_sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "green laser sight" },
+		"name": { 
+			"str": "green laser sight" 
+		},
 		"description": "idea of a green laser sight",
 		
 		"//stats": "green laser is attested to be slightly more visible than red laser",

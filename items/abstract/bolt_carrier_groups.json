@@ -5,15 +5,20 @@
 		"abstract": "bcg_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "bolt carrier group" },
+		"name": { 
+			"str": "bolt carrier group" 
+		},
 		"description": "idea of a bolt carrier group",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
+		"longest_side": "50 mm",
 		
 		"integral_volume": "0 ml",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -23,9 +28,7 @@
 		
 		"//add_mod": "simulating the idea that this is an essential part of the firing mechanism",
 		"add_mod": [
-		
 			[ "barrel", 1 ]
-		
 		]
 	
 	},
@@ -36,10 +39,14 @@
 		"copy-from": "bcg_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle bolt carrier group" },
+		"name": { 
+			"str": "rifle bolt carrier group" 
+		},
 		"description": "idea of a rifle bolt carrier group",
 		
-		"mod_targets": [ "rifle" ]
+		"mod_targets": [ 
+			"rifle" 
+		]
 	
 	}
 

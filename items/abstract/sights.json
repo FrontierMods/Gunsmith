@@ -5,14 +5,18 @@
 		"abstract": "sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "sight" },
+		"name": { 
+			"str": "sight" 
+		},
 		"description": "idea of a sight",
 		
 		"weight": "100 g",
 		"volume": "100 ml",
 		"longest_side": "100 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -21,15 +25,13 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"pistol",
 			"rifle",
 			"smg",
 			"shotgun",
 			"bow",
 			"crossbow",
-			"launcher"
-			
+			"launcher" 
 		]
 	
 	},
@@ -40,7 +42,9 @@
 		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "red dot sight" },
+		"name": { 
+			"str": "red dot sight" 
+		},
 		"description": "idea of a red dot sight",
 		
 		"//sight_dispersion": "3 MOA in quarter-MOA / 15 arc seconds per point",
@@ -55,7 +59,9 @@
 		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "30mm scope" },
+		"name": { 
+			"str": "30mm scope" 
+		},
 		"description": "idea of a 30mm scope",
 		
 		"//sight_dispersion": "0.5 MOA in quarter-MOA / 15 arc seconds per point",
@@ -65,7 +71,9 @@
 		"location": "30mm mount",
 		"install_time": "30 s",
 		
-		"flags": [ "ZOOM" ]
+		"flags": [ 
+			"ZOOM" 
+		]
 	
 	}
 

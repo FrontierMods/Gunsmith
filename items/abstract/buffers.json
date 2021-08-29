@@ -5,35 +5,35 @@
 		"abstract": "buffer_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "buffer" },
+		"name": { 
+			"str": "buffer" 
+		},
 		"description": "idea of a buffer",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
 		
 		"add_mod": [
-		
 			[ "upper receiver", 1 ]
-		
 		],
 		
 		"location": "buffer",
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"rifle",
 			"smg",
 			"shotgun",
 			"crossbow",
 			"launcher"
-			
 		]
 	
 	}

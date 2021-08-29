@@ -5,14 +5,18 @@
 		"abstract": "handguard",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Handguard" },
+		"name": { 
+			"str": "handguard" 
+		},
 		"description": "idea of a handguard",
 		
 		"weight": "250 g",
 		"volume": "250 ml",
 		"longest_side": "250 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -28,17 +32,19 @@
 		"copy-from": "handguard",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle handguard" },
+		"name": { 
+			"str": "rifle handguard" 
+		},
 		"description": "idea of a rifle handguard",
 		
-		"mod_targets": [ "rifle" ],
+		"mod_targets": [ 
+			"rifle" 
+		],
 		
 		"add_mod": [
-		
 			[ "rail",        3 ],
 			[ "underbarrel", 1 ],
 			[ "iron sights", 1 ]
-		
 		],
 		
 		"//sights": "basic aiming against the angled side of the handguard, in absence of regular iron sights; better than nothing",
@@ -55,15 +61,17 @@
 		"copy-from": "handguard",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Shotgun handguard" },
+		"name": { 
+			"str": "shotgun handguard" 
+		},
 		"description": "idea of a shotgun handguard",
 		
-		"mod_targets": [ "shotgun" ],
+		"mod_targets": [ 
+			"shotgun" 
+		],
 		
 		"add_mod": [
-		
 			[ "underbarrel", 1 ]
-		
 		]
 	
 	}

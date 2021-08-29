@@ -5,14 +5,18 @@
 		"abstract": "grip_wrap",
 		"type": "GUNMOD",
 		
-		"name": { "str": "grip wrap" },
+		"name": { 
+			"str": "grip wrap" 
+		},
 		"description": "idea of a grip wrap",
 		
 		"weight": "10 g",
 		"volume": "10 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "rubber" ],
+		"material": [ 
+			"rubber" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -21,14 +25,12 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"rifle",
 			"smg",
 			"shotgun",
 			"bow",
 			"crossbow",
 			"launcher"
-			
 		]
 	
 	},
@@ -39,10 +41,14 @@
 		"copy-from": "grip_wrap",
 		"type": "GUNMOD",
 		
-		"name": { "str": "pistol grip wrap" },
+		"name": { 
+			"str": "pistol grip wrap" 
+		},
 		"description": "idea of a pistol grip wrap",
 		
-		"mod_targets": [ "pistol" ]
+		"mod_targets": [ 
+			"pistol" 
+		]
 	
 	}
 

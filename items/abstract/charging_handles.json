@@ -5,7 +5,9 @@
 		"abstract": "charging_handle_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "charging handle" },
+		"name": { 
+			"str": "charging handle" 
+		},
 		"description": "idea of a charging handle",
 		
 		"//weight": "rough average of most available handles",
@@ -21,7 +23,9 @@
 		"integral_volume": "5 ml",
 		"longest_side": "203 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -29,7 +33,6 @@
 		"location": "charging handle",
 		"install_time": "30 s",
 		
-		"mod_targets": [ "rifle" ]
 	
 	},
 	
@@ -43,6 +46,9 @@
 		"description": "idea of an AR-15-platform charging handle",
 		
 		"mod_targets": [ "ar15" ]
+		"mod_targets": [ 
+			"rifle" 
+		]
 	
 	}
 	

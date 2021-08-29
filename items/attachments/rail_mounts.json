@@ -6,10 +6,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Alexander Arms 3\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.shopalexanderarms.com/Handguards-Picatinny_3_Rail_Section_3.html"
+		],
 		
-		"//source": "https://www.shopalexanderarms.com/Handguards-Picatinny_3_Rail_Section_3.html",
+		"name": {
+			"str": "Alexander Arms 3\" rail mount"
+		},
+		"description": "TBD",
 		
 		"weight": "23 g",
 		"volume": "4 ml",
@@ -27,10 +31,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Troy QARS 4.2\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.at3tactical.com/products/troy-industries-rail-sections-for-trx-rail-black"
+		],
 		
-		"//source": "https://www.at3tactical.com/products/troy-industries-rail-sections-for-trx-rail-black",
+		"name": {
+			"str": "Troy QARS 4.2\" rail mount"
+		},
+		"description": "TBD",
 		
 		"volume": "5 ml",
 		"longest_side": "107 mm",
@@ -47,10 +55,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Kaw Valley Precision 3.1\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/kaw-valley-precision-m-lok-rail-section/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/kaw-valley-precision-m-lok-rail-section/",
+		"name": {
+			"str": "Kaw Valley Precision 3.1\" rail mount"
+		},
+		"description": "TBD",
 		
 		"weight": "33 g",
 		"volume": "4 ml",
@@ -68,10 +80,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Strike Industries LINK 3.5\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/strike-industries-link-rail-section-fit-both-keymod-and-m-lok/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/strike-industries-link-rail-section-fit-both-keymod-and-m-lok/",
+		"name": {
+			"str": "Strike Industries LINK 3.5\" rail mount"
+		},
+		"description": "TBD",
 		
 		"weight": "33 g",
 		"volume": "4 ml",
@@ -89,10 +105,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "CMC Triggers 3.3\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-system-parts-accessories/cmc-trigger-m-lok-picatinny-rail/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/handguards-rails/rail-system-parts-accessories/cmc-trigger-m-lok-picatinny-rail/",
+		"name": {
+			"str": "CMC Triggers 3.3\" rail mount"
+		},
+		"description": "TBD",
 		
 		"weight": "34 g",
 		"volume": "9 ml",
@@ -110,10 +130,14 @@
 		"copy-from": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Seekins Precision 3.2\" rail mount" },
-		"description": "TBD",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/seekins-precision-rvl-r6-toolless-m-lok-rail-section/"
+		],
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/seekins-precision-rvl-r6-toolless-m-lok-rail-section/",
+		"name": {
+			"str": "Seekins Precision 3.2\" rail mount"
+		},
+		"description": "TBD",
 		
 		"weight": "33 g",
 		"volume": "9 ml",

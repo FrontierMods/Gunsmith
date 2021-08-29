@@ -6,9 +6,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/noveske-stripped-gen-3-billet-ar-15-stripped-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/noveske-stripped-gen-3-billet-ar-15-stripped-upper-receiver/"
+		],
 		
-		"name": { "str": "Noveske Gen 3 upper receiver" },
+		"name": {
+			"str": "Noveske Gen 3 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "253 g",
@@ -23,9 +27,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/cmt-tactical-upur-3-slick-side-billet-upper-458-socom-compatible/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/cmt-tactical-upur-3-slick-side-billet-upper-458-socom-compatible/"
+		],
 		
-		"name": { "str": "CMT Tactical UPUR-3 upper receiver" },
+		"name": {
+			"str": "CMT Tactical UPUR-3 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "221 g",
@@ -40,11 +48,15 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/aero-precision-ar-15-upper-without-forward-assist/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/aero-precision-ar-15-upper-without-forward-assist/"
+		],
 		
 		"//note": "no forward assist port",
 		
-		"name": { "str": "Aero Precision upper receiver" },
+		"name": {
+			"str": "Aero Precision upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "184 g",
@@ -59,11 +71,15 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/anderson-manufacturing-standard-ar-15-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/anderson-manufacturing-standard-ar-15-upper-receiver/"
+		],
 		
 		"//note": "no forward assist port",
 		
-		"name": { "str": "Anderson Manufacturing upper receiver" },
+		"name": {
+			"str": "Anderson Manufacturing upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "245 g",
@@ -78,9 +94,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://palmettostatearmory.com/lead-star-arms-grunt-15-ar-15-upper-receiver.html",
+		"//source": [
+			"https://palmettostatearmory.com/lead-star-arms-grunt-15-ar-15-upper-receiver.html"
+		],
 		
-		"name": { "str": "Lead Star Arms Grunt-15 upper receiver" },
+		"name": {
+			"str": "Lead Star Arms Grunt-15 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "201 g",
@@ -95,9 +115,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://palmettostatearmory.com/new-frontier-armory-c-4-side-charging-upper-ar-15-upper-receiver-c4-nrsc.html",
+		"//source": [
+			"https://palmettostatearmory.com/new-frontier-armory-c-4-side-charging-upper-ar-15-upper-receiver-c4-nrsc.html"
+		],
 		
-		"name": { "str": "New Frontier Armory C-4 upper receiver" },
+		"name": {
+			"str": "New Frontier Armory C-4 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "226 g",
@@ -112,11 +136,15 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/2a-armament-balios-lite-gen-2-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/2a-armament-balios-lite-gen-2-upper-receiver/"
+		],
 		
 		"//note": "no forward assist port",
 		
-		"name": { "str": "2A Armanent BALIOS Lite Gen 2 upper receiver" },
+		"name": {
+			"str": "2A Armanent BALIOS Lite Gen 2 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "168 g",
@@ -131,11 +159,15 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/vltor-mur-modular-ar-15-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/vltor-mur-modular-ar-15-upper-receiver/"
+		],
 		
 		"//note": "no forward assist port",
 		
-		"name": { "str": "Vltor MUR upper receiver" },
+		"name": {
+			"str": "Vltor MUR upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "246 g",
@@ -150,11 +182,15 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/odin-works-ar-15-billet-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/odin-works-ar-15-billet-upper-receiver/"
+		],
 		
 		"//note": "no forward assist port",
 		
-		"name": { "str": "ODIN Works billet upper receiver" },
+		"name": {
+			"str": "ODIN Works billet upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "244 g",
@@ -169,9 +205,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/seekins-precision-nx15-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/seekins-precision-nx15-upper-receiver/"
+		],
 		
-		"name": { "str": "Seekins Precision NX15 upper receiver" },
+		"name": {
+			"str": "Seekins Precision NX15 upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "283 g",
@@ -186,9 +226,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/fortis-billet-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/fortis-billet-upper-receiver/"
+		],
 		
-		"name": { "str": "Fortis billet upper receiver" },
+		"name": {
+			"str": "Fortis billet upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "199 g",
@@ -203,9 +247,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/lantac-uar-ar-15-upper-advanced-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/lantac-uar-ar-15-upper-advanced-receiver/"
+		],
 		
-		"name": { "str": "LANTAC UAR upper receiver" },
+		"name": {
+			"str": "LANTAC UAR upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "244 g",
@@ -220,9 +268,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/seekins-precision-ar-15-billet-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/seekins-precision-ar-15-billet-upper-receiver/"
+		],
 		
-		"name": { "str": "Seekins Precision billet upper receiver" },
+		"name": {
+			"str": "Seekins Precision billet upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "312 g",
@@ -237,9 +289,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/phase-5-tactical-forged-mil-spec-ar-15-flat-top-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/phase-5-tactical-forged-mil-spec-ar-15-flat-top-upper-receiver/"
+		],
 		
-		"name": { "str": "Phase 5 Tactical upper receiver" },
+		"name": {
+			"str": "Phase 5 Tactical upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "312 g",
@@ -254,9 +310,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/f-1-firearms-udr-15-3g-skeletonized-universal-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/upper-receivers/f-1-firearms-udr-15-3g-skeletonized-universal-upper-receiver/"
+		],
 		
-		"name": { "str": "F-1 Firearms UDR-15 skeletonized upper receiver" },
+		"name": {
+			"str": "F-1 Firearms UDR-15 skeletonized upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "188 g",
@@ -271,9 +331,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/iron-city-rifle-works-berserker-lite-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/iron-city-rifle-works-berserker-lite-upper-receiver/"
+		],
 		
-		"name": { "str": "Iron City Rifle Works Berserker Lite upper receiver" },
+		"name": {
+			"str": "Iron City Rifle Works Berserker Lite upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "190 g",
@@ -288,9 +352,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/san-tan-tactical-stt-15-pillar-billet-ar-15-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/san-tan-tactical-stt-15-pillar-billet-ar-15-upper-receiver/"
+		],
 		
-		"name": { "str": "San Tan Tactical Pillar upper receiver" },
+		"name": {
+			"str": "San Tan Tactical Pillar upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "280 g",
@@ -305,9 +373,13 @@
 		"copy-from": "receiver_upper_ar15",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/v-seven-2055-enlightened-ar-15-upper-receiver/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/upper-receivers/v-seven-2055-enlightened-ar-15-upper-receiver/"
+		],
 		
-		"name": { "str": "V Seven Enlightened upper receiver" },
+		"name": {
+			"str": "V Seven Enlightened upper receiver"
+		},
 		"description": "TBD",
 		
 		"weight": "164 g",

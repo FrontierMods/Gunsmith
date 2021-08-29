@@ -5,7 +5,9 @@
 		"abstract": "fcg_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "fire control group" },
+		"name": { 
+			"str": "fire control group" 
+		},
 		"description": "idea of a fire control group",
 		
 		"weight": "50 g",
@@ -14,7 +16,9 @@
 		
 		"integral_volume": "0 ml",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -24,9 +28,7 @@
 		
 		"//add_mod": "simulating the idea that this is an essential part of the firing mechanism",
 		"add_mod": [
-		
 			[ "buffer tube", 1 ]
-		
 		]
 	
 	},
@@ -37,10 +39,14 @@
 		"copy-from": "fcg_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "Rifle fire control group" },
+		"name": { 
+			"str": "rifle fire control group" 
+		},
 		"description": "idea of a rifle fire control group",
 		
-		"mod_targets": [ "rifle" ]
+		"mod_targets": [ 
+			"rifle" 
+		]
 	
 	}
 

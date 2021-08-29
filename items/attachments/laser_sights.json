@@ -6,10 +6,14 @@
 		"copy-from": "laser_sight_red",
 		"type": "GUNMOD",
 		
-		"//source": "https://palmettostatearmory.com/firefield-charge-ar-red-laser-sight-for-rifles-ff25006.html",
-		"//source2": "https://www.opticsplanet.com/firefield-ff25006-charge-ar-red-las.html",
+		"//source": [
+			"https://palmettostatearmory.com/firefield-charge-ar-red-laser-sight-for-rifles-ff25006.html",
+			"https://www.opticsplanet.com/firefield-ff25006-charge-ar-red-las.html"
+		],
 		
-		"name": { "str": "Firefield Charge red laser sight" },
+		"name": {
+			"str": "Firefield Charge red laser sight"
+		},
 		"description": "TBD",
 		
 		"weight": "68 g",
@@ -19,23 +23,17 @@
 		"sight_dispersion": 11,
 		
 		"//power": {
-		
 			"source": "CR2",
 			"lifetime": "40 hours"
-		
 		},
 		
 		"//laser": {
-		
 			"class": "3R",
 			"power": "5 mW",
 			"divergence": "2.86 MOA",
 			"range": {
-				
 				"day": "20 yards"
-			
 			}
-		
 		},
 		
 		"price": "30 USD"
@@ -48,10 +46,14 @@
 		"copy-from": "laser_sight_green",
 		"type": "GUNMOD",
 		
-		"//source": "https://palmettostatearmory.com/steiner-tor-mini-green-laser-sight-7003.html",
-		"//source2": "https://www.steiner-optics.com/laser-devices/tor-mini",
+		"//source": [
+			"https://palmettostatearmory.com/steiner-tor-mini-green-laser-sight-7003.html",
+			"https://www.steiner-optics.com/laser-devices/tor-mini"
+		],
 		
-		"name": { "str": "Steiner TOR Mini green laser sight" },
+		"name": {
+			"str": "Steiner TOR Mini green laser sight"
+		},
 		"description": "TBD",
 		
 		"weight": "60 g",
@@ -62,23 +64,17 @@
 		"sight_dispersion": 11,
 		
 		"//power": {
-		
 			"source": "CR1/3N",
 			"lifetime": "???"
-		
 		},
 		
 		"//laser": {
-		
 			"class": "3R",
 			"power": "5 mW",
 			"divergence": "2.86 MOA",
 			"range": {
-				
 				"day": "???"
-			
 			}
-		
 		},
 		
 		"price": "287 USD"
@@ -91,11 +87,15 @@
 		"copy-from": "laser_sight_red",
 		"type": "GUNMOD",
 		
-		"//source": "https://palmettostatearmory.com/eotech-atpial-an-peq-15-commercial-laser-aiming-system-w-ir-and-visible-aim-laser-atp-000-a58.html",
-		"//source2": "https://www.midwayusa.com/product/1868370417/",
-		"//source3": "https://anvsinc.com/product/eotech-atpial-an-peq-15-aiming-laser/",
+		"//source": [
+			"https://palmettostatearmory.com/eotech-atpial-an-peq-15-commercial-laser-aiming-system-w-ir-and-visible-aim-laser-atp-000-a58.html",
+			"https://www.midwayusa.com/product/1868370417/",
+			"https://anvsinc.com/product/eotech-atpial-an-peq-15-aiming-laser/"
+		],
 		
-		"name": { "str": "EOTech ATPIAL AN/PEQ-15 red laser sight" },
+		"name": {
+			"str": "EOTech ATPIAL AN/PEQ-15 red laser sight"
+		},
 		"description": "TBD",
 		
 		"weight": "213 g",
@@ -106,23 +106,17 @@
 		"sight_dispersion": 7,
 		
 		"//power": {
-		
 			"source": "DL123, 3V",
 			"lifetime": "6 hours"
-		
 		},
 		
 		"//laser": {
-		
 			"class": "3R",
 			"power": "4.6 mW",
 			"divergence": "1.72 MOA",
 			"range": {
-				
 				"day": "25 meters"
-			
 			}
-		
 		},
 		
 		"price": "1840 USD"

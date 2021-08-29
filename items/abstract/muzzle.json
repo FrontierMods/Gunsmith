@@ -5,14 +5,18 @@
 		"abstract": "muzzle_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "muzzle device" },
+		"name": { 
+			"str": "muzzle device" 
+		},
 		"description": "idea of a muzzle device",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -21,7 +25,6 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [
-			
 			"pistol",
 			"smg",
 			"shotgun",
@@ -29,7 +32,6 @@
 			"bow",
 			"crossbow",
 			"launcher"
-			
 		]
 	
 	},
@@ -40,7 +42,9 @@
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "muzzle brake" },
+		"name": { 
+			"str": "muzzle brake" 
+		},
 		"description": "idea of a muzzle brake",
 		
 		"//recoil_modifier": -10
@@ -53,14 +57,19 @@
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "suppressor" },
+		"name": { 
+			"str": "suppressor" 
+		},
 		"description": "idea of a suppressor",
 		
 		"longest_side": "178 mm",
 		
 		"loudness_modifier": -50,
 		"//damage_modifier": "average for a 7 in. suppressor",
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 2 
+		},
 		"//dispersion_modifier": "basic suppressor effect",
 		"dispersion_modifier": 1
 	
@@ -72,7 +81,9 @@
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "muzzle adapter" },
+		"name": { 
+			"str": "muzzle adapter" 
+		},
 		"description": "idea of a muzzle adapter"
 	
 	}

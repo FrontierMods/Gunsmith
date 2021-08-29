@@ -5,14 +5,18 @@
 		"abstract": "foregrip_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "foregrip" },
+		"name": { 
+			"str": "foregrip" 
+		},
 		"description": "idea of a foregrip",
 		
 		"weight": "50 g",
 		"volume": "50 ml",
 		"longest_side": "50 mm",
 		
-		"material": [ "plastic" ],
+		"material": [ 
+			"plastic" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -21,20 +25,16 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"rifle",
 			"smg",
 			"shotgun",
 			"crossbow",
 			"launcher"
-			
 		],
 		
 		"//add_mod": "simulates the idea of having enough space to install a rail attachment",
 		"add_mod": [
-		
 			[ "rail", 1 ]
-		
 		]
 	
 	},
@@ -45,7 +45,9 @@
 		"copy-from": "foregrip_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "large foregrip" },
+		"name": { 
+			"str": "large foregrip" 
+		},
 		"description": "idea of a large foregrip",
 		
 		"weight": "100 g",

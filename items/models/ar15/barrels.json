@@ -2,17 +2,23 @@
 
 	{
 	
-		"//VOLUME_NOTE": "calculations via cylinder volume",
-		"//VOLUME_NOTE2": "assumes d = 0.750 in. unless stated otherwise",
+		"//VOLUME_NOTE": [
+			"calculations via cylinder volume",
+			"assumes d = 0.750 in. unless stated otherwise"
+		],
 	
 		"id": "barrel_ar15_colt_20in_223",
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.royaltigerimports.com/product-p/colt16b.htm",
-		"//source2": "https://retrorifles.com/20-pencil-barrel-ar-15-xm16e1-m16-m16a1/",
+		"//source": [
+			"https://www.royaltigerimports.com/product-p/colt16b.htm",
+			"https://retrorifles.com/20-pencil-barrel-ar-15-xm16e1-m16-m16a1/"
+		],
 		
-		"name": { "str": "20\" 5.56mm Colt factory barrel" },
+		"name": {
+			"str": "20\" 5.56mm Colt factory barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "765 g",
@@ -22,7 +28,10 @@
 		
 		"//stats": "is the most 'standard' barrel you can find, so no stat changes",
 		"dispersion_modifier": 0,
-		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 0 
+		},
 		"loudness_modifier": 0,
 		
 		"price": "259 USD"
@@ -35,9 +44,13 @@
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.righttobear.com/Daniel-Defense-16-5-56-CHF-Barrel-Lightweight-p/07-078-09136-018.htm",
+		"//source": [
+			"https://www.righttobear.com/Daniel-Defense-16-5-56-CHF-Barrel-Lightweight-p/07-078-09136-018.htm"
+		],
 		
-		"name": { "str": "16\" 5.56mm Daniel Defense barrel" },
+		"name": {
+			"str": "16\" 5.56mm Daniel Defense barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "680 g",
@@ -45,7 +58,10 @@
 		"longest_side": "407 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -2 
+		},
 		"loudness_modifier": 20,
 		
 		"price": "290 USD"
@@ -58,9 +74,13 @@
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.righttobear.com/ballistic-advantage-10-5-5-56-govt-profile-barrel-p/babl556005m.htm",
+		"//source": [
+			"https://www.righttobear.com/ballistic-advantage-10-5-5-56-govt-profile-barrel-p/babl556005m.htm"
+		],
 		
-		"name": { "str": "10.5\" 5.56mm Ballistic Advantage barrel" },
+		"name": {
+			"str": "10.5\" 5.56mm Ballistic Advantage barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "539 g",
@@ -68,7 +88,10 @@
 		"longest_side": "267 mm",
 		
 		"dispersion_modifier": 5,
-		"damage_modifier": { "damage_type": "bullet", "amount": -3 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -3 
+		},
 		"loudness_modifier": 50,
 		
 		"price": "150 USD"
@@ -81,9 +104,13 @@
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/spikes-tactical-spr-special-purpose-ar15-18-inch-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/spikes-tactical-spr-special-purpose-ar15-18-inch-barrel/"
+		],
 		
-		"name": { "str": "18\" 5.56mm Spike's Tactical barrel" },
+		"name": {
+			"str": "18\" 5.56mm Spike's Tactical barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "881 g",
@@ -91,7 +118,10 @@
 		"longest_side": "457 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -1 
+		},
 		"loudness_modifier": 10,
 		
 		"price": "350 USD"
@@ -104,9 +134,13 @@
 		"copy-from": "barrel_ar15_223",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/v-seven-lightweight-5-56-stainless-steel-match-grade-ar-15-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/5-56-223-barrels/v-seven-lightweight-5-56-stainless-steel-match-grade-ar-15-barrel/"
+		],
 		
-		"name": { "str": "14.5\" 5.56mm V Seven lightweight barrel" },
+		"name": {
+			"str": "14.5\" 5.56mm V Seven lightweight barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "652 g",
@@ -115,7 +149,10 @@
 		"longest_side": "368 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -2 
+		},
 		"loudness_modifier": 30,
 		
 		"price": "480 USD"
@@ -128,9 +165,13 @@
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-16-300-blackout-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-16-300-blackout-barrel/"
+		],
 		
-		"name": { "str": "16\" .300BLK Spike's Tactical barrel" },
+		"name": {
+			"str": "16\" .300BLK Spike's Tactical barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "992 g",
@@ -139,7 +180,10 @@
 		
 		"//stats": "as baseline a barrel for .300BLK as it gets",
 		"dispersion_modifier": 0,
-		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 0 
+		},
 		"loudness_modifier": 0,
 		
 		"price": "375 USD"
@@ -152,9 +196,13 @@
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-8-3-300-blackout-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/300-blackout-barrels/spikes-tactical-8-3-300-blackout-barrel/"
+		],
 		
-		"name": { "str": "8.3\" .300BLK Spike's Tactical barrel" },
+		"name": {
+			"str": "8.3\" .300BLK Spike's Tactical barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "482 g",
@@ -162,7 +210,10 @@
 		"longest_side": "211 mm",
 		
 		"dispersion_modifier": 3,
-		"damage_modifier": { "damage_type": "bullet", "amount": -3 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -3 
+		},
 		"loudness_modifier": 40,
 		
 		"price": "275 USD"
@@ -175,9 +226,13 @@
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/v-seven-300-blackout-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/v-seven-300-blackout-barrel/"
+		],
 		
-		"name": { "str": "10.25\" .300BLK V Seven barrel" },
+		"name": {
+			"str": "10.25\" .300BLK V Seven barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "588 g",
@@ -185,7 +240,10 @@
 		"longest_side": "260 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -2 
+		},
 		"loudness_modifier": 30,
 		
 		"price": "369 USD"
@@ -198,9 +256,13 @@
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/ballistic-advantage-modern-series-300-blackout-barrel-drp-profile/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/300-blackout-barrels/ballistic-advantage-modern-series-300-blackout-barrel-drp-profile/"
+		],
 		
-		"name": { "str": "14.5\" .300BLK Ballistic Advantange Modern barrel" },
+		"name": {
+			"str": "14.5\" .300BLK Ballistic Advantange Modern barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "768 g",
@@ -208,7 +270,10 @@
 		"longest_side": "368 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -1 
+		},
 		"loudness_modifier": 10,
 		
 		"price": "167 USD"
@@ -221,9 +286,13 @@
 		"copy-from": "barrel_ar15_300blk",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/barrels/300-blackout-barrels/ballistic-advantage-performance-series-300-blackout-barrel-hanson-profile/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/barrels/300-blackout-barrels/ballistic-advantage-performance-series-300-blackout-barrel-hanson-profile/"
+		],
 		
-		"name": { "str": "10.3\" .300BLK Ballistic Advantange Performance barrel" },
+		"name": {
+			"str": "10.3\" .300BLK Ballistic Advantange Performance barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "568 g",
@@ -231,7 +300,10 @@
 		"longest_side": "262 mm",
 		
 		"dispersion_modifier": 2,
-		"damage_modifier": { "damage_type": "bullet", "amount": -2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -2 
+		},
 		"loudness_modifier": 30,
 		
 		"price": "209 USD"
@@ -244,9 +316,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/spikes-tactical-16-9mm-ar-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/spikes-tactical-16-9mm-ar-barrel/"
+		],
 		
-		"name": { "str": "16\" 9mm Spike's Tactical barrel" },
+		"name": {
+			"str": "16\" 9mm Spike's Tactical barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "794 g",
@@ -254,7 +330,10 @@
 		"longest_side": "406 mm",
 		
 		"dispersion_modifier": -10,
-		"damage_modifier": { "damage_type": "bullet", "amount": 10 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 10 
+		},
 		"loudness_modifier": -50,
 		
 		"price": "170 USD"
@@ -267,9 +346,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-10-5-ar-9mm-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-10-5-ar-9mm-barrel/"
+		],
 		
-		"name": { "str": "10.5\" 9mm ODIN Works barrel" },
+		"name": {
+			"str": "10.5\" 9mm ODIN Works barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "526 g",
@@ -277,7 +360,10 @@
 		"longest_side": "267 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 1 
+		},
 		"loudness_modifier": -20,
 		
 		"price": "160 USD"
@@ -290,9 +376,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-7-5-9mm-ar-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-7-5-9mm-ar-barrel/"
+		],
 		
-		"name": { "str": "7.5\" 9mm ODIN Works barrel" },
+		"name": {
+			"str": "7.5\" 9mm ODIN Works barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "395 g",
@@ -300,7 +390,10 @@
 		"longest_side": "191 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 1 
+		},
 		"loudness_modifier": 10,
 		
 		"price": "140 USD"
@@ -313,9 +406,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-16-1-9mm-ar-15-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/odin-works-16-1-9mm-ar-15-barrel/"
+		],
 		
-		"name": { "str": "16.1\" 9mm ODIN Works barrel" },
+		"name": {
+			"str": "16.1\" 9mm ODIN Works barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "768 g",
@@ -323,7 +420,10 @@
 		"longest_side": "408 mm",
 		
 		"dispersion_modifier": -3,
-		"damage_modifier": { "damage_type": "bullet", "amount": 3 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 3 
+		},
 		"loudness_modifier": -50,
 		
 		"price": "200 USD"
@@ -336,9 +436,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/ballistic-advantage-9mm-ar-15-barrel-modern-series/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/ballistic-advantage-9mm-ar-15-barrel-modern-series/"
+		],
 		
-		"name": { "str": "11\" 9mm Ballistic Advantage barrel" },
+		"name": {
+			"str": "11\" 9mm Ballistic Advantage barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "505 g",
@@ -346,7 +450,10 @@
 		"longest_side": "280 mm",
 		
 		"dispersion_modifier": -2,
-		"damage_modifier": { "damage_type": "bullet", "amount": 2 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 2 
+		},
 		"loudness_modifier": -25,
 		
 		"price": "129 USD"
@@ -359,9 +466,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/faxon-firearms-tapered-9mm-ar-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/faxon-firearms-tapered-9mm-ar-barrel/"
+		],
 		
-		"name": { "str": "4.5\" 9mm Faxon Firearms barrel" },
+		"name": {
+			"str": "4.5\" 9mm Faxon Firearms barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "242 g",
@@ -369,7 +480,10 @@
 		"longest_side": "114 mm",
 		
 		"dispersion_modifier": 1,
-		"damage_modifier": { "damage_type": "bullet", "amount": -1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": -1 
+		},
 		"loudness_modifier": 5,
 		
 		"price": "104 USD"
@@ -382,9 +496,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/kaw-valley-precision-9mm-ar-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-barrels/9mm-ar-barrels/kaw-valley-precision-9mm-ar-barrel/"
+		],
 		
-		"name": { "str": "8.5\" 9mm Kaw Valley Precision barrel" },
+		"name": {
+			"str": "8.5\" 9mm Kaw Valley Precision barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "390 g",
@@ -392,7 +510,10 @@
 		"longest_side": "216 mm",
 		
 		"dispersion_modifier": -1,
-		"damage_modifier": { "damage_type": "bullet", "amount": 1 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 1 
+		},
 		"loudness_modifier": -10,
 		
 		"price": "105 USD"
@@ -405,9 +526,13 @@
 		"copy-from": "barrel_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/spikes-tactical-5-5-9mm-ar-barrel/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/ar-15-barrels/9mm-ar-barrels/spikes-tactical-5-5-9mm-ar-barrel/"
+		],
 		
-		"name": { "str": "5.5\" 9mm Spike's Tactical barrel" },
+		"name": {
+			"str": "5.5\" 9mm Spike's Tactical barrel"
+		},
 		"description": "TBD",
 		
 		"weight": "283 g",
@@ -415,7 +540,10 @@
 		"longest_side": "140 mm",
 		
 		"dispersion_modifier": 0,
-		"damage_modifier": { "damage_type": "bullet", "amount": 0 },
+		"damage_modifier": { 
+			"damage_type": "bullet", 
+			"amount": 0 
+		},
 		"loudness_modifier": 0,
 		
 		"price": "130 USD"

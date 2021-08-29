@@ -2,18 +2,27 @@
 	
 	{
 	
+		"//VOLUME": "from cylinder volume",
+	
 		"id": "buffer_tube_ar15_aero_enhanced",
 		"copy-from": "buffer_tube_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tubes/aero-precision-enhanced-ar15-carbine-buffer-tube/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tubes/aero-precision-enhanced-ar15-carbine-buffer-tube/"
+		],
 		
-		"name": { "str": "Aero Precision Enhanced carbine buffer tube" },
+		"name": {
+			"str": "Aero Precision Enhanced carbine buffer tube"
+		},
 		"description": "TBD",
 		
 		"weight": "110 g",
 		"//volume": "from cylinder volume",
-		"//dimensions": "length = 7.20 in., mil-spec diameter = 1.146 in.",
+		"//dimensions": { 
+			"length": "7.20 in",
+			"diameter": "1.146 in"
+		},
 		"volume": "122 ml",
 		"longest_side": "183 mm",
 		
@@ -27,27 +36,31 @@
 		"copy-from": "buffer_tube_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/battle-arms-development-sabertube-lightweight-buffer-tube-and-buttstock-combo/",
-		"//source2": "https://www.battlearmsdevelopment.com/shop/product/sabertube-r-qd-lightweight-stock-kit-3365",
-		"//source_note": "comes as a combo; does not come solo; buttstock also exists separately",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/battle-arms-development-sabertube-lightweight-buffer-tube-and-buttstock-combo/",
+			"https://www.battlearmsdevelopment.com/shop/product/sabertube-r-qd-lightweight-stock-kit-3365",
+			"comes as a combo; does not come solo; buttstock also exists separately"
+		],
 		
-		"name": { "str": "BAD SABERTUBE carbine buffer tube" },
+		"name": {
+			"str": "BAD SABERTUBE carbine buffer tube"
+		},
 		"description": "Milspec buffer tube for the AR-15 platform. Produced by Battle Arms Development, this minimalist design with a dimpled pattern is lightweight yet durable, providing decent support during firing.",
 		
 		"//weight": "assumes that the 4.2 oz weight of carbine-sized tube alone from the producer's site is correct",
 		"weight": "119 g",
-		"//volume": "from cylinder volume",
-		"//dimensions": "length = 8.81 in., tube diameter = 1.25 in.",
+		"//dimensions": { 
+			"length": "8.81 in",
+			"diameter": "1.25 in"
+		},
 		"volume": "177 ml",
 		"longest_side": "224 mm",
 		
 		"//add_mod": "takes an uncommon type of buttstocks that attach to the tip of the buffer tube, much like the buttstock it comes in combo with in source",
-		"add_mod": [
-		
+		"add_mod": [ 
 			[ "carbine buffer spring", 1 ],
 			[ "carbine buffer",        1 ],
-			[ "stock plate",           1 ]
-		
+			[ "stock plate",           1 ] 
 		],
 		
 		"//price": "price of the combo − price of the buttstock",
@@ -61,20 +74,28 @@
 		"copy-from": "buffer_tube_pistol_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/phase-5-tactical-hexone-ar-pistol-buffer-tube/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/phase-5-tactical-hexone-ar-pistol-buffer-tube/"
+		],
 		
-		"name": { "str": "Phase 5 HexOne pistol buffer tube" },
+		"name": {
+			"str": "Phase 5 HexOne pistol buffer tube"
+		},
 		"description": "Milspec buffer tube for the AR-15 platform. HexOne features a unique hexagonal design, cut from billet aluminum, thanks to which it also boasts an exceptional degree of resilience.",
 		
 		"weight": "171 g",
-		"//volume": "from cylinder volume",
-		"//dimensions": "length = 7.375 in., tube diameter = 1.4 in.",
+		"//dimensions": { 
+			"length": "7.375 in",
+			"diameter": "1.4 in"
+		},
 		"volume": "186 ml",
 		"longest_side": "187 mm",
 		
 		"price": "40 USD",
 		
-		"flags": [ "DURABLE_MELEE" ]
+		"flags": [ 
+			"DURABLE_MELEE" 
+		]
 	
 	},
 	
@@ -84,14 +105,20 @@
 		"copy-from": "buffer_tube_pistol_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/primary-weapons-systems-enhanced-pistol-buffer-tube-kit/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15/buffer-buffer-tubes/primary-weapons-systems-enhanced-pistol-buffer-tube-kit/"
+		],
 		
-		"name": { "str": "PWS Mod2 pistol buffer tube" },
+		"name": {
+			"str": "PWS Mod2 pistol buffer tube"
+		},
 		"description": "Milspec buffer tube for the AR-15 platform. The Mod2 Enhanced pistol buffer tube from Primary Weapons Systems is lightweight and comfortable, its fluted tube design making clearing the debris much easier.",
 		
 		"weight": "133 g",
-		"//volume": "from cylinder volume",
-		"//dimensions": "length = 7.2 in., tube diameter = 1.2 in.",
+		"//dimensions": { 
+			"length": "7.2 in",
+			"diameter": "1.2 in"
+		},
 		"volume": "133 ml",
 		"longest_side": "183 mm",
 		
@@ -105,14 +132,20 @@
 		"copy-from": "buffer_tube_pistol_milspec",
 		"type": "GUNMOD",
 		
-		"//source": "https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tubes/spikes-tactical-extended-ar-pistol-buffer-tube/",
+		"//source": [
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/buffer-buffer-tubes/buffer-tubes/spikes-tactical-extended-ar-pistol-buffer-tube/"
+		],
 		
-		"name": { "str": "Spike's Tactical Extended pistol buffer tube" },
+		"name": {
+			"str": "Spike's Tactical Extended pistol buffer tube"
+		},
 		"description": "Milspec buffer tube for the AR-15 platform. This pistol buffer tube is designed to provide additional space between the castle nut and the end of the stock, adding a little more comfort to handling AR-platform pistols.",
 		
 		"weight": "197 g",
-		"//volume": "from cylinder volume",
-		"//dimensions": "length = 9.063 in., tube diameter = 1.2 in.",
+		"//dimensions": { 
+			"length": "9.063 in",
+			"diameter": "1.2 in"
+		},
 		"volume": "168 ml",
 		"longest_side": "230 mm",
 		

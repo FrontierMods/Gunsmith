@@ -5,11 +5,15 @@
 		"abstract": "underbarrel_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "underbarrel mount" },
+		"name": { 
+			"str": "underbarrel mount" 
+		},
 		"description": "idea of a underbarrel mount",
 		
 		"//dimensions": "all mounts assume the same width and height",
-		"//source": "https://www.shopalexanderarms.com/Handguards-Picatinny_3_underbarrel_Section_3.html",
+		"//source": [ 
+			"https://www.shopalexanderarms.com/Handguards-Picatinny_3_underbarrel_Section_3.html" 
+		],
 		
 		"//weight_source": "https://www.opticsplanet.com/accuracy-solutions-picatinny-rail-13-slot-m-lok.html",
 		"weight": "50 g",
@@ -17,7 +21,9 @@
 		"//longest_side": "assumes default of 6 in.",
 		"longest_side": "152 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -26,22 +32,18 @@
 		"install_time": "30 s",
 		
 		"//mod_targets": "TODO: separate pistol underbarrel from others",
-		"mod_targets": [
-			
+		"mod_targets": [ 
 			"pistol",
 			"smg",
 			"shotgun",
 			"rifle",
 			"bow",
 			"crossbow",
-			"launcher"
-			
+			"launcher" 
 		],
 		
-		"add_mod": [
-		
-			[ "underbarrel", 1 ]
-		
+		"add_mod": [ 
+			[ "underbarrel", 1 ] 
 		]
 	
 	}

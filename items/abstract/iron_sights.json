@@ -5,7 +5,9 @@
 		"abstract": "iron_sights_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "iron sights" },
+		"name": { 
+			"str": "iron sights" 
+		},
 		"description": "idea of a set of iron sights",
 		
 		"weight": "100 g",
@@ -15,7 +17,9 @@
 		"volume": "95 ml",
 		"longest_side": "63 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -24,13 +28,11 @@
 		"install_time": "30 s",
 		
 		"mod_targets": [ 
-		
 			"rifle",
 			"smg",
 			"shotgun",
 			"crossbow",
 			"launcher"
-			
 		],
 		
 		"//sight_dispersion": "8 MOA in quarter-MOA / 15 arc seconds per point",

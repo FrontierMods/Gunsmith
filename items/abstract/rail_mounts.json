@@ -5,11 +5,15 @@
 		"abstract": "rail_mount_abstract",
 		"type": "GUNMOD",
 		
-		"name": { "str": "rail mount" },
+		"name": { 
+			"str": "rail mount" 
+		},
 		"description": "idea of a rail mount",
 		
 		"//dimensions": "all mounts assume the same width and height",
-		"//source": "https://www.shopalexanderarms.com/Handguards-Picatinny_3_Rail_Section_3.html",
+		"//source": [ 
+			"https://www.shopalexanderarms.com/Handguards-Picatinny_3_Rail_Section_3.html" 
+		],
 		
 		"//weight": "average of observed aluminum mounts",
 		"weight": "70 g",
@@ -17,7 +21,9 @@
 		"//longest_side": "assumes default of 4.1 in.",
 		"longest_side": "104 mm",
 		
-		"material": [ "aluminum" ],
+		"material": [ 
+			"aluminum" 
+		],
 		
 		"symbol": ":",
 		"color": "dark_gray",
@@ -25,22 +31,18 @@
 		"location": "rail mount",
 		"install_time": "30 s",
 		
-		"mod_targets": [
-			
+		"mod_targets": [ 
 			"pistol",
 			"smg",
 			"shotgun",
 			"rifle",
 			"bow",
 			"crossbow",
-			"launcher"
-			
+			"launcher" 
 		],
 		
-		"add_mod": [
-		
-			[ "rail", 1 ]
-		
+		"add_mod": [ 
+			[ "rail", 1 ] 
 		]
 	
 	}

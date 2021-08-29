@@ -5,13 +5,18 @@
 		"abstract": "receiver_lower",
 		"type": "GUN",
 		
-		"name": { "str": "Lower receiver" },
+		"name": { 
+			"str": "lower receiver" 
+		},
 		"description": "idea of a lower receiver",
 		
 		"weight": "250 g",
 		"volume": "250 ml",
+		"longest_side": "250 mm",
 		
-		"material": [ "steel" ],
+		"material": [ 
+			"steel" 
+		],
 		
 		"symbol": "(",
 		"color": "dark_gray",
@@ -28,16 +33,16 @@
 		"copy-from": "receiver_lower",
 		"type": "GUN",
 		
-		"name": { "str": "Rifle lower receiver" },
+		"name": { 
+			"str": "rifle lower receiver" 
+		},
 		"description": "idea of a rifle lower receiver",
 		
 		"skill": "rifle",
 		
 		"valid_mod_locations": [
-		
 			[ "grip",               1 ],
 			[ "fire control group", 1 ]
-		
 		]
 	
 	}
