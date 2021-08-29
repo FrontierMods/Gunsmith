@@ -41,9 +41,7 @@
 		"longest_side": "203 mm",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -67,9 +65,7 @@
 		"weight": "71 g",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -86,9 +82,7 @@
 		"description": "idea of a AR-15-platform buffer tube",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -415,9 +409,7 @@
 		"longest_side": "170 mm",
 		
 		"mod_targets": [  
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2"  
+			"ar15"  
 		],
 		
 		"add_mod": [ 
@@ -474,9 +466,7 @@
 		"description": "idea of an AR-15-platform barrel",
 		
 		"mod_targets": [  
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 		
 	},
@@ -544,9 +534,7 @@
 		"description": "idea of an AR-15-platform gas block",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -563,9 +551,7 @@
 		"description": "idea of an AR-15-platform grip",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -582,9 +568,7 @@
 		"description": "idea of an AR-15-type rifle handguard",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -641,9 +625,7 @@
 		"description": "idea of an AR-15-platform bolt carrier group",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
@@ -660,9 +642,7 @@
 		"description": "idea of an AR-15-platform stock",
 		
 		"mod_targets": [ 
-			"ar15", 
-			"ar15_doctrine1", 
-			"ar15_doctrine2" 
+			"ar15" 
 		]
 	
 	},
