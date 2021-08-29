@@ -40,6 +40,12 @@
 					"stanag100",
 					"stanag100drum",
 					"stanag150",
+					"survivor223mag"
+				] 
+			} 
+		]
+		
+	},
 	
 	{
 	
@@ -50,8 +56,7 @@
 		"name": { "str": "AR-15, First Doctrine" },
 		"description": "AR-15 modified for performance, at the cost of weight.",
 		
-		"default_mods": [
-		
+		"default_mods": [ 
 			"grip_ar15_dd",
 			"grip_wrap_hogue",
 			"fcg_ar15_timney",
@@ -69,8 +74,7 @@
 			"underbarrel_mount_mdt",
 			"foregrip_fab_folding",
 			"muzzle_brake_sjc_titan",
-			"laser_sight_eotech"
-		
+			"laser_sight_eotech" 
 		]
 	
 	},
@@ -84,8 +88,7 @@
 		"name": { "str": "AR-15, Second Doctrine" },
 		"description": "AR-15 modified for weight, at the cost of performance.",
 		
-		"default_mods": [
-		
+		"default_mods": [ 
 			"grip_ar15_f1",
 			"fcg_ar15_hiperfire_hipertouch",
 			"buffer_tube_ar15_battlearms_sabertube",
@@ -101,11 +104,7 @@
 			"sight_mount_trijicon_rm33",
 			"sight_trijicon_rmr",
 			"foregrip_f1",
-			"suppressor_banish_30"
-		
-					"survivor223mag" 
-				] 
-			} 
+			"suppressor_banish_30" 
 		]
 	
 	}
