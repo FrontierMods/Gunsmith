@@ -37,7 +37,7 @@
 	
 	{
 	
-		"abstract": "grip_wrap_ar15",
+		"abstract": "grip_wrap_pistol",
 		"copy-from": "grip_wrap",
 		"type": "GUNMOD",
 		
