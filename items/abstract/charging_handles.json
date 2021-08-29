@@ -10,18 +10,9 @@
 		},
 		"description": "idea of a charging handle",
 		
-		"//weight": "rough average of most available handles",
-		"weight": "38 g",
-		"//volume + longest_side": "based on Anderson Manufacturing handle dimensions + BAD RACK handle for a more realistic width",
-		"//source": "https://www.primaryarms.com/anderson-manufacturing-standard-charging-handle-for-ar-15-am-27-assm",
-		"//source2": "https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/",
-		"//dimensions": "8 × 2 × 1 in.",
-		"//volume": "broken down into two parts for easier total volume calculations",
-		"//breakdown": "7 × 1 × 1 in. for the body + 1 × 2.75 × 1.5 in. for the handle itself",
-		"volume": "173 ml",
-		"//integral_volume": "only the latch part is sticking out; 20% trim for shape",
-		"integral_volume": "5 ml",
-		"longest_side": "203 mm",
+		"weight": "50 g",
+		"volume": "50 ml",
+		"longest_side": "50 mm",
 		
 		"material": [ 
 			"aluminum" 
@@ -33,19 +24,6 @@
 		"location": "charging handle",
 		"install_time": "30 s",
 		
-	
-	},
-	
-	{
-	
-		"abstract": "charging_handle_ar15",
-		"copy-from": "charging_handle_abstract",
-		"type": "GUNMOD",
-		
-		"name": { "str": "AR-15-platform charging handle" },
-		"description": "idea of an AR-15-platform charging handle",
-		
-		"mod_targets": [ "ar15" ]
 		"mod_targets": [ 
 			"rifle" 
 		]
