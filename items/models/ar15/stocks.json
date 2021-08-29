@@ -81,8 +81,6 @@
 		
 		"handling_modifier": 13,
 		
-		
-		"flags": [ "COLLAPSIBLE_STOCK" ]
 		"price": "40 USD"
 	
 	},
@@ -113,8 +111,6 @@
 		
 		"handling_modifier": 10,
 		
-		
-		"flags": [ "COLLAPSIBLE_STOCK" ]
 		"price": "50 USD"
 	
 	},
@@ -145,7 +141,6 @@
 		
 		"handling_modifier": 8,
 		
-		"flags": [ "COLLAPSIBLE_STOCK" ]
 		"price": "140 USD"
 	
 	},
