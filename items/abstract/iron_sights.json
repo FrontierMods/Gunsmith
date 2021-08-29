@@ -39,6 +39,31 @@
 		"sight_dispersion": 32,
 		"aim_speed": 8
 	
+	},
+	
+	{
+	
+		"abstract": "iron_sights_pistol",
+		"copy-from": "iron_sights_abstract",
+		"type": "GUNMOD",
+		
+		"name": { 
+			"str": "pistol iron sights" 
+		},
+		"description": "idea of a set of pistol iron sights",
+		
+		"weight": "5 g",
+		"volume": "5 ml",
+		"longest_side": "5 mm",
+		
+		"mod_targets": [ 
+			"pistol"
+		],
+		
+		"//sight_dispersion": "8 MOA in quarter-MOA / 15 arc seconds per point",
+		"sight_dispersion": 32,
+		"aim_speed": 8
+	
 	}
 
 ]
