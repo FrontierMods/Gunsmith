@@ -6,16 +6,16 @@
 		"copy-from": "receiver_lower_ar15",
 		"type": "GUN",
 		
-		"name": { "str": "AR-15" },
+		"name": { 
+			"str": "AR-15" 
+		},
 		"description": "TBD",
 		
 		"weight": "227 g",
 		
 		"ammo": [ 
-		
 			"223",
-			"300blk"
-			
+			"300blk" 
 		],
 		
 		"pocket_data": [ 
@@ -40,9 +40,6 @@
 					"stanag100",
 					"stanag100drum",
 					"stanag150",
-		]
-	
-	},
 	
 	{
 	
@@ -106,6 +103,9 @@
 			"foregrip_f1",
 			"suppressor_banish_30"
 		
+					"survivor223mag" 
+				] 
+			} 
 		]
 	
 	}
