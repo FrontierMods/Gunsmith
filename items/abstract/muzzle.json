@@ -47,7 +47,8 @@
 		},
 		"description": "idea of a muzzle brake",
 		
-		"//recoil_modifier": -10
+		"//recoil_modifier": -500,
+		"handling_modifier": 50
 	
 	},
 	
