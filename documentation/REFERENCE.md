@@ -181,7 +181,7 @@ Common buffer materials:
 
 Used to counteract recoil. The heavier the buffer, the more recoil is countered.
 
-Buffers are also critical for cycling the bolt after firing. See section on buffer springs for further information
+Buffers are also critical for cycling the bolt after firing. See section on buffer springs for further information.
 
 Some buffers are configurable / adjustable.
 
