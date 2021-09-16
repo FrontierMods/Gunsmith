@@ -101,9 +101,13 @@ For two-stage triggers, weights can be customized for each stage.
 
 ### Suppressors
 
-Firing a suppressed firearm cycles more gases back into the system.
+Firing a suppressed firearm cycles more gases back into the system. The gases add pressure onto the internal mechanism, which may erode it over time. The gases also carry some amount of additional carbon dust, which covers the gas system over time. Excessive build-up of dirt, no matter the source, can lead to a number of malfunctions.
 
 When expecting to fire mostly suppressed, one ought to make a wider hole (gas port) in the barrel for the gas block, allowing the latter to take more gases in without eroding the gas port with pressure too much over time.
+
+Suppressors typically reduce report (i.e. volume of the shot) by anywhere between 10 and 30 dB, depending on the suppressor's length and design. This is in high contrast to the Hollywood portrayal of suppressors, which appear to reduce report by anywhere between 80 and 100 dB, rendering it almost imperceptible. A suppressed firearm is still highly audible, though perhaps isn't immediately understood as specifically a firearm shot.
+
+The purpose for a suppressor is to reduce hearing damage to the user.
 
 
 ### Bolt Carrier Group (BCG)
