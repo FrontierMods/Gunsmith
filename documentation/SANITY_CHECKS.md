@@ -24,7 +24,7 @@ The current implementation of the mechanism to prevent it from being used as a f
 
 The mod doesn't model the installation of pins and other small furniture required to keep bigger parts in place. This includes gas tubes.
 
-While ultimately it renders the resulting weapons lighter by several dozen grams, the upsides of this unrealistic rendition are
+While ultimately it renders the resulting weapons several dozen grams lighter, the upsides of this unrealistic rendition are
 
 * simpler assembly and part management
 * fewer loose parts lying around
