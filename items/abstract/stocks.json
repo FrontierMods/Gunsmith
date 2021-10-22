@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "stock_abstract",
 		"type": "GUNMOD",
 		
@@ -30,8 +28,6 @@
 			"shotgun",
 			"crossbow",
 			"launcher" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

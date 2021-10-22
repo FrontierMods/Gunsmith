@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "charging_handle_abstract",
 		"type": "GUNMOD",
 		
@@ -26,8 +24,6 @@
 		
 		"mod_targets": [ 
 			"rifle" 
-		]
-	
-	}
-	
+		] 
+	} 
 ]

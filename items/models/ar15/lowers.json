@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "ar15",
 		"copy-from": "receiver_lower_ar15",
 		"type": "GUN",
@@ -40,11 +38,9 @@
 					"stanag100",
 					"stanag100drum",
 					"stanag150",
-					"survivor223mag"
+					"survivor223mag" 
 				] 
 			} 
-		]
-		
-	}
-
+		] 
+	} 
 ]

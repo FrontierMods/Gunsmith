@@ -1,19 +1,17 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"//VOLUME_NOTE": "33% trim is applied to all grips present unless stated otherwise",
 	
 		"id": "grip_ar15_a2",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"???"
+		"//source": [ 
+			"???" 
 		],
 		
-		"name": {
-			"str": "A2 pistol grip"
+		"name": { 
+			"str": "A2 pistol grip" 
 		},
 		"description": "TBD",
 		
@@ -23,22 +21,20 @@
 		
 		"handling_modifier": 8,
 		
-		"price": "10 USD"
-	
+		"price": "10 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_strike_overmold",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-flat-top-overmolded-ar-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-flat-top-overmolded-ar-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries flat-top overmolded grip"
+		"name": { 
+			"str": "Strike Industries flat-top overmolded grip" 
 		},
 		"description": "TBD",
 		
@@ -48,22 +44,20 @@
 		
 		"handling_modifier": 8,
 		
-		"price": "24 USD"
-	
+		"price": "24 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_strike_enhanced",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-overmolded-ar-enhanced-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/strike-industries-overmolded-ar-enhanced-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries enhanced overmolded grip"
+		"name": { 
+			"str": "Strike Industries enhanced overmolded grip" 
 		},
 		"description": "TBD",
 		
@@ -73,22 +67,20 @@
 		
 		"handling_modifier": 9,
 		
-		"price": "24 USD"
-	
+		"price": "24 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_armaspec_uat",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/armaspec-tactical-grip-with-ultra-aggressive-texture-uat/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/armaspec-tactical-grip-with-ultra-aggressive-texture-uat/" 
 		],
 		
-		"name": {
-			"str": "Armaspec UAT grip"
+		"name": { 
+			"str": "Armaspec UAT grip" 
 		},
 		"description": "TBD",
 		
@@ -99,22 +91,20 @@
 		
 		"handling_modifier": 13,
 		
-		"price": "27 USD"
-	
+		"price": "27 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_tyrant_concept1",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/tyrant-designs-concept-one-aluminum-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/tyrant-designs-concept-one-aluminum-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Tyrant Designs Concept 1 grip"
+		"name": { 
+			"str": "Tyrant Designs Concept 1 grip" 
 		},
 		"description": "TBD",
 		
@@ -130,22 +120,20 @@
 			"rubber" 
 		],
 		
-		"price": "80 USD"
-	
+		"price": "80 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_dd",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/daniel-defense-enhanced-ar-pistol-grip-no-trigger-guard/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/daniel-defense-enhanced-ar-pistol-grip-no-trigger-guard/" 
 		],
 		
-		"name": {
-			"str": "Daniel Defense Enhanced grip"
+		"name": { 
+			"str": "Daniel Defense Enhanced grip" 
 		},
 		"description": "TBD",
 		
@@ -160,22 +148,20 @@
 			"rubber" 
 		],
 		
-		"price": "32 USD"
-	
+		"price": "32 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_fortis_torque",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/fortis-manufacturing-torque-carbon-fiber-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/fortis-manufacturing-torque-carbon-fiber-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Fortis Manufacturing TORQUE carbon-fiber grip"
+		"name": { 
+			"str": "Fortis Manufacturing TORQUE carbon-fiber grip" 
 		},
 		"description": "TBD",
 		
@@ -186,22 +172,20 @@
 		
 		"handling_modifier": 8,
 		
-		"price": "120 USD"
-	
+		"price": "120 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_aeroknox_orion",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/aeroknox-orion-ar-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/aeroknox-orion-ar-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Aeroknox ORION grip"
+		"name": { 
+			"str": "Aeroknox ORION grip" 
 		},
 		"description": "TBD",
 		
@@ -212,22 +196,20 @@
 		
 		"handling_modifier": 9,
 		
-		"price": "100 USD"
-	
+		"price": "100 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_bad",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/battle-arms-development-adjustable-tactical-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/battle-arms-development-adjustable-tactical-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Battle Arms Development grip"
+		"name": { 
+			"str": "Battle Arms Development grip" 
 		},
 		"description": "TBD",
 		
@@ -240,23 +222,21 @@
 		
 		"handling_modifier": 9,
 		
-		"price": "25 USD"
-	
+		"price": "25 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_f1",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/f-1-firearms-skeletonized-ar-pistol-grip/",
 			"assumed to be the grooved option sans paracord" 
 		],
 		
-		"name": {
-			"str": "F-1 Firearms skeletonized grip"
+		"name": { 
+			"str": "F-1 Firearms skeletonized grip" 
 		},
 		"description": "TBD",
 				
@@ -267,22 +247,20 @@
 		
 		"handling_modifier": 9,
 		
-		"price": "72 USD"
-	
+		"price": "72 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_tyrant_lwp",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-lwp-lightweight-pro-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-lwp-lightweight-pro-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Tyrant Designs Lightweight Pro grip"
+		"name": { 
+			"str": "Tyrant Designs Lightweight Pro grip" 
 		},
 		"description": "TBD",
 		
@@ -293,22 +271,20 @@
 		
 		"handling_modifier": 7,
 		
-		"price": "105 USD"
-	
+		"price": "105 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_tyrant_titan",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-titan-aluminum-pistol-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/tyrant-designs-titan-aluminum-pistol-grip/" 
 		],
 		
-		"name": {
-			"str": "Tyrant Designs Titan aluminum grip"
+		"name": { 
+			"str": "Tyrant Designs Titan aluminum grip" 
 		},
 		"description": "TBD",
 		
@@ -319,22 +295,20 @@
 		
 		"handling_modifier": 6,
 		
-		"price": "100 USD"
-	
+		"price": "100 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_strike_featureless",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/strike-industries-simple-featureless-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-accessories/pistol-grips/strike-industries-simple-featureless-grip/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries featureless grip"
+		"name": { 
+			"str": "Strike Industries featureless grip" 
 		},
 		"description": "TBD",
 		
@@ -345,22 +319,20 @@
 		
 		"handling_modifier": 6,
 		
-		"price": "13 USD"
-	
+		"price": "13 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_strike_megafin",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/strike-industries-megafin-featureless-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/strike-industries-megafin-featureless-grip/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries Megafin featureless grip"
+		"name": { 
+			"str": "Strike Industries Megafin featureless grip" 
 		},
 		"description": "TBD",
 		
@@ -371,22 +343,20 @@
 		
 		"handling_modifier": 7,
 		
-		"price": "40 USD"
-	
+		"price": "40 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_magpul_k2plus",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/magpul-moe-k2-ar-15-grip/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/magpul-moe-k2-ar-15-grip/" 
 		],
 		
-		"name": {
-			"str": "Magpul MOE K2+ grip"
+		"name": { 
+			"str": "Magpul MOE K2+ grip" 
 		},
 		"description": "TBD",
 		
@@ -397,22 +367,20 @@
 		
 		"handling_modifier": 8,
 		
-		"price": "25 USD"
-	
+		"price": "25 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_fab",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/fab-defense-rubberized-pistol-grip-agr-43/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/grips-foregrips/pistol-grips/fab-defense-rubberized-pistol-grip-agr-43/" 
 		],
 		
-		"name": {
-			"str": "FAB Defense rubberized grip"
+		"name": { 
+			"str": "FAB Defense rubberized grip" 
 		},
 		"description": "TBD",
 		
@@ -422,22 +390,20 @@
 		
 		"handling_modifier": 12,
 		
-		"price": "35 USD"
-	
+		"price": "35 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "grip_ar15_ergo_deluxe",
 		"copy-from": "grip_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/ergo-tactical-deleux-grip-w-palm-shelf/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/grips-foregrips/pistol-grips/ergo-tactical-deleux-grip-w-palm-shelf/" 
 		],
 		
-		"name": {
-			"str": "ERGO Deluxe grip with palm shelf"
+		"name": { 
+			"str": "ERGO Deluxe grip with palm shelf" 
 		},
 		"description": "TBD",
 		
@@ -451,8 +417,6 @@
 		
 		"handling_modifier": 14,
 		
-		"price": "55 USD"
-	
-	}
-
+		"price": "55 USD" 
+	} 
 ]

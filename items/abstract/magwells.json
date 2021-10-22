@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "magwell_abstract",
 		"type": "GUNMOD",
 		
@@ -24,12 +22,10 @@
 		"color": "dark_gray",
 		
 		"location": "magwell",
-		"install_time": "30 s"
-	
+		"install_time": "30 s" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "magwell_rifle",
 		"copy-from": "magwell_abstract",
 		"type": "GUNMOD",
@@ -41,8 +37,6 @@
 		
 		"mod_targets": [ 
 			"rifle" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

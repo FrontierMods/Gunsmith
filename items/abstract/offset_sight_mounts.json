@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "offset_sight_mount_abstract",
 		"type": "GUNMOD",
 		
@@ -36,8 +34,6 @@
 		
 		"add_mod": [ 
 			[ "sights", 1 ] 
-		]
-	
-	}
-
+		] 
+	} 
 ]

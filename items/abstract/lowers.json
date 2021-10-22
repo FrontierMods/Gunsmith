@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "receiver_lower",
 		"type": "GUN",
 		
@@ -23,12 +21,10 @@
 		
 		"//range": "prevents the gun from firing; gas block adds range",
 		"//range2": "this implementation causes a safe error with ranged.cpp:2335 when firing a lower before it's fully assembled",
-		"range": -120
-	
+		"range": -120 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "receiver_lower_rifle",
 		"copy-from": "receiver_lower",
 		"type": "GUN",
@@ -40,11 +36,9 @@
 		
 		"skill": "rifle",
 		
-		"valid_mod_locations": [
+		"valid_mod_locations": [ 
 			[ "grip",               1 ],
-			[ "fire control group", 1 ]
-		]
-	
-	}
-
+			[ "fire control group", 1 ] 
+		] 
+	} 
 ]

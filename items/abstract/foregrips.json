@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "foregrip_abstract",
 		"type": "GUNMOD",
 		
@@ -33,14 +31,12 @@
 		],
 		
 		"//add_mod": "simulates the idea of having enough space to install a rail attachment",
-		"add_mod": [
-			[ "rail", 1 ]
-		]
-	
+		"add_mod": [ 
+			[ "rail", 1 ] 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "foregrip_large",
 		"copy-from": "foregrip_abstract",
 		"type": "GUNMOD",
@@ -55,8 +51,6 @@
 		"longest_side": "100 mm",
 		
 		"//add_mod": "overrides extra rail slot for large forward grips",
-		"add_mod": []
-	
-	}
-
+		"add_mod": [] 
+	} 
 ]

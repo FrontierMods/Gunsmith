@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "handguard",
 		"type": "GUNMOD",
 		
@@ -26,8 +24,7 @@
 	
 	},
 	
-	{
-	
+	{ 
 		"abstract": "handguard_rifle",
 		"copy-from": "handguard",
 		"type": "GUNMOD",
@@ -41,20 +38,18 @@
 			"rifle" 
 		],
 		
-		"add_mod": [
+		"add_mod": [ 
 			[ "rail",        3 ],
 			[ "underbarrel", 1 ],
-			[ "iron sights", 1 ]
+			[ "iron sights", 1 ] 
 		],
 		
 		"//sights": "basic aiming against the angled side of the handguard, in absence of regular iron sights; better than nothing",
 		"sight_dispersion": 25,
-		"aim_speed": 8
-	
+		"aim_speed": 8 
 	},
 	
-	{
-	
+	{ 
 		"//TODO": "add extended shotgun handguards: these have siderails",
 	
 		"abstract": "handguard_shotgun",
@@ -70,10 +65,8 @@
 			"shotgun" 
 		],
 		
-		"add_mod": [
-			[ "underbarrel", 1 ]
-		]
-	
-	}
-
+		"add_mod": [ 
+			[ "underbarrel", 1 ] 
+		] 
+	} 
 ]

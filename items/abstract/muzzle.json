@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "muzzle_abstract",
 		"type": "GUNMOD",
 		
@@ -24,20 +22,18 @@
 		"location": "muzzle",
 		"install_time": "30 s",
 		
-		"mod_targets": [
+		"mod_targets": [ 
 			"pistol",
 			"smg",
 			"shotgun",
 			"rifle",
 			"bow",
 			"crossbow",
-			"launcher"
-		]
-	
+			"launcher" 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "muzzle_brake",
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
@@ -48,12 +44,10 @@
 		"description": "idea of a muzzle brake",
 		
 		"//recoil_modifier": -500,
-		"handling_modifier": 50
-	
+		"handling_modifier": 50 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "suppressor",
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
@@ -72,12 +66,10 @@
 			"amount": 2 
 		},
 		"//dispersion_modifier": "basic suppressor effect",
-		"dispersion_modifier": 1
-	
+		"dispersion_modifier": 1 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "muzzle_adapter",
 		"copy-from": "muzzle_abstract",
 		"type": "GUNMOD",
@@ -85,8 +77,6 @@
 		"name": { 
 			"str": "muzzle adapter" 
 		},
-		"description": "idea of a muzzle adapter"
-	
-	}
-
+		"description": "idea of a muzzle adapter" 
+	} 
 ]

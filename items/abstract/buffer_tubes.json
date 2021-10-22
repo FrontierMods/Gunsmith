@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "buffer_tube_abstract",
 		"type": "GUNMOD",
 		
@@ -21,8 +19,8 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
-		"add_mod": [
-			[ "stock", 1 ]
+		"add_mod": [ 
+			[ "stock", 1 ] 
 		],
 		
 		"location": "buffer tube",
@@ -33,9 +31,7 @@
 			"smg",
 			"shotgun",
 			"crossbow",
-			"launcher"
-		]
-	
-	}
-
+			"launcher" 
+		] 
+	} 
 ]

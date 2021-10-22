@@ -1,17 +1,15 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "sight_trijicon_rmr",
 		"copy-from": "sight_rds",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.trijicon.com/products/details/rm01-c-700600"
+		"//source": [ 
+			"https://www.trijicon.com/products/details/rm01-c-700600" 
 		],
 		
-		"name": {
-			"str": "Trijicon RMR Type 2 red dot sight"
+		"name": { 
+			"str": "Trijicon RMR Type 2 red dot sight" 
 		},
 		"description": "TBD",
 		
@@ -24,27 +22,25 @@
 		
 		"location": "RMR mount",
 		
-		"//power": {
+		"//power": { 
 			"source": "CR2032",
-			"lifetime": "2 years"
+			"lifetime": "2 years" 
 		},
 		
-		"price": "649 USD"
-	
+		"price": "649 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "sight_sousa",
 		"copy-from": "sight_rds",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/accessories/optics-sights/optics/sousa-optics-raid-pistol-red-dot-sight/"
+		"//source": [ 
+			"https://www.wingtactical.com/accessories/optics-sights/optics/sousa-optics-raid-pistol-red-dot-sight/" 
 		],
 		
-		"name": {
-			"str": "SOUSA RAID red dot sight"
+		"name": { 
+			"str": "SOUSA RAID red dot sight" 
 		},
 		"description": "TBD",
 		
@@ -57,27 +53,25 @@
 		
 		"location": "RMR mount",
 		
-		"//power": {
+		"//power": { 
 			"source": "CR2032",
-			"lifetime": "5000 hours"
+			"lifetime": "5000 hours" 
 		},
 		
-		"price": "180 USD"
-	
+		"price": "180 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "sight_eotech_xps2",
 		"copy-from": "sight_rds",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.eotechinc.com/eotech-hws-xps2"
+		"//source": [ 
+			"https://www.eotechinc.com/eotech-hws-xps2" 
 		],
 		
-		"name": {
-			"str": "EOTech XPS2 holographic sight"
+		"name": { 
+			"str": "EOTech XPS2 holographic sight" 
 		},
 		"description": "TBD",
 		
@@ -88,27 +82,25 @@
 		
 		"sight_dispersion": 4,
 		
-		"//power": {
+		"//power": { 
 			"source": "CR123",
-			"lifetime": "1000 hours"
+			"lifetime": "1000 hours" 
 		},
 		
-		"price": "575 USD"
-	
+		"price": "575 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "sight_eotech_vudu",
 		"copy-from": "sight_30mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.eotechinc.com/eotech-vudu-1-6x24-ffp"
+		"//source": [ 
+			"https://www.eotechinc.com/eotech-vudu-1-6x24-ffp" 
 		],
 		
-		"name": {
-			"str": "EOTech Vudu 1—6×24 30mm scope"
+		"name": { 
+			"str": "EOTech Vudu 1—6×24 30mm scope" 
 		},
 		"description": "TBD",
 		
@@ -120,27 +112,25 @@
 		
 		"sight_dispersion": 4,
 		
-		"//power": {
+		"//power": { 
 			"source": "CR2032",
-			"lifetime": "???"
+			"lifetime": "???" 
 		},
 		
-		"price": "1400 USD"
-	
+		"price": "1400 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "sight_holosun_507",
 		"copy-from": "sight_rds",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.trijicon.com/products/details/rm01-c-700600"
+		"//source": [ 
+			"https://www.trijicon.com/products/details/rm01-c-700600" 
 		],
 		
-		"name": {
-			"str": "Holosun 507K red dot sight"
+		"name": { 
+			"str": "Holosun 507K red dot sight" 
 		},
 		"description": "TBD",
 		
@@ -153,13 +143,12 @@
 		
 		"location": "Holosun mount",
 		
-		"//power": {
+		"//power": { 
 			"source": "CR1632",
-			"lifetime": "50000 hours"
+			"lifetime": "50000 hours" 
 		},
 		
-		"price": "341 USD"
-	
+		"price": "341 USD" 
 	},
 	
 	{
@@ -168,12 +157,12 @@
 		"copy-from": "sight_30mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.trijicon.com/products/details/hr1240-c-2700003"
+		"//source": [ 
+			"https://www.trijicon.com/products/details/hr1240-c-2700003" 
 		],
 		
-		"name": {
-			"str": "Trijicon Huron 3—12×40 30mm scope"
+		"name": { 
+			"str": "Trijicon Huron 3—12×40 30mm scope" 
 		},
 		"description": "TBD",
 		
@@ -185,22 +174,20 @@
 		
 		"sight_dispersion": 1,
 		
-		"price": "700 USD"
-	
+		"price": "700 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "sight_trijicon_tenmile",
 		"copy-from": "sight_30mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.trijicon.com/products/details/tm62450-c-3000005"
+		"//source": [ 
+			"https://www.trijicon.com/products/details/tm62450-c-3000005" 
 		],
 		
-		"name": {
-			"str": "Trijicon Tenmile 6—24×50 30mm scope"
+		"name": { 
+			"str": "Trijicon Tenmile 6—24×50 30mm scope" 
 		},
 		"description": "TBD",
 		
@@ -213,13 +200,11 @@
 		"//sight_dispersion": "actual scope line thickness: 0.5 MRAD = 1.72 MOA",
 		"sight_dispersion": 7,
 		
-		"//power": {
+		"//power": { 
 			"source": "CR2032",
-			"lifetime": "39 hours"
+			"lifetime": "39 hours" 
 		},
 		
-		"price": "1400 USD"
-	
-	}
-
+		"price": "1400 USD" 
+	} 
 ]

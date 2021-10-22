@@ -1,13 +1,11 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "osm_arisaka",
 		"copy-from": "offset_sight_mount_abstract",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/arisaka-defense-adjustable-45-degree-offset-keymod-rail-section/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/arisaka-defense-adjustable-45-degree-offset-keymod-rail-section/" 
 		],
 		
 		"name": { 
@@ -19,21 +17,19 @@
 		"longest_side": "45 mm",
 		
 		"//interface": [ 
-			"KeyMod"
+			"KeyMod" 
 		],
 		
-		"price": "62 USD"
-	
+		"price": "62 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "osm_jp",
 		"copy-from": "offset_sight_mount_abstract",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/jp-enterprises-45-degree-offset-rail-adapter/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/handguards-rails/rail-system-parts-accessories/jp-enterprises-45-degree-offset-rail-adapter/" 
 		],
 		
 		"name": { 
@@ -48,9 +44,7 @@
 			"Picatinny" 
 		],
 		
-		"price": "60 USD"
-	
-	}
-
+		"price": "60 USD" 
+	} 
 ]
 

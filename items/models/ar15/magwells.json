@@ -1,17 +1,15 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "magwell_ar15_adapter_9mm_glock",
 		"copy-from": "magwell_rifle",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://getstern.com/mag-ad9/"
+		"//source": [ 
+			"https://getstern.com/mag-ad9/" 
 		],
 		
-		"name": {
-			"str": "Stern Defense AR-15 9mm Glock adapter"
+		"name": { 
+			"str": "Stern Defense AR-15 9mm Glock adapter" 
 		},
 		"description": "TBD",
 		
@@ -31,6 +29,7 @@
 					"glock_drum_100rd" 
 				] 
 			], 
+			
 			[ 
 				"40", 
 				[ 
@@ -40,22 +39,20 @@
 			] 
 		],
 		
-		"price": "180 USD"
-	
+		"price": "180 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "magwell_ar15_adapter_9mm_beretta",
 		"copy-from": "magwell_rifle",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://getstern.com/mag-adb92/"
+		"//source": [ 
+			"https://getstern.com/mag-adb92/" 
 		],
 		
-		"name": {
-			"str": "Stern Defense AR-15 9mm Beretta adapter"
+		"name": { 
+			"str": "Stern Defense AR-15 9mm Beretta adapter" 
 		},
 		"description": "TBD",
 		
@@ -76,22 +73,20 @@
 			] 
 		],
 		
-		"price": "187 USD"
-	
+		"price": "187 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "magwell_ar15_magflare_stern",
 		"copy-from": "magwell_rifle",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://getstern.com/mag-ad-flare-mod2/"
+		"//source": [ 
+			"https://getstern.com/mag-ad-flare-mod2/" 
 		],
 		
-		"name": {
-			"str": "Stern Defense Mod2 magflare"
+		"name": { 
+			"str": "Stern Defense Mod2 magflare" 
 		},
 		"description": "TBD",
 		
@@ -101,8 +96,6 @@
 		
 		"reload_modifier": -5,
 		
-		"price": "73 USD"
-	
-	}
-
+		"price": "73 USD" 
+	} 
 ]

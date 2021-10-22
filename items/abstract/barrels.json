@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "barrel_abstract",
 		"type": "GUNMOD",
 		
@@ -22,12 +20,10 @@
 		"color": "dark_gray",
 		
 		"location": "barrel",
-		"install_time": "30 s"
-	
+		"install_time": "30 s" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_rifle",
 		"copy-from": "barrel_abstract",
 		"type": "GUNMOD",
@@ -41,15 +37,13 @@
 			"rifle" 
 		],
 		
-		"add_mod": [
+		"add_mod": [ 
 			[ "gas block", 1 ],
-			[ "handguard", 1 ]
-		]
-	
+			[ "handguard", 1 ] 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_rifle_threaded",
 		"copy-from": "barrel_rifle",
 		"type": "GUNMOD",
@@ -59,12 +53,10 @@
 		},
 		"description": "idea of a threaded rifle barrel",
 		
-		"add_mod": [
+		"add_mod": [ 
 			[ "gas block", 1 ],
 			[ "handguard", 1 ],
-			[ "muzzle",    1 ]
-		]
-	
-	}
-
+			[ "muzzle",    1 ] 
+		] 
+	} 
 ]

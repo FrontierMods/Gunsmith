@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "receiver_upper",
 		"type": "GUNMOD",
 		
@@ -22,12 +20,10 @@
 		"color": "dark_gray",
 		
 		"location": "upper receiver",
-		"install_time": "30 s"
-	
+		"install_time": "30 s" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "receiver_upper_rifle",
 		"copy-from": "receiver_upper",
 		"type": "GUNMOD",
@@ -46,8 +42,6 @@
 			[ "bolt carrier group", 1 ],
 			[ "offset sight mount", 1 ],
 			[ "brass catcher",      1 ] 
-		]
-	
-	}
-
+		] 
+	} 
 ]

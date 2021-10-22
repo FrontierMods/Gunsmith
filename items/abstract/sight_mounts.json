@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "sight_mount_abstract",
 		"type": "GUNMOD",
 		
@@ -32,12 +30,10 @@
 			"bow",
 			"crossbow",
 			"launcher" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "sight_mount_rmr",
 		"copy-from": "sight_mount_abstract",
 		"type": "GUNMOD",
@@ -49,12 +45,10 @@
 		
 		"add_mod": [ 
 			[ "RMR mount", 1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "sight_mount_30mm",
 		"copy-from": "sight_mount_abstract",
 		"type": "GUNMOD",
@@ -66,8 +60,6 @@
 		
 		"add_mod": [ 
 			[ "30mm scope mount", 1 ] 
-		]
-	
-	}
-
+		] 
+	} 
 ]

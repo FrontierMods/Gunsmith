@@ -1,14 +1,12 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "grip_wrap_hogue",
 		"copy-from": "grip_wrap",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.cheaperthandirt.com/hogue-handall-jr-universal-grip-sleeve-small-rubber-black-18000/FC-743108180006.html",
-			"https://www.amazon.com/Hogue-18006-HandAll-Sleeve-Purple/dp/B00NSJG7X4"
+			"https://www.amazon.com/Hogue-18006-HandAll-Sleeve-Purple/dp/B00NSJG7X4" 
 		],
 		
 		"name": { 
@@ -24,8 +22,6 @@
 		
 		"handling_modifier": 2,
 		
-		"price": "8 USD"
-	
-	}
-
+		"price": "8 USD" 
+	} 
 ]

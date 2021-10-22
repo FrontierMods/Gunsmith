@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "sight_abstract",
 		"type": "GUNMOD",
 		
@@ -32,12 +30,10 @@
 			"bow",
 			"crossbow",
 			"launcher" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "sight_rds",
 		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
@@ -49,12 +45,10 @@
 		
 		"//sight_dispersion": "3 MOA in quarter-MOA / 15 arc seconds per point",
 		"sight_dispersion": 12,
-		"aim_speed": 6
-	
+		"aim_speed": 6 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "sight_30mm",
 		"copy-from": "sight_abstract",
 		"type": "GUNMOD",
@@ -73,8 +67,6 @@
 		
 		"flags": [ 
 			"ZOOM" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

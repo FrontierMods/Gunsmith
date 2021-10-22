@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "grip_wrap",
 		"type": "GUNMOD",
 		
@@ -30,13 +28,11 @@
 			"shotgun",
 			"bow",
 			"crossbow",
-			"launcher"
-		]
-	
+			"launcher" 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "grip_wrap_pistol",
 		"copy-from": "grip_wrap",
 		"type": "GUNMOD",
@@ -48,8 +44,6 @@
 		
 		"mod_targets": [ 
 			"pistol" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

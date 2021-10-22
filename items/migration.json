@@ -1,77 +1,57 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "grip",
 		"type": "MIGRATION",
-		"replace": "foregrip_dd"
-		
+		"replace": "foregrip_dd" 
 	},
 	
-	{
-	
+	{ 
 		"id": "holo_sight",
 		"type": "MIGRATION",
-		"replace": "sight_eotech_xps2"
-		
+		"replace": "sight_eotech_xps2" 
 	},
 	
-	{
-	
+	{ 
 		"id": "red_dot_sight",
 		"type": "MIGRATION",
 		"//replace": "should be a different sight, e.g. Sightmark Sure Shot",
-		"replace": "sight_trijicon_rmr"
-		
+		"replace": "sight_trijicon_rmr" 
 	},
 	
-	{
-	
+	{ 
 		"id": "adjustable_stock",
 		"type": "MIGRATION",
-		"replace": "stock_carbine_milspec_magpul_moe"
-		
+		"replace": "stock_carbine_milspec_magpul_moe" 
 	},
 	
-	{
-	
+	{ 
 		"id": "recoil_stock",
 		"type": "MIGRATION",
-		"replace": "stock_rifle_milspec_magpul_prs"
-		
+		"replace": "stock_rifle_milspec_magpul_prs" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor",
 		"type": "MIGRATION",
-		"replace": "suppressor_surefire_socom556"
-		
+		"replace": "suppressor_surefire_socom556" 
 	},
 	
-	{
-	
+	{ 
 		"id": "offset_sight_rail",
 		"type": "MIGRATION",
-		"replace": "osm_arisaka"
-		
+		"replace": "osm_arisaka" 
 	},
 	
-	{
-	
+	{ 
 		"id": "rail_laser_sight",
 		"type": "MIGRATION",
-		"replace": "laser_sight_firefield"
-		
+		"replace": "laser_sight_firefield" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake",
 		"type": "MIGRATION",
 		"//replace": "needs something more generic; A2 birdcage?",
-		"replace": "muzzle_brake_precision_hypertap"
-		
-	}
-
+		"replace": "muzzle_brake_precision_hypertap" 
+	} 
 ]

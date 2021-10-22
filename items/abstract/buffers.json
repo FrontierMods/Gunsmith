@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "buffer_abstract",
 		"type": "GUNMOD",
 		
@@ -21,8 +19,8 @@
 		"symbol": ":",
 		"color": "dark_gray",
 		
-		"add_mod": [
-			[ "upper receiver", 1 ]
+		"add_mod": [ 
+			[ "upper receiver", 1 ] 
 		],
 		
 		"location": "buffer",
@@ -33,9 +31,7 @@
 			"smg",
 			"shotgun",
 			"crossbow",
-			"launcher"
-		]
-	
-	}
-
+			"launcher" 
+		] 
+	} 
 ]

@@ -1,13 +1,11 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "suppressor_surefire_socom556",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.surefire.com/products/suppressors-division/suppressors/socom556-rc2-suppressor/"
+		"//source": [ 
+			"https://www.surefire.com/products/suppressors-division/suppressors/socom556-rc2-suppressor/" 
 		],
 		
 		"name": { 
@@ -33,18 +31,16 @@
 		
 		"loudness_modifier": -55,
 		
-		"price": "1100 USD"
-	
+		"price": "1100 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor_thunderbeast_dominus",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://thunderbeastarms.com/products/dominus-sr"
+		"//source": [ 
+			"https://thunderbeastarms.com/products/dominus-sr" 
 		],
 		
 		"name": { 
@@ -64,7 +60,7 @@
 		
 		"material": [ 
 			"titanium",
-			"steel"
+			"steel" 
 		],
 		
 		"//calibers": [ 
@@ -83,21 +79,21 @@
 		
 		"loudness_modifier": -50,
 		
-		"price": "1495 USD"
-	
+		"price": "1495 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor_thunderbeast_ultra9",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://thunderbeastarms.com/products/ultra-9"
+		"//source": [ 
+			"https://thunderbeastarms.com/products/ultra-9" 
 		],
 		
-		"name": { "str": "Thunder Beast Arms Ultra 9 Gen 2 suppressor" },
+		"name": { 
+			"str": "Thunder Beast Arms Ultra 9 Gen 2 suppressor" 
+		},
 		"description": "TBD",
 		
 		"weight": "335 g",
@@ -112,7 +108,7 @@
 		
 		"material": [ 
 			"titanium",
-			"steel"
+			"steel" 
 		],
 		
 		"//calibers": [ 
@@ -131,18 +127,16 @@
 		
 		"loudness_modifier": -55,
 		
-		"price": "1145 USD"
-	
+		"price": "1145 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor_silentlegion_223",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://thunderbeastarms.com/products/ultra-9"
+		"//source": [ 
+			"https://thunderbeastarms.com/products/ultra-9" 
 		],
 		
 		"name": { 
@@ -156,13 +150,14 @@
 		"//added_length": "?? mm",
 		
 		"damage_modifier": { 
-			"damage_type": "bullet", "amount": 2 
+			"damage_type": "bullet", 
+			"amount": 2 
 		},
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 
 			"titanium",
-			"steel"
+			"steel" 
 		],
 		
 		"//calibers": [ 
@@ -174,20 +169,18 @@
 		
 		"loudness_modifier": -50,
 		
-		"price": "1120 USD"
-	
+		"price": "1120 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor_banish_30",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
 		"//note": "short 7 in. version without tube extension",
 		
-		"//source": [
-			"https://www.silencercentral.com/products/banish-30/"
+		"//source": [ 
+			"https://www.silencercentral.com/products/banish-30/" 
 		],
 		
 		"name": { 
@@ -207,7 +200,7 @@
 		
 		"material": [ 
 			"titanium",
-			"steel"
+			"steel" 
 		],
 		
 		"//calibers": [ 
@@ -225,18 +218,16 @@
 		
 		"loudness_modifier": -55,
 		
-		"price": "979 USD"
-	
+		"price": "979 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "suppressor_eliteiron_bravo1lite",
 		"copy-from": "suppressor",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.eliteiron.com/product/bravo-1-lite-suppressor/"
+		"//source": [ 
+			"https://www.eliteiron.com/product/bravo-1-lite-suppressor/" 
 		],
 		
 		"name": { 
@@ -250,13 +241,14 @@
 		"//added_length": "?? mm",
 		
 		"damage_modifier": { 
-			"damage_type": "bullet", "amount": 2 
+			"damage_type": "bullet", 
+			"amount": 2 
 		},
 		
 		"//material": "actual material for the steel part is inconel",
 		"material": [ 
 			"titanium",
-			"steel"
+			"steel" 
 		],
 		
 		"//calibers": [ 
@@ -270,18 +262,16 @@
 		
 		"loudness_modifier": -40,
 		
-		"price": "1095 USD"
-	
+		"price": "1095 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_precision_hypertap",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/muzzle-devices/precision-armament-hypertap-muzzle-brake-5-56-223/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/muzzle-devices/precision-armament-hypertap-muzzle-brake-5-56-223/" 
 		],
 		
 		"name": { 
@@ -303,18 +293,16 @@
 		"//recoil_modifier": -420,
 		"handling_modifier": 42,
 		
-		"price": "180 USD"
-	
+		"price": "180 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_sjc_titan",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://stores.sjcguns.com/223-5-56-sjc-titan-cs-black/"
+		"//source": [ 
+			"https://stores.sjcguns.com/223-5-56-sjc-titan-cs-black/" 
 		],
 		
 		"name": { 
@@ -336,19 +324,17 @@
 		"//recoil_modifier": -400,
 		"handling_modifier": 40,
 		
-		"price": "100 USD"
-	
+		"price": "100 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_v7",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.vsevenweaponsystems.com/v7-muzzle-brake/",
-			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/" 
 		],
 		
 		"name": { 
@@ -374,19 +360,17 @@
 		"//recoil_modifier": -275,
 		"handling_modifier": 28,
 		
-		"price": "91 USD"
-	
+		"price": "91 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_v7_furion",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.vsevenweaponsystems.com/furion/",
-			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/" 
 		],
 		
 		"name": { 
@@ -413,19 +397,17 @@
 		"//recoil_modifier": -325,
 		"handling_modifier": 33,
 		
-		"price": "145 USD"
-	
+		"price": "145 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_apex",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.apextactical.com/apex-enhanced-stabilization-attachment",
-			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/" 
 		],
 		
 		"name": { 
@@ -448,19 +430,17 @@
 		"//recoil_modifier": -300,
 		"handling_modifier": 30,
 		
-		"price": "60 USD"
-	
+		"price": "60 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "muzzle_brake_deadair_keymount",
 		"copy-from": "muzzle_brake",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://deadairsilencers.com/product/keymount-muzzle-brake-2/",
-			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/"
+			"https://www.thetruthaboutguns.com/ar-15-muzzle-brake-shootout-3/" 
 		],
 		
 		"name": { 
@@ -483,8 +463,7 @@
 		"//recoil_modifier": -275,
 		"handling_modifier": 28,
 		
-		"price": "89 USD"
-	
+		"price": "89 USD" 
 	}
 
 ]

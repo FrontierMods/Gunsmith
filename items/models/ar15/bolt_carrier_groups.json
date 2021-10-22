@@ -1,17 +1,15 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "bcg_ar15_jp_ulmos",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-ultra-low-mass-aluminum-ar-15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-ultra-low-mass-aluminum-ar-15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "JP Enterprises Ultra Low Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "JP Enterprises Ultra Low Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -27,22 +25,20 @@
 		"//recoil_modifier": 600,
 		"handling_modifier": -60,
 		
-		"price": "438 USD"
-	
+		"price": "438 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_jp_lmos",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-ar-15-low-mass-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-ar-15-low-mass-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "JP Enterprises Low Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "JP Enterprises Low Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -53,22 +49,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "335 USD"
-	
+		"price": "335 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_jp_fmos",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-full-mass-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/jp-enterprises-full-mass-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "JP Enterprises Full Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "JP Enterprises Full Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -79,22 +73,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "335 USD"
-	
+		"price": "335 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_phase5",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/phase-5-tactical-electroless-nickel-ar-15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/phase-5-tactical-electroless-nickel-ar-15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Phase 5 Tactical 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Phase 5 Tactical 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -105,22 +97,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "200 USD"
-	
+		"price": "200 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_rise",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rise-armament-nickel-boron-bolt-carrier-group-for-ar-15/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rise-armament-nickel-boron-bolt-carrier-group-for-ar-15/" 
 		],
 		
-		"name": {
-			"str": "RISE Armanent 5.56mm bolt carrier group"
+		"name": { 
+			"str": "RISE Armanent 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -131,22 +121,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "189 USD"
-	
+		"price": "189 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_rca",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-lightweight-ar-15-titanium-bcg/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-lightweight-ar-15-titanium-bcg/" 
 		],
 		
-		"name": {
-			"str": "Rubber City Armory titanium 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Rubber City Armory titanium 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -162,22 +150,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "359 USD"
-	
+		"price": "359 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_seekins",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/seekins-precision-melonite-nx15-bolt-carrier-group-5-56-300blk/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/seekins-precision-melonite-nx15-bolt-carrier-group-5-56-300blk/" 
 		],
 		
-		"name": {
-			"str": "Seekins Precision titanium 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Seekins Precision titanium 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -188,22 +174,20 @@
 		"//recoil_modifier": 750,
 		"handling_modifier": -75,
 		
-		"price": "185 USD"
-	
+		"price": "185 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_spikes",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/spikes-tactical-lightweight-nickel-boron-bcg/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/spikes-tactical-lightweight-nickel-boron-bcg/" 
 		],
 		
-		"name": {
-			"str": "Spike's Tactical 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Spike's Tactical 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -214,22 +198,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "250 USD"
-	
+		"price": "250 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_faxon",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-m16-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-m16-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Faxon Firearms 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Faxon Firearms 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -240,22 +222,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "138 USD"
-	
+		"price": "138 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_icrw_s2",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/iron-city-rifle-works-s2-drop-in-5-56-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/iron-city-rifle-works-s2-drop-in-5-56-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Iron City Rifle Works S2 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Iron City Rifle Works S2 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -266,22 +246,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "300 USD"
-	
+		"price": "300 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_icrw_g3",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/iron-city-rifle-works-g3-enhanced-competition-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/iron-city-rifle-works-g3-enhanced-competition-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Iron City Rifle Works G3 competition 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Iron City Rifle Works G3 competition 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -292,22 +270,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "330 USD"
-	
+		"price": "330 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_wmd",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/wmd-guns-nib-x-nickel-boron-ar15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/wmd-guns-nib-x-nickel-boron-ar15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "WMD Guns 5.56mm bolt carrier group"
+		"name": { 
+			"str": "WMD Guns 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -318,22 +294,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "148 USD"
-	
+		"price": "148 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_fz",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/fail-zero-nickel-boron-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/fail-zero-nickel-boron-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Fail Zero 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Fail Zero 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -344,22 +318,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "160 USD"
-	
+		"price": "160 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_odin",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/odin-works-full-auto-black-nitride-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/odin-works-full-auto-black-nitride-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "ODIN Works 5.56mm bolt carrier group"
+		"name": { 
+			"str": "ODIN Works 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -370,22 +342,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "130 USD"
-	
+		"price": "130 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_lantac",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/lantac-enhanced-full-auto-nickel-boron-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/lantac-enhanced-full-auto-nickel-boron-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "LANTAC Enhanced 5.56mm bolt carrier group"
+		"name": { 
+			"str": "LANTAC Enhanced 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -396,22 +366,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "291 USD"
-	
+		"price": "291 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_aero",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/aero-precision-complete-5-56-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/aero-precision-complete-5-56-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Aero Precision 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Aero Precision 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -422,22 +390,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "130 USD"
-	
+		"price": "130 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_cmc",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/cmc-triggers-ar15-enhanced-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/cmc-triggers-ar15-enhanced-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "CMC Triggers 5.56mm bolt carrier group"
+		"name": { 
+			"str": "CMC Triggers 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -448,22 +414,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "200 USD"
-	
+		"price": "200 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_f1",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/f-1-firearms-durabolt-ar-15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/f-1-firearms-durabolt-ar-15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "F-1 Firearms DuraBolt 5.56mm bolt carrier group"
+		"name": { 
+			"str": "F-1 Firearms DuraBolt 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -474,22 +438,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "131 USD"
-	
+		"price": "131 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_f1_lowmass",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/f-1-firearms-durabolt-low-mass-ar-15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/f-1-firearms-durabolt-low-mass-ar-15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "F-1 Firearms DuraBolt Low Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "F-1 Firearms DuraBolt Low Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -500,22 +462,20 @@
 		"//recoil_modifier": 600,
 		"handling_modifier": -60,
 		
-		"price": "350 USD"
-	
+		"price": "350 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_faxon_gunner",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-gunner-lightweight-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-gunner-lightweight-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Faxon Firearms GUNNER 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Faxon Firearms GUNNER 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -526,23 +486,21 @@
 		"//recoil_modifier": 600,
 		"handling_modifier": -60,
 		
-		"price": "237 USD"
-	
+		"price": "237 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_moa",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/master-of-arms-nyx-titanium-carrier-with-nickel-boron-bolt/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/master-of-arms-nyx-titanium-carrier-with-nickel-boron-bolt/" 
 		],
 		"//note": "metal balls can be inserted inside to increase weight",
 		
-		"name": {
-			"str": "Master of Arms Nyx titanium 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Master of Arms Nyx titanium 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -558,22 +516,20 @@
 		"//recoil_modifier": 600,
 		"handling_modifier": -60,
 		
-		"price": "437 USD"
-	
+		"price": "437 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_noveske",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/noveske-5-56-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/noveske-5-56-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Noveske 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Noveske 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -584,22 +540,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "150 USD"
-	
+		"price": "150 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_odin_lowmass",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/noveske-5-56-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/noveske-5-56-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "ODIN Works Low Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "ODIN Works Low Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -610,22 +564,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "180 USD"
-	
+		"price": "180 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_rise_adv",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rise-armament-advanced-5-56-black-nitride-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rise-armament-advanced-5-56-black-nitride-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "RISE Armanents Advanced 5.56mm bolt carrier group"
+		"name": { 
+			"str": "RISE Armanents Advanced 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -636,22 +588,20 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "180 USD"
-	
+		"price": "180 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_rca_lowmass",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-low-mass-competition-ar-15-bcg/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/rubber-city-armory-low-mass-competition-ar-15-bcg/" 
 		],
 		
-		"name": {
-			"str": "Rubber City Armory Low Mass 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Rubber City Armory Low Mass 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -662,22 +612,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "250 USD"
-	
+		"price": "250 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_v7_titanium",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/v-seven-titanium-lightweight-bolt-carrier-m16-style/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/v-seven-titanium-lightweight-bolt-carrier-m16-style/" 
 		],
 		
-		"name": {
-			"str": "V Seven titanium lightweight 5.56mm bolt carrier group"
+		"name": { 
+			"str": "V Seven titanium lightweight 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -688,22 +636,20 @@
 		"//recoil_modifier": 600,
 		"handling_modifier": -60,
 		
-		"price": "350 USD"
-	
+		"price": "350 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_velocity",
 		"copy-from": "bcg_ar15_556",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/velocity-recoil-less-ar-15-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/velocity-recoil-less-ar-15-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Velocity Triggers Recoil-Less 5.56mm bolt carrier group"
+		"name": { 
+			"str": "Velocity Triggers Recoil-Less 5.56mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -714,22 +660,20 @@
 		"//recoil_modifier": 700,
 		"handling_modifier": -70,
 		
-		"price": "225 USD"
-	
+		"price": "225 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_9mm_kvp",
 		"copy-from": "bcg_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/kaw-valley-precision-9mm-blow-back-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/kaw-valley-precision-9mm-blow-back-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Kaw Valley Precision 9mm bolt carrier group"
+		"name": { 
+			"str": "Kaw Valley Precision 9mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -738,22 +682,20 @@
 		"//recoil_modifier": 900,
 		"handling_modifier": -90,
 		
-		"price": "150 USD"
-	
+		"price": "150 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_9mm_spikes",
 		"copy-from": "bcg_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/spikes-tactical-9mm-ar-bolt/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/spikes-tactical-9mm-ar-bolt/" 
 		],
 		
-		"name": {
-			"str": "Spike's Tactical 9mm bolt carrier group"
+		"name": { 
+			"str": "Spike's Tactical 9mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -762,22 +704,20 @@
 		"//recoil_modifier": 900,
 		"handling_modifier": -90,
 		
-		"price": "200 USD"
-	
+		"price": "200 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_9mm_odin",
 		"copy-from": "bcg_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/odin-works-ar-9mm-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/odin-works-ar-9mm-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "ODIN Works 9mm bolt carrier group"
+		"name": { 
+			"str": "ODIN Works 9mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -786,22 +726,20 @@
 		"//recoil_modifier": 1000,
 		"handling_modifier": -100,
 		
-		"price": "160 USD"
-	
+		"price": "160 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_9mm_faxon",
 		"copy-from": "bcg_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-9mm-blow-back-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/bolts-carriers/faxon-firearms-9mm-blow-back-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "Faxon Firearms 9mm bolt carrier group"
+		"name": { 
+			"str": "Faxon Firearms 9mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -810,22 +748,20 @@
 		"//recoil_modifier": 900,
 		"handling_modifier": -90,
 		
-		"price": "165 USD"
-	
+		"price": "165 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "bcg_ar15_9mm_jp",
 		"copy-from": "bcg_ar15_9mm",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/jp-enterprises-enhanced-9mm-ar-bolt-carrier-group/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/bolts-carriers/jp-enterprises-enhanced-9mm-ar-bolt-carrier-group/" 
 		],
 		
-		"name": {
-			"str": "JP Enterprises 9mm bolt carrier group"
+		"name": { 
+			"str": "JP Enterprises 9mm bolt carrier group" 
 		},
 		"description": "TBD",
 		
@@ -834,8 +770,6 @@
 		"//recoil_modifier": 800,
 		"handling_modifier": -80,
 		
-		"price": "260 USD"
-	
-	}
-
+		"price": "260 USD" 
+	} 
 ]

@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "laser_sight_abstract",
 		"type": "GUNMOD",
 		
@@ -31,13 +29,11 @@
 			"shotgun",
 			"bow",
 			"crossbow",
-			"launcher"
-		]
-	
+			"launcher" 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "laser_sight_red",
 		"copy-from": "laser_sight_abstract",
 		"type": "GUNMOD",
@@ -49,12 +45,10 @@
 		
 		"//stats": "vague attempt at balancing this to be somewhere between iron sights and standalone sights",
 		"sight_dispersion": 20,
-		"aim_speed": 6
-	
+		"aim_speed": 6 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "laser_sight_green",
 		"copy-from": "laser_sight_abstract",
 		"type": "GUNMOD",
@@ -66,8 +60,6 @@
 		
 		"//stats": "green laser is attested to be slightly more visible than red laser",
 		"sight_dispersion": 18,
-		"aim_speed": 6
-	
-	}
-
+		"aim_speed": 6 
+	} 
 ]

@@ -1,13 +1,11 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "receiver_lower_ar15",
 		"copy-from": "receiver_lower_rifle",
 		"type": "GUN",
 		
-		"name": {
-			"str": "AR-15-platform lower receiver"
+		"name": { 
+			"str": "AR-15-platform lower receiver" 
 		},
 		"description": "idea of an AR-15-platform lower receiver",
 		
@@ -15,22 +13,20 @@
 			[ "grip",               1 ],
 			[ "fire control group", 1 ],
 			[ "magwell",            1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "receiver_upper_ar15",
 		"copy-from": "receiver_upper_rifle",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://americanresistancegear.com/product/ar15-a3-stripped-upper-receiver/"
+		"//source": [ 
+			"https://americanresistancegear.com/product/ar15-a3-stripped-upper-receiver/" 
 		],
 		
-		"name": {
-			"str": "AR-15-type rifle upper receiver"
+		"name": { 
+			"str": "AR-15-type rifle upper receiver" 
 		},
 		"description": "idea of an AR-15-type rifle upper receiver",
 		
@@ -42,22 +38,20 @@
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "fcg_ar15",
 		"copy-from": "fcg_rifle",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/lower-receiver-parts/ar-15-trigger-groups/velocity-ar-mpc-drop-in-trigger/" 
 		],
 		
-		"name": {
-			"str": "AR-15-platform fire control group"
+		"name": { 
+			"str": "AR-15-platform fire control group" 
 		},
 		"description": "idea of a AR-15-platform fire control group",
 		
@@ -66,179 +60,159 @@
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_ar15",
 		"copy-from": "buffer_tube_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform buffer tube"
+		"name": { 
+			"str": "AR-15-platform buffer tube" 
 		},
 		"description": "idea of a AR-15-platform buffer tube",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_milspec",
 		"copy-from": "buffer_tube_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "milspec buffer tube"
+		"name": { 
+			"str": "milspec buffer tube" 
 		},
 		"description": "idea of a milspec buffer tube",
 		
 		"add_mod": [ 
 			[ "milspec stock", 1 ],
 			[ "buffer spring", 1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_pistol_milspec",
 		"copy-from": "buffer_tube_milspec",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length milspec buffer tube"
+		"name": { 
+			"str": "pistol-length milspec buffer tube" 
 		},
 		"description": "idea of a pistol-length milspec buffer tube",
 		
 		"add_mod": [ 
 			[ "pistol milspec stock", 1 ],
 			[ "pistol buffer spring", 1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_carbine_milspec",
 		"copy-from": "buffer_tube_milspec",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length milspec buffer tube"
+		"name": { 
+			"str": "carbine-length milspec buffer tube" 
 		},
 		"description": "idea of a carbine-length milspec buffer tube",
 		
 		"add_mod": [ 
 			[ "carbine milspec stock", 1 ],
 			[ "carbine buffer spring", 1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_rifle_milspec",
 		"copy-from": "buffer_tube_milspec",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length milspec buffer tube"
+		"name": { 
+			"str": "rifle-length milspec buffer tube" 
 		},
 		"description": "idea of a rifle-length milspec buffer tube",
 		
 		"add_mod": [ 
 			[ "rifle milspec stock", 1 ],
 			[ "rifle buffer spring", 1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_commercial",
 		"copy-from": "buffer_tube_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "commercial buffer tube"
+		"name": { 
+			"str": "commercial buffer tube" 
 		},
 		"description": "idea of a commercial buffer tube",
 		
 		"add_mod": [ 
 			[ "commercial stock", 1 ],
 			[ "buffer spring",    1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_pistol_commercial",
 		"copy-from": "buffer_tube_commercial",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length commercial buffer tube"
+		"name": { 
+			"str": "pistol-length commercial buffer tube" 
 		},
 		"description": "idea of a pistol-length commercial buffer tube",
 		
 		"add_mod": [ 
 			[ "pistol commercial stock", 1 ],
 			[ "pistol buffer spring",    1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_carbine_commercial",
 		"copy-from": "buffer_tube_commercial",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length commercial buffer tube"
+		"name": { 
+			"str": "carbine-length commercial buffer tube" 
 		},
 		"description": "idea of a carbine-length commercial buffer tube",
 		
 		"add_mod": [ 
 			[ "carbine commercial stock", 1 ],
 			[ "carbine buffer spring",    1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_tube_rifle_commercial",
 		"copy-from": "buffer_tube_commercial",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length commercial buffer tube"
+		"name": { 
+			"str": "rifle-length commercial buffer tube" 
 		},
 		"description": "idea of a rifle-length commercial buffer tube",
 		
 		"add_mod": [ 
 			[ "rifle commercial stock", 1 ],
 			[ "rifle buffer spring",    1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_spring_pistol",
 		"copy-from": "buffer_spring_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length buffer spring"
+		"name": { 
+			"str": "pistol-length buffer spring" 
 		},
 		"description": "idea of a pistol-length buffer spring",
 		
@@ -246,18 +220,16 @@
 			[ "pistol buffer", 1 ] 
 		],
 		
-		"location": "pistol buffer spring"
-	
+		"location": "pistol buffer spring" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_spring_carbine",
 		"copy-from": "buffer_spring_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length buffer spring"
+		"name": { 
+			"str": "carbine-length buffer spring" 
 		},
 		"description": "idea of a carbine-length buffer spring",
 		
@@ -271,18 +243,16 @@
 			[ "carbine buffer", 1 ] 
 		],
 		
-		"location": "carbine buffer spring"
-	
+		"location": "carbine buffer spring" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_spring_rifle",
 		"copy-from": "buffer_spring_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length buffer spring"
+		"name": { 
+			"str": "rifle-length buffer spring" 
 		},
 		"description": "idea of a rifle-length buffer spring",
 		
@@ -296,18 +266,16 @@
 			[ "rifle buffer", 1 ] 
 		],
 		
-		"location": "rifle buffer spring"
-	
+		"location": "rifle buffer spring" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_pistol",
 		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length buffer"
+		"name": { 
+			"str": "pistol-length buffer" 
 		},
 		"description": "idea of a pistol-length buffer",
 		
@@ -316,18 +284,16 @@
 		"//longest_side": "assumed from average; see REFERENCE.md",
 		"longest_side": "62 mm",
 		
-		"location": "pistol buffer"
-	
+		"location": "pistol buffer" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_carbine",
 		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length buffer"
+		"name": { 
+			"str": "carbine-length buffer" 
 		},
 		"description": "idea of a carbine-length buffer",
 		
@@ -336,18 +302,16 @@
 		"//longest_side": "assumed from average; see REFERENCE.md",
 		"longest_side": "83 mm",
 		
-		"location": "carbine buffer"
-	
+		"location": "carbine buffer" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "buffer_rifle",
 		"copy-from": "buffer_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length buffer"
+		"name": { 
+			"str": "rifle-length buffer" 
 		},
 		"description": "idea of a rifle-length buffer",
 		
@@ -356,23 +320,21 @@
 		"//longest_side": "assumed from average; see REFERENCE.md",
 		"longest_side": "150 mm",
 		
-		"location": "rifle buffer"
-	
+		"location": "rifle buffer" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "charging_handle_ar15",
 		"copy-from": "charging_handle_abstract",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.primaryarms.com/anderson-manufacturing-standard-charging-handle-for-ar-15-am-27-assm",
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/"
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "AR-15-platform charging handle"
+		"name": { 
+			"str": "AR-15-platform charging handle" 
 		},
 		"description": "idea of an AR-15-platform charging handle",
 		
@@ -389,18 +351,16 @@
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "bcg_ar15",
 		"copy-from": "bcg_rifle",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform bolt carrier group"
+		"name": { 
+			"str": "AR-15-platform bolt carrier group" 
 		},
 		"description": "idea of an AR-15-platform bolt carrier group",
 		
@@ -408,179 +368,160 @@
 		"volume": "26 ml",
 		"longest_side": "170 mm",
 		
-		"mod_targets": [  
+		"mod_targets": [ 
 			"ar15"  
 		],
 		
 		"add_mod": [ 
 			[ "barrel",           1 ],
 			[ "charging handle",  1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "bcg_ar15_556",
 		"copy-from": "bcg_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "5.56mm AR-15-platform bolt carrier group"
+		"name": { 
+			"str": "5.56mm AR-15-platform bolt carrier group" 
 		},
 		"description": "idea of a 5.56mm/.223/.300BLK AR-15-platform bolt carrier group",
 		
 		"ammo_modifier": [ 
 			"223",
 			"300blk" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "bcg_ar15_9mm",
 		"copy-from": "bcg_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "9mm AR-15-platform bolt carrier group"
+		"name": { 
+			"str": "9mm AR-15-platform bolt carrier group" 
 		},
 		"description": "idea of a 9mm AR-15-platform bolt carrier group",
 		
 		"ammo_modifier": [ 
 			"9mm" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_ar15",
 		"copy-from": "barrel_rifle_threaded",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform barrel"
+		"name": { 
+			"str": "AR-15-platform barrel" 
 		},
 		"description": "idea of an AR-15-platform barrel",
 		
-		"mod_targets": [  
+		"mod_targets": [ 
 			"ar15" 
 		]
 		
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_ar15_223",
 		"copy-from": "barrel_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform .223 barrel"
+		"name": { 
+			"str": "AR-15-platform .223 barrel" 
 		},
 		"description": "idea of an AR-15-platform .223 barrel",
 		
 		"acceptable_ammo": [ 
 			"223" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_ar15_300blk",
 		"copy-from": "barrel_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform .300 Blackout barrel"
+		"name": { 
+			"str": "AR-15-platform .300 Blackout barrel" 
 		},
 		"description": "idea of an AR-15-platform .300 Blackout barrel",
 		
 		"acceptable_ammo": [ 
 			"300blk" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "barrel_ar15_9mm",
 		"copy-from": "barrel_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform 9mm barrel"
+		"name": { 
+			"str": "AR-15-platform 9mm barrel" 
 		},
 		"description": "idea of an AR-15-platform 9mm barrel",
 		
 		"acceptable_ammo": [ 
 			"9mm" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "gas_block_ar15",
 		"copy-from": "gas_block_rifle",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform gas block"
+		"name": { 
+			"str": "AR-15-platform gas block" 
 		},
 		"description": "idea of an AR-15-platform gas block",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "grip_ar15",
 		"copy-from": "grip_rifle",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform grip"
+		"name": { 
+			"str": "AR-15-platform grip" 
 		},
 		"description": "idea of an AR-15-platform grip",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "handguard_ar15",
 		"copy-from": "handguard_rifle",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-type rifle handguard"
+		"name": { 
+			"str": "AR-15-type rifle handguard" 
 		},
 		"description": "idea of an AR-15-type rifle handguard",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "handguard_ar15_quad",
 		"copy-from": "handguard_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "quad-rail AR-15-type rifle handguard"
+		"name": { 
+			"str": "quad-rail AR-15-type rifle handguard" 
 		},
 		"description": "idea of an quad-rail AR-15-type rifle handguard",
 		
@@ -589,18 +530,16 @@
 			[ "rail mount",        2 ],
 			[ "underbarrel mount", 1 ],
 			[ "iron sights",       1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "handguard_ar15_octo",
 		"copy-from": "handguard_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "octo-rail AR-15-type rifle handguard"
+		"name": { 
+			"str": "octo-rail AR-15-type rifle handguard" 
 		},
 		"description": "idea of an octo-rail AR-15-type rifle handguard",
 		
@@ -609,147 +548,127 @@
 			[ "rail mount",        6 ],
 			[ "underbarrel mount", 1 ],
 			[ "iron sights",       1 ] 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "magwell_ar15",
 		"copy-from": "magwell_rifle",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform bolt carrier group"
+		"name": { 
+			"str": "AR-15-platform bolt carrier group" 
 		},
 		"description": "idea of an AR-15-platform bolt carrier group",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_ar15",
 		"copy-from": "stock_abstract",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "AR-15-platform stock"
+		"name": { 
+			"str": "AR-15-platform stock" 
 		},
 		"description": "idea of an AR-15-platform stock",
 		
 		"mod_targets": [ 
 			"ar15" 
-		]
-	
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_pistol_milspec",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length milspec stock"
+		"name": { 
+			"str": "pistol-length milspec stock" 
 		},
 		"description": "idea of a pistol-length milspec stock",
 		
-		"location": "pistol milspec stock"
-	
+		"location": "pistol milspec stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_carbine_milspec",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length milspec stock"
+		"name": { 
+			"str": "carbine-length milspec stock" 
 		},
 		"description": "idea of a carbine-length milspec stock",
 		
-		"location": "carbine milspec stock"
-	
+		"location": "carbine milspec stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_rifle_milspec",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length milspec stock"
+		"name": { 
+			"str": "rifle-length milspec stock" 
 		},
 		"description": "idea of a rifle-length milspec stock",
 		
-		"location": "rifle milspec stock"
-	
+		"location": "rifle milspec stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_pistol_commercial",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "pistol-length commercial stock"
+		"name": { 
+			"str": "pistol-length commercial stock" 
 		},
 		"description": "idea of a pistol-length commercial stock",
 		
-		"location": "pistol commercial stock"
-	
+		"location": "pistol commercial stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_carbine_commercial",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "carbine-length commercial stock"
+		"name": { 
+			"str": "carbine-length commercial stock" 
 		},
 		"description": "idea of a carbine-length commercial stock",
 		
-		"location": "carbine commercial stock"
-	
+		"location": "carbine commercial stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_rifle_commercial",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "rifle-length commercial stock"
+		"name": { 
+			"str": "rifle-length commercial stock" 
 		},
 		"description": "idea of a rifle-length commercial stock",
 		
-		"location": "rifle commercial stock"
-	
+		"location": "rifle commercial stock" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "stock_plate",
 		"copy-from": "stock_ar15",
 		"type": "GUNMOD",
 		
-		"name": {
-			"str": "stock plate"
+		"name": { 
+			"str": "stock plate" 
 		},
 		"description": "idea of a stock plate",
 		
-		"location": "stock plate"
-	
-	}
-
+		"location": "stock plate" 
+	} 
 ]

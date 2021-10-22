@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "gas_block_abstract",
 		"type": "GUNMOD",
 		
@@ -25,12 +23,10 @@
 		"range_modifier": 120,
 		
 		"location": "gas block",
-		"install_time": "30 s"
-	
+		"install_time": "30 s" 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "gas_block_rifle",
 		"copy-from": "gas_block_abstract",
 		"type": "GUNMOD",
@@ -42,8 +38,6 @@
 		
 		"mod_targets": [ 
 			"rifle" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "underbarrel_mount_abstract",
 		"type": "GUNMOD",
 		
@@ -44,8 +42,6 @@
 		
 		"add_mod": [ 
 			[ "underbarrel", 1 ] 
-		]
-	
-	}
-
+		] 
+	} 
 ]

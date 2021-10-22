@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "bcg_abstract",
 		"type": "GUNMOD",
 		
@@ -27,14 +25,12 @@
 		"install_time": "30 s",
 		
 		"//add_mod": "simulating the idea that this is an essential part of the firing mechanism",
-		"add_mod": [
-			[ "barrel", 1 ]
-		]
-	
+		"add_mod": [ 
+			[ "barrel", 1 ] 
+		] 
 	},
 	
-	{
-	
+	{ 
 		"abstract": "bcg_rifle",
 		"copy-from": "bcg_abstract",
 		"type": "GUNMOD",
@@ -46,8 +42,6 @@
 		
 		"mod_targets": [ 
 			"rifle" 
-		]
-	
-	}
-
+		] 
+	} 
 ]

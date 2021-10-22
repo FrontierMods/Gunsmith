@@ -1,536 +1,455 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "charging_handle_ar15_strike",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/strike-industries-ar-15-charging-handle-with-extended-latch/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/strike-industries-ar-15-charging-handle-with-extended-latch/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries charging handle"
+		"name": { 
+			"str": "Strike Industries charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "33 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true
-		},
+		"//features": [ 
+			"LATCH_EXTENDED" 
+		],
 		
 		"reload_modifier": -1,
 		
-		"price": "36 USD"
-	
+		"price": "36 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_aero",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/aero-precision-ar-15-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/aero-precision-ar-15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Aero Precision charging handle"
+		"name": { 
+			"str": "Aero Precision charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "51 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "80 USD"
-	
+		"price": "80 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_radian",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/radian-raptor-ar-15-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/radian-raptor-ar-15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Radian Raptor charging handle"
+		"name": { 
+			"str": "Radian Raptor charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "38 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": false,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "90 USD"
-	
+		"price": "90 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_radian_sd",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/radian-ar-15-silencer-optimized-raptor-sd-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/radian-ar-15-silencer-optimized-raptor-sd-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Radian Raptor-SD charging handle"
+		"name": { 
+			"str": "Radian Raptor-SD charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "39 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": false,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED",
-				"PORTING"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED",
+			"PORTING" 
+		],
 		
 		"reload_modifier": -2,
 		"handling_modifier": 1,
 		
-		"price": "143 USD"
-	
+		"price": "143 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_anderson",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/anderson-manufacturing-ar-15-tactical-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/anderson-manufacturing-ar-15-tactical-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Anderson Manufacturing charging handle"
+		"name": { 
+			"str": "Anderson Manufacturing charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "41 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true
-		},
-		
-		"//handedness": "dexterous",
-		"//latch": "extended",
+		"//features": [ 
+			"LATCH_EXTENDED" 
+		],
 		
 		"reload_modifier": -1,
 		
-		"price": "26 USD"
-	
+		"price": "26 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_wmd",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/wmd-guns-nib-x-nickel-boron-ar-15-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/wmd-guns-nib-x-nickel-boron-ar-15-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "WMD Guns NiB-X charging handle"
+		"name": { 
+			"str": "WMD Guns NiB-X charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "34 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": false
-		},
+		"//features": [],
 		
 		"reload_modifier": -1,
 		
-		"price": "33 USD"
-	
+		"price": "33 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_armaspec",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/armaspec-victory-ar15-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/armaspec-victory-ar15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Armaspec Victory charging handle"
+		"name": { 
+			"str": "Armaspec Victory charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "39 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED" 
+		],
 		
 		"reload_modifier": -3,
 		
-		"price": "66 USD"
-	
+		"price": "66 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_fortis_clutch",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/fortis-clutch-charging-handle-for-ar-15/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/fortis-clutch-charging-handle-for-ar-15/" 
 		],
 		
-		"name": {
-			"str": "Fortis Clutch charging handle"
+		"name": { 
+			"str": "Fortis Clutch charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "30 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SIDED"
-			]
-		},
+		"//features": [ 
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED",
+			"LATCH_SIDED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "45 USD"
-	
+		"price": "45 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_fortis_hammer",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/fortis-hammer-ar-15-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/fortis-hammer-ar-15-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Fortis Hammer charging handle"
+		"name": { 
+			"str": "Fortis Hammer charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "38 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED"
-			]
-		},
+		"//features": [ 
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED" 
+		],
 		
 		"reload_modifier": -3,
 		
-		"price": "70 USD"
-	
+		"price": "70 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_seekins",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/seekins-precision-dna-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/seekins-precision-dna-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Seekins Precision DNA charging handle"
+		"name": { 
+			"str": "Seekins Precision DNA charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "30 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": false,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED"
-			]
-		},
+		"//features": [ 
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "60 USD"
-	
+		"price": "60 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_odin",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/odin-works-ar-15-xch-extended-latch-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/odin-works-ar-15-xch-extended-latch-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "ODIN Works extended-latch charging handle"
+		"name": { 
+			"str": "ODIN Works extended-latch charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "35 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED"
-			]
-		},
+		"//features": [ 
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "45 USD"
-	
+		"price": "45 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_p5_ambi",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/phase-5-tactical-ambidextrous-ar-15-battle-latch-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/phase-5-tactical-ambidextrous-ar-15-battle-latch-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Phase 5 Battle Latch charging handle"
+		"name": { 
+			"str": "Phase 5 Battle Latch charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "48 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED" 
+		],
 		
 		"reload_modifier": -2,
 		
-		"price": "60 USD"
-	
+		"price": "60 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_nextlevel",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/next-level-armament-nlx-556-ambi-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/next-level-armament-nlx-556-ambi-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Next Level Armanent NLX-556 charging handle"
+		"name": { 
+			"str": "Next Level Armanent NLX-556 charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "41 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": true,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_EXTENDED",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED" 
+		],
 		
 		"reload_modifier": -3,
 		
-		"price": "80 USD"
-	
+		"price": "80 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_v7",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/v-seven-ultra-light-7075-charging-handle-with-extended-latch/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/v-seven-ultra-light-7075-charging-handle-with-extended-latch/" 
 		],
 		
-		"name": {
-			"str": "V Seven Ultra-Light charging handle"
+		"name": { 
+			"str": "V Seven Ultra-Light charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "41 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true,
-			"features": [
-				"PORTING"
-			]
-		},
+		"//features": [ 
+			"LATCH_EXTENDED",
+			"PORTING" 
+		],
 		
 		"reload_modifier": -1,
 		"handling_modifier": 1,
 		
-		"price": "59 USD"
-	
+		"price": "59 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_bravo",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/bravo-company-gunfighter-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/bravo-company-gunfighter-charging-handle/" 
 		],
 		"//note": "mod 3, large latch",
 
-		"name": {
-			"str": "Bravo Company GUNFIGHTER charging handle"
+		"name": { 
+			"str": "Bravo Company GUNFIGHTER charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "37 g",
 		
-		"//characteristics": {
-			"ambidextrous": false,
-			"latch_extended": true
-		},
+		"//features": [ 
+			"LATCH_EXTENDED" 
+		],
 		
 		"reload_modifier": -1,
 		
-		"price": "54 USD"
-	
+		"price": "54 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_bad",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/upper-receiver-parts/charging-handles/battle-arms-development-rack-ar-15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "Battle Arms Development RACK charging handle"
+		"name": { 
+			"str": "Battle Arms Development RACK charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "42 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": false,
-			"features": [
-				"LATCH_TEXTURED",
-				"LATCH_SKELETONIZED",
-				"DESIGN_ENHANCED"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_TEXTURED",
+			"LATCH_SKELETONIZED",
+			"DESIGN_ENHANCED" 
+		],
 		
 		"reload_modifier": -3,
 		
-		"price": "125 USD"
-	
+		"price": "125 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "charging_handle_ar15_f1",
 		"copy-from": "charging_handle_ar15",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/f-1-firearms-ar-15-ambidextrous-charging-handle/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/ar-15-upper-receiver-parts/charging-handles/f-1-firearms-ar-15-ambidextrous-charging-handle/" 
 		],
 		
-		"name": {
-			"str": "F-1 Firearms charging handle"
+		"name": { 
+			"str": "F-1 Firearms charging handle" 
 		},
 		"description": "TBD",
 		
 		"weight": "35 g",
 		
-		"//characteristics": {
-			"ambidextrous": true,
-			"latch_extended": false,
-			"features": [
-				"LATCH_TEXTURED",
-				"PORTING"
-			]
-		},
+		"//features": [ 
+			"AMBIDEXTEROUS",
+			"LATCH_TEXTURED",
+			"PORTING" 
+		],
 		
 		"reload_modifier": -2,
 		"handling_modifier": 1,
 		
-		"price": "95 USD"
-	
-	}
-
+		"price": "95 USD" 
+	} 
 ]

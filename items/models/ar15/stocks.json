@@ -1,17 +1,15 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"id": "stock_plate_battlearms",
 		"copy-from": "stock_plate",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/battle-arms-development-lightweight-buttstock/" 
 		],
 		
-		"name": {
-			"str": "Battle Arms Development stock plate"
+		"name": { 
+			"str": "Battle Arms Development stock plate" 
 		},
 		"description": "TBD",
 		
@@ -23,22 +21,20 @@
 		
 		"handling_modifier": 7,
 		
-		"price": "75 USD"
-	
+		"price": "75 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_plate_timbercreek",
 		"copy-from": "stock_plate",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://timbercreekoutdoorsinc.com/products/ms-rep"
+		"//source": [ 
+			"https://timbercreekoutdoorsinc.com/products/ms-rep" 
 		],
 		
-		"name": {
-			"str": "Timber Creek stock plate"
+		"name": { 
+			"str": "Timber Creek stock plate" 
 		},
 		"description": "TBD",
 		
@@ -51,22 +47,20 @@
 		
 		"handling_modifier": 7,
 		
-		"price": "70 USD"
-	
+		"price": "70 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_carbine_milspec_magpul_moe",
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/magpul-moe-carbine-stock-mil-spec/" 
 		],
 		
-		"name": {
-			"str": "Magpul MOE carbine milspec stock"
+		"name": { 
+			"str": "Magpul MOE carbine milspec stock" 
 		},
 		"description": "TBD",
 		
@@ -81,22 +75,20 @@
 		
 		"handling_modifier": 13,
 		
-		"price": "40 USD"
-	
+		"price": "40 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_carbine_milspec_strike_viper",
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/strike-industries-cqb-stock/" 
 		],
 		
-		"name": {
-			"str": "Strike Industries Viper carbine milspec stock"
+		"name": { 
+			"str": "Strike Industries Viper carbine milspec stock" 
 		},
 		"description": "TBD",
 		
@@ -111,22 +103,20 @@
 		
 		"handling_modifier": 10,
 		
-		"price": "50 USD"
-	
+		"price": "50 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_carbine_milspec_elftmann",
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/collapsible-stocks/elfmann-tactical-elf-ultralight-aluminum-stock/" 
 		],
 		
-		"name": {
-			"str": "Elftmann ELF carbine milspec stock"
+		"name": { 
+			"str": "Elftmann ELF carbine milspec stock" 
 		},
 		"description": "TBD",
 		
@@ -141,22 +131,20 @@
 		
 		"handling_modifier": 8,
 		
-		"price": "140 USD"
-	
+		"price": "140 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_rifle_milspec_luthar",
 		"copy-from": "stock_rifle_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/luth-ar-skullaton-ar-fixed-stock-mba-2/" 
 		],
 		
-		"name": {
-			"str": "LUTH-AR Skullaton rifle milspec stock"
+		"name": { 
+			"str": "LUTH-AR Skullaton rifle milspec stock" 
 		},
 		"description": "TBD",
 		
@@ -170,28 +158,26 @@
 		
 		"handling_modifier": 13,
 		
-		"price": "47 USD"
-	
+		"price": "47 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_rifle_milspec_magpul_prs",
 		"copy-from": "stock_rifle_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
-			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/"
+		"//source": [ 
+			"https://www.wingtactical.com/firearm-parts/ar-15/stocks-accessories/magpul-prs-gen-3-precision-adjustable-stock/" 
 		],
 		
-		"name": {
-			"str": "Magpul PRS Gen 3 rifle milspec stock"
+		"name": { 
+			"str": "Magpul PRS Gen 3 rifle milspec stock" 
 		},
 		"description": "TBD",
 		
 		"weight": "788 g",
 		"//volume": [ 
-			"20% trim because of the shape", 
+			"20% trim because of the shape",
 			"width and height assumed from previous entry" 
 		],
 		"volume": "1049 ml",
@@ -202,23 +188,21 @@
 		
 		"handling_modifier": 16,
 		
-		"price": "255 USD"
-	
+		"price": "255 USD" 
 	},
 	
-	{
-	
+	{ 
 		"id": "stock_carbine_milspec_strike",
 		"copy-from": "stock_carbine_milspec",
 		"type": "GUNMOD",
 		
-		"//source": [
+		"//source": [ 
 			"https://www.wingtactical.com/firearm-parts/ar-15-parts/stocks-accessories/strike-industries-modular-ar-fixed-stock/",
-			"assumes maximum length and no modularity"
+			"assumes maximum length and no modularity" 
 		],
 		
-		"name": {
-			"str": "Strike Industries carbine milspec stock"
+		"name": { 
+			"str": "Strike Industries carbine milspec stock" 
 		},
 		"description": "TBD",
 		
@@ -237,8 +221,6 @@
 		
 		"handling_modifier": 12,
 		
-		"price": "35 USD"
-	
-	}
-
+		"price": "35 USD" 
+	} 
 ]

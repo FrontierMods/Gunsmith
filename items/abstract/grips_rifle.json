@@ -1,7 +1,5 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"abstract": "grip_rifle",
 		"type": "GUNMOD",
 		
@@ -29,13 +27,11 @@
 			"smg",
 			"shotgun",
 			"crossbow",
-			"launcher"
+			"launcher" 
 		],
 		
-		"add_mod": [
-			[ "grip wrap", 1 ]
-		]
-	
-	}
-
+		"add_mod": [ 
+			[ "grip wrap", 1 ] 
+		] 
+	} 
 ]
