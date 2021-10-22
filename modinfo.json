@@ -1,23 +1,19 @@
-[
-
-	{
-	
+[ 
+	{ 
 		"type": "MOD_INFO",
 		"id": "gunsmith",
 		
 		"name": "Gunsmith",
 		"description": "Overhauls gunsmithing and gunmodding in the game, adding a large number of options for creating and modifying firearms",
 		
-		"authors": [ "Hyperseeker" ],
+		"authors": [ 
+			"Hyperseeker" 
+		],
 		
 		"category": "items",
 		
-		"dependencies": [ 
-		
-			"dda"
-			
-		]
-		
-	}
-	
+		"dependencies": [  
+			"dda" 
+		] 
+	} 
 ]
