@@ -10,7 +10,7 @@ Unless stated otherwise, values add up. Three different factors worth +1 each ad
 #### Handling
 
 * +4 — any grip
-* −1 — featureless grip fin
+* −2 — featureless grip fin
 * +1 — front side / back side to the grip
 * +1 — full-wrap grip: all four sides present
 * +1 — having a texture on the sides
