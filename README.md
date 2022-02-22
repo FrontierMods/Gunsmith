@@ -4,6 +4,8 @@
 
 It overhauls the gun modification system by providing a more in-depth view into the process. As a benefit, this overhaul also allows players to build their firearms from found parts.
 
+⚠ Frontier Mods now also hosts [a blog](https://github.com/FrontierMods/Blog) and [a design document](https://github.com/FrontierMods/Design). Subscribe to those to stay in touch with the development of the mods.
+
 
 ## Status
 
