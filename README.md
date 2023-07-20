@@ -4,18 +4,16 @@
 
 It overhauls the gun modification system by providing a more in-depth view into the process. As a benefit, this overhaul also allows players to build their firearms from found parts.
 
-⚠ Frontier Mods now also hosts [a blog](https://github.com/FrontierMods/Blog) and [a design document](https://github.com/FrontierMods/Design). Subscribe to those to stay in touch with the development of the mods.
+⚠ Since July 2023, Frontier Mods are being worked on again. However, Gunsmith and other large mods are on hold because of the amount of work that the developer would have to put into them. Refer to [the Frontier Mods blog](https://github.com/FrontierMods/Blog) for the latest updates.
 
 
 ## Status
 
-*Gunsmith* is currently in **DEMO 1**.
+*Gunsmith* is currently **on hold**.
 
-**DEMO 1** is a non-playable (i.e. unusable in a genuine playthrough) demonstration of the potential of an enhanced gunmod system. It overhauls the AR-15, an extremely modular rifle platform, and adds hundreds of new parts for dozens new slots. Overall, the overhauled system resembles the real gunsmithing experience (without the tools and the time requirements) closely.
+The mod had been tested up to 0.F-1 stable release of the game, and remains usable as a demonstation of the direction of the mod. All the documentation also remains accessible.
 
-The goal of **DEMO 1** is to gauge public interest and get feedback on both the concept and the details of implementation. Use debug menu to spawn the entire pack of additions or separate new parts, and leave your impressions in the Discussions section, and criticism or feature requests – in the Issues section.
-
-**NOTE**: this mod, including demo versions, is compatible with the latest stable release only.
+Until a positive solution is found to working on such a large-scale mod consistently, *Gunsmith* will remain on hold in favor of smaller, more-actionable mods for *Cataclysm*.
 
 
 ### Getting the New Stuff
